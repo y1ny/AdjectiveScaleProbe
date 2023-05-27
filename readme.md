@@ -1,4 +1,4 @@
-Code and dataset for the paper: "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?"
+This code for the paper: "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?", presented at AAAI 2023 (oral). See the paper and corresponding slides.
 
 # Data
 Directory data contains the NLI-style samples used in the paper.
