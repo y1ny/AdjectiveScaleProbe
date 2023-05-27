@@ -1,0 +1,2001 @@
+premise	hypothesis	label
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 600 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 620 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 640 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 660 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 680 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 700 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 720 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 740 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 760 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 780 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 800 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 820 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 840 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 860 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 880 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 900 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 920 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 940 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 960 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 980 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1000 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1020 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1040 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1060 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1080 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1100 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1120 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1140 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1160 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1180 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1200 m avenue is straight.	discard
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1220 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1240 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1260 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1280 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1300 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1320 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1340 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1360 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1380 m avenue is straight.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 600 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 620 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 640 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 660 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 680 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 700 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 720 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 740 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 760 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 780 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 800 m avenue is crooked.	discard
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 820 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 840 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 860 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 880 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 900 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 920 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 940 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 960 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 980 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1000 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1020 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1040 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1060 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1080 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1100 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1120 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1140 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1160 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1180 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1200 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1220 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1240 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1260 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1280 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1300 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1320 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1340 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1360 m avenue is crooked.	not_entailment
+A 1200 m avenue is straight. A 800 m avenue is crooked.	A 1380 m avenue is crooked.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 90 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 94 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 98 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 102 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 106 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 110 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 114 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 118 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 122 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 126 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 130 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 134 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 138 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 142 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 146 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 150 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 154 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 158 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 162 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 166 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 170 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 174 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 178 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 182 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 186 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 190 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 194 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 198 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 202 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 206 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 210 cm woman is right.	discard
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 214 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 218 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 222 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 226 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 230 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 234 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 238 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 242 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 246 cm woman is right.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 90 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 94 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 98 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 102 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 106 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 110 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 114 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 118 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 122 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 126 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 130 cm woman is incorrect.	discard
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 134 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 138 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 142 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 146 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 150 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 154 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 158 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 162 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 166 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 170 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 174 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 178 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 182 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 186 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 190 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 194 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 198 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 202 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 206 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 210 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 214 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 218 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 222 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 226 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 230 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 234 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 238 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 242 cm woman is incorrect.	not_entailment
+A 210 cm woman is right. A 130 cm woman is incorrect.	A 246 cm woman is incorrect.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 1920 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 1985 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2050 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2115 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2180 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2245 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2310 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2375 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2440 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2505 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2570 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2635 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2700 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2765 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2830 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2895 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2960 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3025 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3090 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3155 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3220 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3285 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3350 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3415 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3480 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3545 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3610 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3675 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3740 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3805 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3870 m mountain is beautiful.	discard
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3935 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4000 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4065 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4130 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4195 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4260 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4325 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4390 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4455 m mountain is beautiful.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 1920 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 1985 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2050 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2115 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2180 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2245 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2310 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2375 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2440 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2505 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2570 m mountain is ugly.	discard
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2635 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2700 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2765 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2830 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2895 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 2960 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3025 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3090 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3155 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3220 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3285 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3350 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3415 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3480 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3545 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3610 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3675 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3740 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3805 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3870 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 3935 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4000 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4065 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4130 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4195 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4260 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4325 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4390 m mountain is ugly.	not_entailment
+A 3870 m mountain is beautiful. A 2570 m mountain is ugly.	A 4455 m mountain is ugly.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 10 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 12 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 14 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 16 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 18 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 20 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 22 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 24 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 26 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 28 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 30 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 32 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 34 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 36 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 38 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 40 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 42 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 44 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 46 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 48 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 50 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 52 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 54 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 56 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 58 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 60 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 62 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 64 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 66 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 68 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 70 m hall is full.	discard
+A 70 m hall is full. A 30 m hall is empty.	A 72 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 74 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 76 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 78 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 80 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 82 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 84 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 86 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 88 m hall is full.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 10 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 12 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 14 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 16 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 18 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 20 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 22 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 24 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 26 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 28 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 30 m hall is empty.	discard
+A 70 m hall is full. A 30 m hall is empty.	A 32 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 34 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 36 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 38 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 40 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 42 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 44 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 46 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 48 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 50 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 52 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 54 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 56 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 58 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 60 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 62 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 64 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 66 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 68 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 70 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 72 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 74 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 76 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 78 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 80 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 82 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 84 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 86 m hall is empty.	not_entailment
+A 70 m hall is full. A 30 m hall is empty.	A 88 m hall is empty.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 60 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 62 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 64 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 66 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 68 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 70 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 72 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 74 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 76 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 78 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 80 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 82 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 84 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 86 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 88 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 90 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 92 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 94 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 96 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 98 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 100 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 102 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 104 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 106 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 108 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 110 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 112 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 114 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 116 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 118 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 120 cm beaver is good.	discard
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 122 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 124 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 126 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 128 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 130 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 132 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 134 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 136 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 138 cm beaver is good.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 60 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 62 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 64 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 66 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 68 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 70 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 72 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 74 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 76 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 78 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 80 cm beaver is bad.	discard
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 82 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 84 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 86 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 88 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 90 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 92 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 94 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 96 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 98 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 100 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 102 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 104 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 106 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 108 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 110 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 112 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 114 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 116 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 118 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 120 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 122 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 124 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 126 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 128 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 130 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 132 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 134 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 136 cm beaver is bad.	not_entailment
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 138 cm beaver is bad.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 300 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 310 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 320 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 330 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 340 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 350 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 360 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 370 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 380 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 390 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 400 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 410 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 420 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 430 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 440 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 450 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 460 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 470 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 480 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 490 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 500 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 510 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 520 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 530 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 540 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 550 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 560 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 570 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 580 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 590 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 600 m church is old.	discard
+A 600 m church is old. A 400 m church is new.	A 610 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 620 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 630 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 640 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 650 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 660 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 670 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 680 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 690 m church is old.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 300 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 310 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 320 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 330 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 340 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 350 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 360 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 370 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 380 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 390 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 400 m church is new.	discard
+A 600 m church is old. A 400 m church is new.	A 410 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 420 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 430 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 440 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 450 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 460 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 470 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 480 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 490 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 500 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 510 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 520 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 530 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 540 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 550 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 560 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 570 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 580 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 590 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 600 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 610 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 620 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 630 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 640 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 650 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 660 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 670 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 680 m church is new.	not_entailment
+A 600 m church is old. A 400 m church is new.	A 690 m church is new.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 600 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 620 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 640 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 660 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 680 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 700 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 720 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 740 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 760 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 780 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 800 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 820 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 840 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 860 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 880 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 900 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 920 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 940 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 960 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 980 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1000 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1020 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1040 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1060 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1080 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1100 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1120 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1140 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1160 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1180 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1200 m hill is flat.	discard
+A 1200 m hill is flat. A 800 m hill is natural.	A 1220 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1240 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1260 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1280 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1300 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1320 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1340 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1360 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1380 m hill is flat.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 600 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 620 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 640 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 660 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 680 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 700 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 720 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 740 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 760 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 780 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 800 m hill is natural.	discard
+A 1200 m hill is flat. A 800 m hill is natural.	A 820 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 840 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 860 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 880 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 900 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 920 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 940 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 960 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 980 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1000 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1020 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1040 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1060 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1080 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1100 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1120 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1140 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1160 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1180 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1200 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1220 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1240 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1260 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1280 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1300 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1320 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1340 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1360 m hill is natural.	not_entailment
+A 1200 m hill is flat. A 800 m hill is natural.	A 1380 m hill is natural.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 530 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 549 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 568 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 587 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 606 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 625 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 644 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 663 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 682 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 701 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 720 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 739 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 758 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 777 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 796 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 815 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 834 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 853 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 872 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 891 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 910 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 929 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 948 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 967 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 986 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1005 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1024 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1043 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1062 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1081 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1100 g pork is tender.	discard
+A 1100 g pork is tender. A 720 g pork is tough.	A 1119 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1138 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1157 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1176 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1195 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1214 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1233 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1252 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1271 g pork is tender.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 530 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 549 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 568 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 587 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 606 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 625 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 644 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 663 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 682 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 701 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 720 g pork is tough.	discard
+A 1100 g pork is tender. A 720 g pork is tough.	A 739 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 758 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 777 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 796 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 815 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 834 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 853 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 872 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 891 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 910 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 929 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 948 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 967 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 986 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1005 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1024 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1043 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1062 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1081 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1100 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1119 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1138 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1157 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1176 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1195 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1214 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1233 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1252 g pork is tough.	not_entailment
+A 1100 g pork is tender. A 720 g pork is tough.	A 1271 g pork is tough.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 110 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 114 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 118 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 122 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 126 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 130 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 134 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 138 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 142 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 146 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 150 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 154 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 158 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 162 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 166 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 170 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 174 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 178 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 182 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 186 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 190 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 194 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 198 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 202 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 206 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 210 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 214 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 218 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 222 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 226 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 230 g oil is still.	discard
+A 230 g oil is still. A 150 g oil is moving.	A 234 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 238 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 242 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 246 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 250 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 254 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 258 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 262 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 266 g oil is still.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 110 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 114 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 118 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 122 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 126 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 130 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 134 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 138 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 142 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 146 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 150 g oil is moving.	discard
+A 230 g oil is still. A 150 g oil is moving.	A 154 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 158 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 162 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 166 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 170 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 174 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 178 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 182 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 186 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 190 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 194 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 198 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 202 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 206 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 210 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 214 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 218 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 222 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 226 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 230 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 234 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 238 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 242 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 246 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 250 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 254 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 258 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 262 g oil is moving.	not_entailment
+A 230 g oil is still. A 150 g oil is moving.	A 266 g oil is moving.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2070 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2139 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2208 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2277 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2346 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2415 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2484 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2553 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2622 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2691 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2760 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2829 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2898 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2967 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3036 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3105 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3174 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3243 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3312 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3381 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3450 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3519 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3588 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3657 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3726 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3795 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3864 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3933 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4002 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4071 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4140 g guitar is loud.	discard
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4209 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4278 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4347 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4416 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4485 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4554 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4623 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4692 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4761 g guitar is loud.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2070 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2139 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2208 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2277 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2346 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2415 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2484 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2553 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2622 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2691 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2760 g guitar is soft.	discard
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2829 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2898 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 2967 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3036 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3105 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3174 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3243 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3312 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3381 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3450 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3519 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3588 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3657 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3726 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3795 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3864 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 3933 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4002 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4071 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4140 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4209 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4278 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4347 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4416 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4485 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4554 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4623 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4692 g guitar is soft.	not_entailment
+A 4140 g guitar is loud. A 2760 g guitar is soft.	A 4761 g guitar is soft.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 140 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 146 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 152 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 158 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 164 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 170 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 176 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 182 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 188 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 194 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 200 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 206 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 212 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 218 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 224 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 230 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 236 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 242 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 248 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 254 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 260 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 266 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 272 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 278 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 284 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 290 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 296 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 302 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 308 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 314 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 320 g bottle is empty.	discard
+A 320 g bottle is empty. A 200 g bottle is full.	A 326 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 332 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 338 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 344 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 350 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 356 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 362 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 368 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 374 g bottle is empty.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 140 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 146 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 152 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 158 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 164 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 170 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 176 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 182 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 188 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 194 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 200 g bottle is full.	discard
+A 320 g bottle is empty. A 200 g bottle is full.	A 206 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 212 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 218 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 224 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 230 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 236 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 242 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 248 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 254 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 260 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 266 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 272 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 278 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 284 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 290 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 296 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 302 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 308 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 314 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 320 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 326 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 332 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 338 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 344 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 350 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 356 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 362 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 368 g bottle is full.	not_entailment
+A 320 g bottle is empty. A 200 g bottle is full.	A 374 g bottle is full.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 810 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 838 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 866 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 894 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 922 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 950 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 978 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1006 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1034 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1062 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1090 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1118 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1146 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1174 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1202 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1230 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1258 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1286 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1314 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1342 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1370 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1398 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1426 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1454 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1482 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1510 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1538 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1566 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1594 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1622 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1650 g pizza is good.	discard
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1678 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1706 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1734 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1762 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1790 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1818 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1846 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1874 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1902 g pizza is good.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 810 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 838 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 866 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 894 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 922 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 950 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 978 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1006 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1034 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1062 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1090 g pizza is bad.	discard
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1118 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1146 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1174 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1202 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1230 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1258 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1286 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1314 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1342 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1370 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1398 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1426 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1454 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1482 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1510 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1538 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1566 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1594 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1622 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1650 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1678 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1706 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1734 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1762 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1790 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1818 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1846 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1874 g pizza is bad.	not_entailment
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1902 g pizza is bad.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 530 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 549 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 568 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 587 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 606 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 625 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 644 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 663 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 682 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 701 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 720 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 739 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 758 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 777 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 796 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 815 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 834 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 853 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 872 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 891 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 910 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 929 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 948 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 967 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 986 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1005 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1024 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1043 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1062 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1081 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1100 g walnut is new.	discard
+A 1100 g walnut is new. A 720 g walnut is old.	A 1119 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1138 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1157 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1176 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1195 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1214 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1233 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1252 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1271 g walnut is new.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 530 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 549 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 568 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 587 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 606 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 625 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 644 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 663 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 682 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 701 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 720 g walnut is old.	discard
+A 1100 g walnut is new. A 720 g walnut is old.	A 739 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 758 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 777 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 796 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 815 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 834 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 853 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 872 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 891 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 910 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 929 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 948 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 967 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 986 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1005 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1024 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1043 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1062 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1081 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1100 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1119 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1138 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1157 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1176 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1195 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1214 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1233 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1252 g walnut is old.	not_entailment
+A 1100 g walnut is new. A 720 g walnut is old.	A 1271 g walnut is old.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 23°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 25°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 27°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 29°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 31°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 33°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 35°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 37°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 39°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 41°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 43°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 45°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 47°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 49°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 51°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 53°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 55°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 57°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 59°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 61°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 63°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 65°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 67°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 69°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 71°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 73°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 75°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 77°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 79°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 81°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 83°C wax is soft.	discard
+A 83°C wax is soft. A 43°C wax is hard.	A 85°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 87°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 89°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 91°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 93°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 95°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 97°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 99°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 101°C wax is soft.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 23°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 25°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 27°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 29°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 31°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 33°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 35°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 37°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 39°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 41°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 43°C wax is hard.	discard
+A 83°C wax is soft. A 43°C wax is hard.	A 45°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 47°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 49°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 51°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 53°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 55°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 57°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 59°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 61°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 63°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 65°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 67°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 69°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 71°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 73°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 75°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 77°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 79°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 81°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 83°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 85°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 87°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 89°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 91°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 93°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 95°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 97°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 99°C wax is hard.	not_entailment
+A 83°C wax is soft. A 43°C wax is hard.	A 101°C wax is hard.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 96°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 100°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 104°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 108°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 112°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 116°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 120°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 124°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 128°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 132°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 136°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 140°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 144°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 148°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 152°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 156°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 160°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 164°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 168°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 172°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 176°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 180°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 184°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 188°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 192°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 196°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 200°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 204°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 208°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 212°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 216°C oven is clean.	discard
+A 216°C oven is clean. A 136°C oven is dirty.	A 220°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 224°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 228°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 232°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 236°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 240°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 244°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 248°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 252°C oven is clean.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 96°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 100°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 104°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 108°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 112°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 116°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 120°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 124°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 128°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 132°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 136°C oven is dirty.	discard
+A 216°C oven is clean. A 136°C oven is dirty.	A 140°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 144°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 148°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 152°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 156°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 160°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 164°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 168°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 172°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 176°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 180°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 184°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 188°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 192°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 196°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 200°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 204°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 208°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 212°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 216°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 220°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 224°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 228°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 232°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 236°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 240°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 244°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 248°C oven is dirty.	not_entailment
+A 216°C oven is clean. A 136°C oven is dirty.	A 252°C oven is dirty.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 40°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 42°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 44°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 46°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 48°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 50°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 52°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 54°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 56°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 58°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 60°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 62°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 64°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 66°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 68°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 70°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 72°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 74°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 76°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 78°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 80°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 82°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 84°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 86°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 88°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 90°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 92°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 94°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 96°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 98°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 100°C coffee is good.	discard
+A 100°C coffee is good. A 60°C coffee is bad.	A 102°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 104°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 106°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 108°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 110°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 112°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 114°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 116°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 118°C coffee is good.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 40°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 42°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 44°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 46°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 48°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 50°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 52°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 54°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 56°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 58°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 60°C coffee is bad.	discard
+A 100°C coffee is good. A 60°C coffee is bad.	A 62°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 64°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 66°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 68°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 70°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 72°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 74°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 76°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 78°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 80°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 82°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 84°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 86°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 88°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 90°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 92°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 94°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 96°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 98°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 100°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 102°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 104°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 106°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 108°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 110°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 112°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 114°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 116°C coffee is bad.	not_entailment
+A 100°C coffee is good. A 60°C coffee is bad.	A 118°C coffee is bad.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 47°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 49°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 51°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 53°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 55°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 57°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 59°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 61°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 63°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 65°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 67°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 69°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 71°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 73°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 75°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 77°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 79°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 81°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 83°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 85°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 87°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 89°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 91°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 93°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 95°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 97°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 99°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 101°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 103°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 105°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 107°C cup is full.	discard
+A 107°C cup is full. A 67°C cup is empty.	A 109°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 111°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 113°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 115°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 117°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 119°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 121°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 123°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 125°C cup is full.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 47°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 49°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 51°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 53°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 55°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 57°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 59°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 61°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 63°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 65°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 67°C cup is empty.	discard
+A 107°C cup is full. A 67°C cup is empty.	A 69°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 71°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 73°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 75°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 77°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 79°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 81°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 83°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 85°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 87°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 89°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 91°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 93°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 95°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 97°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 99°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 101°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 103°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 105°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 107°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 109°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 111°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 113°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 115°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 117°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 119°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 121°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 123°C cup is empty.	not_entailment
+A 107°C cup is full. A 67°C cup is empty.	A 125°C cup is empty.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 12°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 14°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 16°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 18°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 20°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 22°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 24°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 26°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 28°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 30°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 32°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 34°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 36°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 38°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 40°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 42°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 44°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 46°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 48°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 50°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 52°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 54°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 56°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 58°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 60°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 62°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 64°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 66°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 68°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 70°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 72°C pizza is good.	discard
+A 72°C pizza is good. A 32°C pizza is bad.	A 74°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 76°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 78°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 80°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 82°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 84°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 86°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 88°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 90°C pizza is good.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 12°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 14°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 16°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 18°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 20°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 22°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 24°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 26°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 28°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 30°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 32°C pizza is bad.	discard
+A 72°C pizza is good. A 32°C pizza is bad.	A 34°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 36°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 38°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 40°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 42°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 44°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 46°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 48°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 50°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 52°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 54°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 56°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 58°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 60°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 62°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 64°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 66°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 68°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 70°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 72°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 74°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 76°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 78°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 80°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 82°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 84°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 86°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 88°C pizza is bad.	not_entailment
+A 72°C pizza is good. A 32°C pizza is bad.	A 90°C pizza is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 45°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 47°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 49°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 51°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 53°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 55°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 57°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 59°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 61°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 63°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 65°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 67°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 69°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 71°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 73°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 75°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 77°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 79°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 81°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 83°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 85°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 87°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 89°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 91°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 93°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 95°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 97°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 99°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 101°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 103°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 105°C tea is good.	discard
+A 105°C tea is good. A 65°C tea is bad.	A 107°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 109°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 111°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 113°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 115°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 117°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 119°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 121°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 123°C tea is good.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 45°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 47°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 49°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 51°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 53°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 55°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 57°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 59°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 61°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 63°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 65°C tea is bad.	discard
+A 105°C tea is good. A 65°C tea is bad.	A 67°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 69°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 71°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 73°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 75°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 77°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 79°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 81°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 83°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 85°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 87°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 89°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 91°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 93°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 95°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 97°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 99°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 101°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 103°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 105°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 107°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 109°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 111°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 113°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 115°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 117°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 119°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 121°C tea is bad.	not_entailment
+A 105°C tea is good. A 65°C tea is bad.	A 123°C tea is bad.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $60 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $62 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $64 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $66 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $68 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $70 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $72 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $74 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $76 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $78 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $80 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $82 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $84 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $86 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $88 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $90 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $92 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $94 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $96 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $98 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $100 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $102 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $104 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $106 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $108 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $110 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $112 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $114 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $116 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $118 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $120 tool is useful.	discard
+A $120 tool is useful. A $80 tool is useless.	A $122 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $124 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $126 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $128 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $130 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $132 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $134 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $136 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $138 tool is useful.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $60 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $62 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $64 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $66 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $68 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $70 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $72 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $74 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $76 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $78 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $80 tool is useless.	discard
+A $120 tool is useful. A $80 tool is useless.	A $82 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $84 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $86 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $88 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $90 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $92 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $94 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $96 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $98 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $100 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $102 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $104 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $106 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $108 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $110 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $112 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $114 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $116 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $118 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $120 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $122 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $124 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $126 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $128 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $130 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $132 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $134 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $136 tool is useless.	not_entailment
+A $120 tool is useful. A $80 tool is useless.	A $138 tool is useless.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $215 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $223 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $231 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $239 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $247 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $255 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $263 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $271 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $279 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $287 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $295 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $303 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $311 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $319 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $327 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $335 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $343 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $351 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $359 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $367 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $375 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $383 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $391 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $399 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $407 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $415 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $423 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $431 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $439 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $447 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $455 watch is smart.	discard
+A $455 watch is smart. A $295 watch is stupid.	A $463 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $471 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $479 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $487 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $495 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $503 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $511 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $519 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $527 watch is smart.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $215 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $223 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $231 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $239 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $247 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $255 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $263 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $271 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $279 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $287 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $295 watch is stupid.	discard
+A $455 watch is smart. A $295 watch is stupid.	A $303 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $311 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $319 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $327 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $335 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $343 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $351 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $359 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $367 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $375 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $383 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $391 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $399 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $407 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $415 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $423 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $431 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $439 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $447 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $455 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $463 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $471 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $479 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $487 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $495 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $503 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $511 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $519 watch is stupid.	not_entailment
+A $455 watch is smart. A $295 watch is stupid.	A $527 watch is stupid.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1200 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1240 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1280 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1320 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1360 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1400 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1440 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1480 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1520 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1560 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1600 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1640 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1680 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1720 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1760 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1800 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1840 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1880 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1920 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1960 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2000 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2040 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2080 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2120 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2160 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2200 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2240 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2280 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2320 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2360 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2400 sculpture is abstract.	discard
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2440 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2480 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2520 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2560 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2600 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2640 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2680 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2720 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2760 sculpture is abstract.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1200 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1240 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1280 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1320 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1360 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1400 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1440 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1480 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1520 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1560 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1600 sculpture is concrete.	discard
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1640 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1680 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1720 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1760 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1800 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1840 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1880 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1920 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $1960 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2000 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2040 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2080 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2120 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2160 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2200 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2240 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2280 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2320 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2360 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2400 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2440 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2480 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2520 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2560 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2600 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2640 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2680 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2720 sculpture is concrete.	not_entailment
+A $2400 sculpture is abstract. A $1600 sculpture is concrete.	A $2760 sculpture is concrete.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6000 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7000 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8000 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9000 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10000 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11000 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12000 diamond is pure.	discard
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13000 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13200 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13400 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13600 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13800 diamond is pure.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6000 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $6800 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7000 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $7800 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8000 diamond is unsaturated.	discard
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $8800 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9000 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $9800 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10000 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $10800 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11000 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $11800 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12000 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $12800 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13000 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13200 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13400 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13600 diamond is unsaturated.	not_entailment
+A $12000 diamond is pure. A $8000 diamond is unsaturated.	A $13800 diamond is unsaturated.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $25 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $27 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $29 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $31 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $33 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $35 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $37 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $39 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $41 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $43 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $45 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $47 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $49 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $51 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $53 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $55 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $57 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $59 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $61 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $63 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $65 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $67 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $69 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $71 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $73 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $75 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $77 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $79 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $81 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $83 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $85 quilt is new.	discard
+A $85 quilt is new. A $45 quilt is old.	A $87 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $89 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $91 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $93 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $95 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $97 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $99 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $101 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $103 quilt is new.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $25 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $27 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $29 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $31 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $33 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $35 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $37 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $39 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $41 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $43 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $45 quilt is old.	discard
+A $85 quilt is new. A $45 quilt is old.	A $47 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $49 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $51 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $53 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $55 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $57 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $59 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $61 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $63 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $65 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $67 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $69 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $71 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $73 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $75 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $77 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $79 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $81 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $83 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $85 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $87 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $89 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $91 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $93 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $95 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $97 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $99 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $101 quilt is old.	not_entailment
+A $85 quilt is new. A $45 quilt is old.	A $103 quilt is old.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1500 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1550 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1600 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1650 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1700 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1750 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1800 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1850 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1900 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1950 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2000 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2050 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2100 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2150 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2200 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2250 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2300 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2350 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2400 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2450 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2500 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2550 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2600 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2650 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2700 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2750 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2800 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2850 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2900 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2950 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3000 engine is slow.	discard
+A $3000 engine is slow. A $2000 engine is fast.	A $3050 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3100 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3150 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3200 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3250 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3300 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3350 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3400 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3450 engine is slow.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1500 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1550 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1600 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1650 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1700 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1750 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1800 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1850 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1900 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $1950 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2000 engine is fast.	discard
+A $3000 engine is slow. A $2000 engine is fast.	A $2050 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2100 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2150 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2200 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2250 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2300 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2350 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2400 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2450 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2500 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2550 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2600 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2650 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2700 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2750 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2800 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2850 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2900 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $2950 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3000 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3050 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3100 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3150 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3200 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3250 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3300 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3350 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3400 engine is fast.	not_entailment
+A $3000 engine is slow. A $2000 engine is fast.	A $3450 engine is fast.	not_entailment

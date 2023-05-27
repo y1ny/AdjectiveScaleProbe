@@ -1,0 +1,2001 @@
+premise	hypothesis	label
+A 1200 m avenue is long. A 800 m avenue is short.	A 600 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 620 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 640 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 660 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 680 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 700 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 720 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 740 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 760 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 780 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 800 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 820 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 840 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 860 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 880 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 900 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 920 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 940 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 960 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 980 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1000 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1020 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1040 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1060 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1080 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1100 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1120 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1140 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1160 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1180 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1200 m mall is long.	discard
+A 1200 m avenue is long. A 800 m avenue is short.	A 1220 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1240 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1260 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1280 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1300 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1320 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1340 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1360 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1380 m mall is long.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 600 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 620 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 640 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 660 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 680 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 700 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 720 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 740 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 760 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 780 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 800 m mall is short.	discard
+A 1200 m avenue is long. A 800 m avenue is short.	A 820 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 840 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 860 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 880 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 900 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 920 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 940 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 960 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 980 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1000 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1020 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1040 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1060 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1080 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1100 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1120 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1140 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1160 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1180 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1200 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1220 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1240 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1260 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1280 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1300 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1320 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1340 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1360 m mall is short.	not_entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1380 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 10 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 12 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 14 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 16 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 18 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 20 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 22 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 24 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 26 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 28 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 30 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 32 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 34 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 36 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 38 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 40 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 42 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 44 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 46 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 48 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 50 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 52 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 54 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 56 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 58 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 60 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 62 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 64 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 66 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 68 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 70 m mall is long.	discard
+A 70 m path is long. A 30 m path is short.	A 72 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 74 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 76 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 78 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 80 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 82 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 84 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 86 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 88 m mall is long.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 10 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 12 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 14 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 16 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 18 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 20 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 22 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 24 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 26 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 28 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 30 m mall is short.	discard
+A 70 m path is long. A 30 m path is short.	A 32 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 34 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 36 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 38 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 40 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 42 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 44 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 46 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 48 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 50 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 52 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 54 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 56 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 58 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 60 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 62 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 64 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 66 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 68 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 70 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 72 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 74 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 76 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 78 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 80 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 82 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 84 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 86 m mall is short.	not_entailment
+A 70 m path is long. A 30 m path is short.	A 88 m mall is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 60 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 62 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 64 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 66 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 68 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 70 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 72 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 74 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 76 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 78 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 80 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 82 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 84 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 86 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 88 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 90 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 92 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 94 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 96 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 98 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 100 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 102 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 104 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 106 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 108 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 110 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 112 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 114 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 116 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 118 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 120 cm jaguar is long.	discard
+A 120 cm leg is long. A 80 cm leg is short.	A 122 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 124 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 126 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 128 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 130 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 132 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 134 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 136 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 138 cm jaguar is long.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 60 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 62 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 64 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 66 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 68 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 70 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 72 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 74 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 76 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 78 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 80 cm jaguar is short.	discard
+A 120 cm leg is long. A 80 cm leg is short.	A 82 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 84 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 86 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 88 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 90 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 92 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 94 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 96 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 98 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 100 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 102 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 104 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 106 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 108 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 110 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 112 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 114 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 116 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 118 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 120 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 122 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 124 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 126 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 128 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 130 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 132 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 134 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 136 cm jaguar is short.	not_entailment
+A 120 cm leg is long. A 80 cm leg is short.	A 138 cm jaguar is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 260 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 270 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 280 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 290 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 300 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 310 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 320 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 330 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 340 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 350 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 360 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 370 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 380 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 390 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 400 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 410 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 420 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 430 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 440 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 450 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 460 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 470 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 480 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 490 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 500 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 510 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 520 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 530 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 540 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 550 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 560 cm boulder is tall.	discard
+A 560 cm tree is tall. A 360 cm tree is short.	A 570 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 580 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 590 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 600 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 610 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 620 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 630 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 640 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 650 cm boulder is tall.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 260 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 270 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 280 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 290 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 300 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 310 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 320 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 330 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 340 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 350 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 360 cm boulder is short.	discard
+A 560 cm tree is tall. A 360 cm tree is short.	A 370 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 380 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 390 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 400 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 410 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 420 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 430 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 440 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 450 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 460 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 470 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 480 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 490 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 500 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 510 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 520 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 530 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 540 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 550 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 560 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 570 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 580 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 590 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 600 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 610 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 620 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 630 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 640 cm boulder is short.	not_entailment
+A 560 cm tree is tall. A 360 cm tree is short.	A 650 cm boulder is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 50 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 53 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 56 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 59 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 62 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 65 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 68 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 71 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 74 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 77 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 80 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 83 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 86 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 89 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 92 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 95 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 98 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 101 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 104 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 107 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 110 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 113 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 116 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 119 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 122 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 125 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 128 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 131 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 134 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 137 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 140 cm structure is tall.	discard
+A 140 cm dog is tall. A 80 cm dog is short.	A 143 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 146 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 149 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 152 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 155 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 158 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 161 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 164 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 167 cm structure is tall.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 50 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 53 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 56 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 59 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 62 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 65 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 68 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 71 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 74 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 77 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 80 cm structure is short.	discard
+A 140 cm dog is tall. A 80 cm dog is short.	A 83 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 86 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 89 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 92 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 95 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 98 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 101 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 104 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 107 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 110 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 113 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 116 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 119 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 122 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 125 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 128 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 131 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 134 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 137 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 140 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 143 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 146 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 149 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 152 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 155 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 158 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 161 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 164 cm structure is short.	not_entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 167 cm structure is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 30 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 32 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 34 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 36 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 38 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 40 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 42 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 44 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 46 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 48 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 50 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 52 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 54 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 56 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 58 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 60 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 62 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 64 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 66 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 68 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 70 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 72 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 74 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 76 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 78 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 80 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 82 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 84 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 86 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 88 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 90 m boulevard is long.	discard
+A 90 m bridge is long. A 50 m bridge is short.	A 92 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 94 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 96 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 98 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 100 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 102 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 104 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 106 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 108 m boulevard is long.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 30 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 32 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 34 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 36 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 38 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 40 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 42 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 44 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 46 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 48 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 50 m boulevard is short.	discard
+A 90 m bridge is long. A 50 m bridge is short.	A 52 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 54 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 56 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 58 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 60 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 62 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 64 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 66 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 68 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 70 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 72 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 74 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 76 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 78 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 80 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 82 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 84 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 86 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 88 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 90 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 92 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 94 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 96 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 98 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 100 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 102 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 104 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 106 m boulevard is short.	not_entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 108 m boulevard is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 30 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 32 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 34 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 36 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 38 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 40 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 42 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 44 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 46 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 48 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 50 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 52 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 54 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 56 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 58 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 60 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 62 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 64 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 66 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 68 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 70 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 72 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 74 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 76 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 78 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 80 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 82 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 84 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 86 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 88 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 90 cm pine is tall.	discard
+A 90 cm plant is tall. A 50 cm plant is short.	A 92 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 94 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 96 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 98 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 100 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 102 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 104 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 106 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 108 cm pine is tall.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 30 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 32 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 34 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 36 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 38 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 40 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 42 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 44 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 46 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 48 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 50 cm pine is short.	discard
+A 90 cm plant is tall. A 50 cm plant is short.	A 52 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 54 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 56 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 58 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 60 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 62 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 64 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 66 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 68 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 70 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 72 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 74 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 76 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 78 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 80 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 82 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 84 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 86 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 88 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 90 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 92 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 94 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 96 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 98 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 100 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 102 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 104 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 106 cm pine is short.	not_entailment
+A 90 cm plant is tall. A 50 cm plant is short.	A 108 cm pine is short.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 120 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 124 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 128 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 132 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 136 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 140 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 144 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 148 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 152 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 156 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 160 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 164 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 168 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 172 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 176 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 180 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 184 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 188 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 192 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 196 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 200 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 204 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 208 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 212 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 216 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 220 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 224 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 228 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 232 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 236 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 240 g vegetable is heavy.	discard
+A 240 g goat is heavy. A 160 g goat is light.	A 244 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 248 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 252 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 256 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 260 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 264 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 268 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 272 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 276 g vegetable is heavy.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 120 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 124 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 128 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 132 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 136 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 140 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 144 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 148 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 152 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 156 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 160 g vegetable is light.	discard
+A 240 g goat is heavy. A 160 g goat is light.	A 164 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 168 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 172 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 176 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 180 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 184 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 188 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 192 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 196 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 200 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 204 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 208 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 212 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 216 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 220 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 224 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 228 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 232 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 236 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 240 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 244 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 248 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 252 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 256 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 260 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 264 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 268 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 272 g vegetable is light.	not_entailment
+A 240 g goat is heavy. A 160 g goat is light.	A 276 g vegetable is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 50 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 52 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 54 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 56 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 58 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 60 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 62 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 64 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 66 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 68 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 70 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 72 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 74 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 76 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 78 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 80 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 82 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 84 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 86 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 88 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 90 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 92 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 94 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 96 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 98 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 100 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 102 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 104 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 106 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 108 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 110 kg jeep is heavy.	discard
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 112 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 114 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 116 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 118 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 120 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 122 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 124 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 126 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 128 kg jeep is heavy.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 50 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 52 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 54 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 56 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 58 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 60 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 62 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 64 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 66 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 68 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 70 kg jeep is light.	discard
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 72 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 74 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 76 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 78 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 80 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 82 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 84 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 86 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 88 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 90 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 92 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 94 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 96 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 98 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 100 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 102 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 104 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 106 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 108 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 110 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 112 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 114 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 116 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 118 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 120 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 122 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 124 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 126 kg jeep is light.	not_entailment
+A 110 kg poultry is heavy. A 70 kg poultry is light.	A 128 kg jeep is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 530 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 549 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 568 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 587 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 606 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 625 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 644 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 663 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 682 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 701 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 720 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 739 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 758 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 777 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 796 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 815 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 834 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 853 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 872 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 891 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 910 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 929 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 948 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 967 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 986 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1005 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1024 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1043 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1062 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1081 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1100 g iron is heavy.	discard
+A 1100 g pack is heavy. A 720 g pack is light.	A 1119 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1138 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1157 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1176 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1195 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1214 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1233 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1252 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1271 g iron is heavy.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 530 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 549 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 568 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 587 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 606 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 625 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 644 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 663 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 682 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 701 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 720 g iron is light.	discard
+A 1100 g pack is heavy. A 720 g pack is light.	A 739 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 758 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 777 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 796 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 815 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 834 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 853 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 872 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 891 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 910 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 929 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 948 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 967 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 986 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1005 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1024 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1043 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1062 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1081 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1100 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1119 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1138 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1157 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1176 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1195 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1214 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1233 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1252 g iron is light.	not_entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1271 g iron is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 900 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 931 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 962 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 993 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1024 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1055 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1086 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1117 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1148 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1179 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1210 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1241 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1272 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1303 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1334 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1365 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1396 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1427 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1458 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1489 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1520 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1551 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1582 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1613 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1644 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1675 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1706 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1737 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1768 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1799 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1830 kg cargo is heavy.	discard
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1861 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1892 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1923 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1954 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1985 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2016 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2047 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2078 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2109 kg cargo is heavy.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 900 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 931 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 962 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 993 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1024 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1055 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1086 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1117 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1148 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1179 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1210 kg cargo is light.	discard
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1241 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1272 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1303 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1334 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1365 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1396 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1427 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1458 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1489 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1520 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1551 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1582 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1613 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1644 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1675 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1706 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1737 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1768 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1799 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1830 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1861 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1892 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1923 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1954 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 1985 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2016 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2047 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2078 kg cargo is light.	not_entailment
+A 1830 kg tank is heavy. A 1210 kg tank is light.	A 2109 kg cargo is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 600 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 620 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 640 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 660 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 680 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 700 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 720 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 740 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 760 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 780 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 800 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 820 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 840 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 860 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 880 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 900 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 920 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 940 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 960 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 980 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1000 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1020 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1040 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1060 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1080 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1100 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1120 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1140 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1160 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1180 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1200 g infant is heavy.	discard
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1220 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1240 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1260 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1280 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1300 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1320 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1340 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1360 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1380 g infant is heavy.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 600 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 620 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 640 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 660 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 680 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 700 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 720 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 740 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 760 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 780 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 800 g infant is light.	discard
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 820 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 840 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 860 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 880 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 900 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 920 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 940 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 960 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 980 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1000 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1020 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1040 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1060 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1080 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1100 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1120 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1140 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1160 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1180 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1200 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1220 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1240 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1260 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1280 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1300 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1320 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1340 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1360 g infant is light.	not_entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1380 g infant is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3270 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3379 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3488 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3597 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3706 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3815 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3924 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4033 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4142 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4251 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4360 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4469 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4578 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4687 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4796 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4905 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5014 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5123 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5232 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5341 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5450 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5559 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5668 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5777 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5886 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5995 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6104 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6213 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6322 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6431 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6540 kg cargo is heavy.	discard
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6649 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6758 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6867 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6976 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7085 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7194 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7303 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7412 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7521 kg cargo is heavy.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3270 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3379 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3488 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3597 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3706 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3815 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 3924 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4033 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4142 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4251 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4360 kg cargo is light.	discard
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4469 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4578 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4687 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4796 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 4905 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5014 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5123 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5232 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5341 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5450 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5559 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5668 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5777 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5886 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 5995 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6104 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6213 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6322 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6431 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6540 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6649 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6758 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6867 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 6976 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7085 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7194 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7303 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7412 kg cargo is light.	not_entailment
+A 6540 kg whale is heavy. A 4360 kg whale is light.	A 7521 kg cargo is light.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 40°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 42°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 44°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 46°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 48°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 50°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 52°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 54°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 56°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 58°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 60°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 62°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 64°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 66°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 68°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 70°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 72°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 74°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 76°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 78°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 80°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 82°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 84°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 86°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 88°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 90°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 92°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 94°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 96°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 98°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 100°C grill is hot.	discard
+A 100°C coffee is hot. A 60°C coffee is cold.	A 102°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 104°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 106°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 108°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 110°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 112°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 114°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 116°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 118°C grill is hot.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 40°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 42°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 44°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 46°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 48°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 50°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 52°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 54°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 56°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 58°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 60°C grill is cold.	discard
+A 100°C coffee is hot. A 60°C coffee is cold.	A 62°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 64°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 66°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 68°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 70°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 72°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 74°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 76°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 78°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 80°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 82°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 84°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 86°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 88°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 90°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 92°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 94°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 96°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 98°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 100°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 102°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 104°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 106°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 108°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 110°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 112°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 114°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 116°C grill is cold.	not_entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 118°C grill is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 23°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 25°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 27°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 29°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 31°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 33°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 35°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 37°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 39°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 41°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 43°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 45°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 47°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 49°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 51°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 53°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 55°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 57°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 59°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 61°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 63°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 65°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 67°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 69°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 71°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 73°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 75°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 77°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 79°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 81°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 83°C coal is hot.	discard
+A 83°C wax is hot. A 43°C wax is cold.	A 85°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 87°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 89°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 91°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 93°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 95°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 97°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 99°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 101°C coal is hot.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 23°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 25°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 27°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 29°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 31°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 33°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 35°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 37°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 39°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 41°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 43°C coal is cold.	discard
+A 83°C wax is hot. A 43°C wax is cold.	A 45°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 47°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 49°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 51°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 53°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 55°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 57°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 59°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 61°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 63°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 65°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 67°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 69°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 71°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 73°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 75°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 77°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 79°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 81°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 83°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 85°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 87°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 89°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 91°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 93°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 95°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 97°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 99°C coal is cold.	not_entailment
+A 83°C wax is hot. A 43°C wax is cold.	A 101°C coal is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 15°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 17°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 19°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 21°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 23°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 25°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 27°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 29°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 31°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 33°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 35°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 37°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 39°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 41°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 43°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 45°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 47°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 49°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 51°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 53°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 55°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 57°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 59°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 61°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 63°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 65°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 67°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 69°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 71°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 73°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 75°C pot is hot.	discard
+A 75°C rice is hot. A 35°C rice is cold.	A 77°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 79°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 81°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 83°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 85°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 87°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 89°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 91°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 93°C pot is hot.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 15°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 17°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 19°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 21°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 23°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 25°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 27°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 29°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 31°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 33°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 35°C pot is cold.	discard
+A 75°C rice is hot. A 35°C rice is cold.	A 37°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 39°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 41°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 43°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 45°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 47°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 49°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 51°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 53°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 55°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 57°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 59°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 61°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 63°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 65°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 67°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 69°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 71°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 73°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 75°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 77°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 79°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 81°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 83°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 85°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 87°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 89°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 91°C pot is cold.	not_entailment
+A 75°C rice is hot. A 35°C rice is cold.	A 93°C pot is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 96°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 100°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 104°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 108°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 112°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 116°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 120°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 124°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 128°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 132°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 136°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 140°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 144°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 148°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 152°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 156°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 160°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 164°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 168°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 172°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 176°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 180°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 184°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 188°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 192°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 196°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 200°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 204°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 208°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 212°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 216°C coal is hot.	discard
+A 216°C bacon is hot. A 136°C bacon is cold.	A 220°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 224°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 228°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 232°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 236°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 240°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 244°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 248°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 252°C coal is hot.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 96°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 100°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 104°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 108°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 112°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 116°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 120°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 124°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 128°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 132°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 136°C coal is cold.	discard
+A 216°C bacon is hot. A 136°C bacon is cold.	A 140°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 144°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 148°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 152°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 156°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 160°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 164°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 168°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 172°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 176°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 180°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 184°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 188°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 192°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 196°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 200°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 204°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 208°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 212°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 216°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 220°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 224°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 228°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 232°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 236°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 240°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 244°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 248°C coal is cold.	not_entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 252°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 110°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 114°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 118°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 122°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 126°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 130°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 134°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 138°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 142°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 146°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 150°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 154°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 158°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 162°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 166°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 170°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 174°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 178°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 182°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 186°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 190°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 194°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 198°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 202°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 206°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 210°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 214°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 218°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 222°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 226°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 230°C coal is hot.	discard
+A 230°C grill is hot. A 150°C grill is cold.	A 234°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 238°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 242°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 246°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 250°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 254°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 258°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 262°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 266°C coal is hot.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 110°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 114°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 118°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 122°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 126°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 130°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 134°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 138°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 142°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 146°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 150°C coal is cold.	discard
+A 230°C grill is hot. A 150°C grill is cold.	A 154°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 158°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 162°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 166°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 170°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 174°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 178°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 182°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 186°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 190°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 194°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 198°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 202°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 206°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 210°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 214°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 218°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 222°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 226°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 230°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 234°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 238°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 242°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 246°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 250°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 254°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 258°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 262°C coal is cold.	not_entailment
+A 230°C grill is hot. A 150°C grill is cold.	A 266°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 56°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 58°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 60°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 62°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 64°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 66°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 68°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 70°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 72°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 74°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 76°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 78°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 80°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 82°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 84°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 86°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 88°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 90°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 92°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 94°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 96°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 98°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 100°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 102°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 104°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 106°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 108°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 110°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 112°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 114°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 116°C coal is hot.	discard
+A 116°C sauce is hot. A 76°C sauce is cold.	A 118°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 120°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 122°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 124°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 126°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 128°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 130°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 132°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 134°C coal is hot.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 56°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 58°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 60°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 62°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 64°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 66°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 68°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 70°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 72°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 74°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 76°C coal is cold.	discard
+A 116°C sauce is hot. A 76°C sauce is cold.	A 78°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 80°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 82°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 84°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 86°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 88°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 90°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 92°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 94°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 96°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 98°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 100°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 102°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 104°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 106°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 108°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 110°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 112°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 114°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 116°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 118°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 120°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 122°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 124°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 126°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 128°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 130°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 132°C coal is cold.	not_entailment
+A 116°C sauce is hot. A 76°C sauce is cold.	A 134°C coal is cold.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $66 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $69 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $72 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $75 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $78 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $81 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $84 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $87 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $90 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $93 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $96 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $99 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $102 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $105 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $108 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $111 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $114 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $117 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $120 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $123 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $126 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $129 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $132 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $135 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $138 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $141 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $144 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $147 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $150 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $153 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $156 ruby is expensive.	discard
+A $156 tracker is expensive. A $96 tracker is cheap.	A $159 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $162 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $165 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $168 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $171 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $174 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $177 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $180 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $183 ruby is expensive.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $66 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $69 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $72 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $75 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $78 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $81 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $84 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $87 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $90 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $93 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $96 ruby is cheap.	discard
+A $156 tracker is expensive. A $96 tracker is cheap.	A $99 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $102 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $105 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $108 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $111 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $114 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $117 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $120 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $123 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $126 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $129 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $132 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $135 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $138 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $141 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $144 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $147 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $150 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $153 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $156 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $159 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $162 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $165 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $168 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $171 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $174 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $177 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $180 ruby is cheap.	not_entailment
+A $156 tracker is expensive. A $96 tracker is cheap.	A $183 ruby is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $749 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $774 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $799 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $824 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $849 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $874 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $899 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $924 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $949 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $974 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $999 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1024 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1049 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1074 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1099 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1124 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1149 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1174 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1199 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1224 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1249 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1274 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1299 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1324 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1349 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1374 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1399 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1424 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1449 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1474 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1499 equipment is expensive.	discard
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1524 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1549 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1574 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1599 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1624 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1649 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1674 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1699 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1724 equipment is expensive.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $749 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $774 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $799 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $824 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $849 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $874 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $899 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $924 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $949 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $974 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $999 equipment is cheap.	discard
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1024 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1049 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1074 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1099 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1124 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1149 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1174 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1199 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1224 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1249 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1274 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1299 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1324 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1349 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1374 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1399 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1424 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1449 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1474 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1499 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1524 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1549 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1574 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1599 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1624 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1649 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1674 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1699 equipment is cheap.	not_entailment
+A $1499 workstation is expensive. A $999 workstation is cheap.	A $1724 equipment is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $10 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $12 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $14 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $16 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $18 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $20 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $22 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $24 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $26 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $28 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $30 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $32 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $34 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $36 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $38 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $40 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $42 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $44 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $46 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $48 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $50 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $52 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $54 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $56 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $58 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $60 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $62 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $64 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $66 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $68 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $70 ring is expensive.	discard
+A $70 decor is expensive. A $30 decor is cheap.	A $72 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $74 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $76 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $78 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $80 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $82 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $84 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $86 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $88 ring is expensive.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $10 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $12 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $14 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $16 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $18 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $20 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $22 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $24 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $26 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $28 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $30 ring is cheap.	discard
+A $70 decor is expensive. A $30 decor is cheap.	A $32 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $34 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $36 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $38 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $40 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $42 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $44 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $46 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $48 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $50 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $52 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $54 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $56 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $58 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $60 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $62 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $64 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $66 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $68 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $70 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $72 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $74 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $76 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $78 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $80 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $82 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $84 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $86 ring is cheap.	not_entailment
+A $70 decor is expensive. A $30 decor is cheap.	A $88 ring is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $9 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $11 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $13 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $15 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $17 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $19 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $21 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $23 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $25 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $27 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $29 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $31 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $33 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $35 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $37 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $39 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $41 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $43 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $45 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $47 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $49 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $51 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $53 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $55 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $57 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $59 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $61 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $63 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $65 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $67 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $69 scanner is expensive.	discard
+A $69 game is expensive. A $29 game is cheap.	A $71 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $73 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $75 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $77 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $79 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $81 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $83 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $85 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $87 scanner is expensive.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $9 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $11 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $13 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $15 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $17 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $19 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $21 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $23 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $25 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $27 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $29 scanner is cheap.	discard
+A $69 game is expensive. A $29 game is cheap.	A $31 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $33 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $35 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $37 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $39 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $41 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $43 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $45 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $47 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $49 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $51 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $53 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $55 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $57 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $59 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $61 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $63 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $65 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $67 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $69 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $71 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $73 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $75 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $77 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $79 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $81 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $83 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $85 scanner is cheap.	not_entailment
+A $69 game is expensive. A $29 game is cheap.	A $87 scanner is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $300 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $310 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $320 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $330 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $340 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $350 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $360 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $370 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $380 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $390 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $400 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $410 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $420 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $430 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $440 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $450 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $460 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $470 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $480 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $490 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $500 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $510 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $520 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $530 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $540 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $550 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $560 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $570 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $580 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $590 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $600 ruby is expensive.	discard
+A $600 motor is expensive. A $400 motor is cheap.	A $610 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $620 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $630 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $640 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $650 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $660 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $670 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $680 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $690 ruby is expensive.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $300 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $310 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $320 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $330 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $340 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $350 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $360 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $370 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $380 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $390 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $400 ruby is cheap.	discard
+A $600 motor is expensive. A $400 motor is cheap.	A $410 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $420 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $430 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $440 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $450 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $460 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $470 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $480 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $490 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $500 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $510 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $520 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $530 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $540 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $550 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $560 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $570 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $580 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $590 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $600 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $610 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $620 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $630 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $640 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $650 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $660 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $670 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $680 ruby is cheap.	not_entailment
+A $600 motor is expensive. A $400 motor is cheap.	A $690 ruby is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $52 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $54 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $56 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $58 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $60 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $62 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $64 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $66 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $68 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $70 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $72 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $74 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $76 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $78 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $80 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $82 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $84 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $86 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $88 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $90 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $92 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $94 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $96 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $98 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $100 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $102 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $104 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $106 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $108 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $110 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $112 appliance is expensive.	discard
+A $112 medication is expensive. A $72 medication is cheap.	A $114 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $116 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $118 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $120 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $122 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $124 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $126 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $128 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $130 appliance is expensive.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $52 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $54 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $56 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $58 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $60 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $62 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $64 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $66 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $68 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $70 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $72 appliance is cheap.	discard
+A $112 medication is expensive. A $72 medication is cheap.	A $74 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $76 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $78 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $80 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $82 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $84 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $86 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $88 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $90 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $92 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $94 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $96 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $98 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $100 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $102 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $104 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $106 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $108 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $110 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $112 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $114 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $116 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $118 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $120 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $122 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $124 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $126 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $128 appliance is cheap.	not_entailment
+A $112 medication is expensive. A $72 medication is cheap.	A $130 appliance is cheap.	not_entailment

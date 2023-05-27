@@ -1,0 +1,1001 @@
+premise	hypothesis	label
+The stream is smoother than the rock.	The stream is smooth.	not_entailment
+The stream is smoother than the rock.	The rock is not smooth.	entailment
+The wall is dryer than the painting.	The wall is dry.	not_entailment
+The wall is dryer than the painting.	The painting is not dry.	entailment
+The voyeur is more silent than the actor.	The voyeur is silent.	not_entailment
+The voyeur is more silent than the actor.	The actor is not silent.	entailment
+The white is purer than the evil.	The white is pure.	not_entailment
+The white is purer than the evil.	The evil is not pure.	entailment
+The roof is neater than the fit.	The roof is neat.	not_entailment
+The roof is neater than the fit.	The fit is not neat.	entailment
+The puzzle is more impossible than the fight.	The puzzle is impossible.	not_entailment
+The puzzle is more impossible than the fight.	The fight is not impossible.	entailment
+The air is smoother than the mesh.	The air is smooth.	not_entailment
+The air is smoother than the mesh.	The mesh is not smooth.	entailment
+The history is clearer than the day.	The history is clear.	not_entailment
+The history is clearer than the day.	The day is not clear.	entailment
+The choice is more impossible than the process.	The choice is impossible.	not_entailment
+The choice is more impossible than the process.	The process is not impossible.	entailment
+The earth is purer than the origin.	The earth is pure.	not_entailment
+The earth is purer than the origin.	The origin is not pure.	entailment
+The pottery is completer than the system.	The pottery is complete.	not_entailment
+The pottery is completer than the system.	The system is not complete.	entailment
+The heart is healthier than the combination.	The heart is healthy.	not_entailment
+The heart is healthier than the combination.	The combination is not healthy.	entailment
+The return is more certain than the making.	The return is certain.	not_entailment
+The return is more certain than the making.	The making is not certain.	entailment
+The header is more original than the strip.	The header is original.	not_entailment
+The header is more original than the strip.	The strip is not original.	entailment
+The city is neater than the group.	The city is neat.	not_entailment
+The city is neater than the group.	The group is not neat.	entailment
+The horse is safer than the area.	The horse is safe.	not_entailment
+The horse is safer than the area.	The area is not safe.	entailment
+The pilot is safer than the carrier.	The pilot is safe.	not_entailment
+The pilot is safer than the carrier.	The carrier is not safe.	entailment
+The crystal is purer than the sound.	The crystal is pure.	not_entailment
+The crystal is purer than the sound.	The sound is not pure.	entailment
+The throat is dryer than the bay.	The throat is dry.	not_entailment
+The throat is dryer than the bay.	The bay is not dry.	entailment
+The earth is cleaner than the hotel.	The earth is clean.	not_entailment
+The earth is cleaner than the hotel.	The hotel is not clean.	entailment
+The radio is more silent than the bass.	The radio is silent.	not_entailment
+The radio is more silent than the bass.	The bass is not silent.	entailment
+The direction is straighter than the pin.	The direction is straight.	not_entailment
+The direction is straighter than the pin.	The pin is not straight.	entailment
+The pipeline is completer than the search.	The pipeline is complete.	not_entailment
+The pipeline is completer than the search.	The search is not complete.	entailment
+The studio is more silent than the planet.	The studio is silent.	not_entailment
+The studio is more silent than the planet.	The planet is not silent.	entailment
+The ending is clearer than the system.	The ending is clear.	not_entailment
+The ending is clearer than the system.	The system is not clear.	entailment
+The film is more independent than the program.	The film is independent.	not_entailment
+The film is more independent than the program.	The program is not independent.	entailment
+The tissue is more normal than the outlook.	The tissue is normal.	not_entailment
+The tissue is more normal than the outlook.	The outlook is not normal.	entailment
+The safari is more original than the cap.	The safari is original.	not_entailment
+The safari is more original than the cap.	The cap is not original.	entailment
+The bibliography is completer than the announcement.	The bibliography is complete.	not_entailment
+The bibliography is completer than the announcement.	The announcement is not complete.	entailment
+The transfer is completer than the transaction.	The transfer is complete.	not_entailment
+The transfer is completer than the transaction.	The transaction is not complete.	entailment
+The target is more impossible than the key.	The target is impossible.	not_entailment
+The target is more impossible than the key.	The key is not impossible.	entailment
+The package is completer than the sale.	The package is complete.	not_entailment
+The package is completer than the sale.	The sale is not complete.	entailment
+The difference is more certain than the edge.	The difference is certain.	not_entailment
+The difference is more certain than the edge.	The edge is not certain.	entailment
+The height is more normal than the sequence.	The height is normal.	not_entailment
+The height is more normal than the sequence.	The sequence is not normal.	entailment
+The west is flatter than the street.	The west is flat.	not_entailment
+The west is flatter than the street.	The street is not flat.	entailment
+The wash is dryer than the painting.	The wash is dry.	not_entailment
+The wash is dryer than the painting.	The painting is not dry.	entailment
+The criticism is more acceptable than the theory.	The criticism is acceptable.	not_entailment
+The criticism is more acceptable than the theory.	The theory is not acceptable.	entailment
+The sentence is completer than the release.	The sentence is complete.	not_entailment
+The sentence is completer than the release.	The release is not complete.	entailment
+The objective is more definite than the growth.	The objective is definite.	not_entailment
+The objective is more definite than the growth.	The growth is not definite.	entailment
+The font is more original than the link.	The font is original.	not_entailment
+The font is more original than the link.	The link is not original.	entailment
+The majority is more definite than the sentence.	The majority is definite.	not_entailment
+The majority is more definite than the sentence.	The sentence is not definite.	entailment
+The hotel is neater than the list.	The hotel is neat.	not_entailment
+The hotel is neater than the list.	The list is not neat.	entailment
+The sand is smoother than the writing.	The sand is smooth.	not_entailment
+The sand is smoother than the writing.	The writing is not smooth.	entailment
+The music is more silent than the setting.	The music is silent.	not_entailment
+The music is more silent than the setting.	The setting is not silent.	entailment
+The patient is safer than the staff.	The patient is safe.	not_entailment
+The patient is safer than the staff.	The staff is not safe.	entailment
+The man is safer than the target.	The man is safe.	not_entailment
+The man is safer than the target.	The target is not safe.	entailment
+The research is more independent than the resolution.	The research is independent.	not_entailment
+The research is more independent than the resolution.	The resolution is not independent.	entailment
+The child is healthier than the produce.	The child is healthy.	not_entailment
+The child is healthier than the produce.	The produce is not healthy.	entailment
+The architecture is more modern than the music.	The architecture is modern.	not_entailment
+The architecture is more modern than the music.	The music is not modern.	entailment
+The fire is safer than the office.	The fire is safe.	not_entailment
+The fire is safer than the office.	The office is not safe.	entailment
+The line is smoother than the pan.	The line is smooth.	not_entailment
+The line is smoother than the pan.	The pan is not smooth.	entailment
+The ideal is more impossible than the door.	The ideal is impossible.	not_entailment
+The ideal is more impossible than the door.	The door is not impossible.	entailment
+The opportunity is clearer than the preference.	The opportunity is clear.	not_entailment
+The opportunity is clearer than the preference.	The preference is not clear.	entailment
+The publication is more independent than the entity.	The publication is independent.	not_entailment
+The publication is more independent than the entity.	The entity is not independent.	entailment
+The heart is purer than the jewellery.	The heart is pure.	not_entailment
+The heart is purer than the jewellery.	The jewellery is not pure.	entailment
+The situation is more impossible than the loan.	The situation is impossible.	not_entailment
+The situation is more impossible than the loan.	The loan is not impossible.	entailment
+The field is flatter than the sky.	The field is flat.	not_entailment
+The field is flatter than the sky.	The sky is not flat.	entailment
+The house is safer than the park.	The house is safe.	not_entailment
+The house is safer than the park.	The park is not safe.	entailment
+The studio is cleaner than the bottle.	The studio is clean.	not_entailment
+The studio is cleaner than the bottle.	The bottle is not clean.	entailment
+The handbook is more modern than the name.	The handbook is modern.	not_entailment
+The handbook is more modern than the name.	The name is not modern.	entailment
+The gold is purer than the forest.	The gold is pure.	not_entailment
+The gold is purer than the forest.	The forest is not pure.	entailment
+The animal is healthier than the commonwealth.	The animal is healthy.	not_entailment
+The animal is healthier than the commonwealth.	The commonwealth is not healthy.	entailment
+The river is smoother than the handling.	The river is smooth.	not_entailment
+The river is smoother than the handling.	The handling is not smooth.	entailment
+The improvement is more definite than the assessment.	The improvement is definite.	not_entailment
+The improvement is more definite than the assessment.	The assessment is not definite.	entailment
+The road is cleaner than the city.	The road is clean.	not_entailment
+The road is cleaner than the city.	The city is not clean.	entailment
+The jewellery is more original than the label.	The jewellery is original.	not_entailment
+The jewellery is more original than the label.	The label is not original.	entailment
+The glass is cleaner than the creek.	The glass is clean.	not_entailment
+The glass is cleaner than the creek.	The creek is not clean.	entailment
+The glossary is more original than the guitar.	The glossary is original.	not_entailment
+The glossary is more original than the guitar.	The guitar is not original.	entailment
+The bottom is flatter than the chest.	The bottom is flat.	not_entailment
+The bottom is flatter than the chest.	The chest is not flat.	entailment
+The meat is dryer than the oil.	The meat is dry.	not_entailment
+The meat is dryer than the oil.	The oil is not dry.	entailment
+The planet is flatter than the nose.	The planet is flat.	not_entailment
+The planet is flatter than the nose.	The nose is not flat.	entailment
+The priority is clearer than the explanation.	The priority is clear.	not_entailment
+The priority is clearer than the explanation.	The explanation is not clear.	entailment
+The award is more independent than the operation.	The award is independent.	not_entailment
+The award is more independent than the operation.	The operation is not independent.	entailment
+The leather is smoother than the path.	The leather is smooth.	not_entailment
+The leather is smoother than the path.	The path is not smooth.	entailment
+The decline is more definite than the distance.	The decline is definite.	not_entailment
+The decline is more definite than the distance.	The distance is not definite.	entailment
+The sand is dryer than the well.	The sand is dry.	not_entailment
+The sand is dryer than the well.	The well is not dry.	entailment
+The place is cleaner than the plasma.	The place is clean.	not_entailment
+The place is cleaner than the plasma.	The plasma is not clean.	entailment
+The ebony is purer than the drug.	The ebony is pure.	not_entailment
+The ebony is purer than the drug.	The drug is not pure.	entailment
+The parallel is straighter than the shoulder.	The parallel is straight.	not_entailment
+The parallel is straighter than the shoulder.	The shoulder is not straight.	entailment
+The quality is more acceptable than the spending.	The quality is acceptable.	not_entailment
+The quality is more acceptable than the spending.	The spending is not acceptable.	entailment
+The kitchen is more modern than the duke.	The kitchen is modern.	not_entailment
+The kitchen is more modern than the duke.	The duke is not modern.	entailment
+The scene is more silent than the video.	The scene is silent.	not_entailment
+The scene is more silent than the video.	The video is not silent.	entailment
+The concrete is smoother than the performance.	The concrete is smooth.	not_entailment
+The concrete is smoother than the performance.	The performance is not smooth.	entailment
+The locator is more original than the brochure.	The locator is original.	not_entailment
+The locator is more original than the brochure.	The brochure is not original.	entailment
+The operator is safer than the motor.	The operator is safe.	not_entailment
+The operator is safer than the motor.	The motor is not safe.	entailment
+The dust is dryer than the river.	The dust is dry.	not_entailment
+The dust is dryer than the river.	The river is not dry.	entailment
+The coast is cleaner than the cell.	The coast is clean.	not_entailment
+The coast is cleaner than the cell.	The cell is not clean.	entailment
+The reed is purer than the sea.	The reed is pure.	not_entailment
+The reed is purer than the sea.	The sea is not pure.	entailment
+The land is dryer than the system.	The land is dry.	not_entailment
+The land is dryer than the system.	The system is not dry.	entailment
+The farm is healthier than the rat.	The farm is healthy.	not_entailment
+The farm is healthier than the rat.	The rat is not healthy.	entailment
+The sky is dryer than the rice.	The sky is dry.	not_entailment
+The sky is dryer than the rice.	The rice is not dry.	entailment
+The rest is more original than the emphasis.	The rest is original.	not_entailment
+The rest is more original than the emphasis.	The emphasis is not original.	entailment
+The council is more independent than the film.	The council is independent.	not_entailment
+The council is more independent than the film.	The film is not independent.	entailment
+The balance is more acceptable than the principle.	The balance is acceptable.	not_entailment
+The balance is more acceptable than the principle.	The principle is not acceptable.	entailment
+The beginning is more definite than the risk.	The beginning is definite.	not_entailment
+The beginning is more definite than the risk.	The risk is not definite.	entailment
+The car is cleaner than the future.	The car is clean.	not_entailment
+The car is cleaner than the future.	The future is not clean.	entailment
+The system is cleaner than the ring.	The system is clean.	not_entailment
+The system is cleaner than the ring.	The ring is not clean.	entailment
+The messaging is clearer than the decline.	The messaging is clear.	not_entailment
+The messaging is clearer than the decline.	The decline is not clear.	entailment
+The street is flatter than the park.	The street is flat.	not_entailment
+The street is flatter than the park.	The park is not flat.	entailment
+The pantyhose is more modern than the technology.	The pantyhose is modern.	not_entailment
+The pantyhose is more modern than the technology.	The technology is not modern.	entailment
+The ringtone is more original than the emphasis.	The ringtone is original.	not_entailment
+The ringtone is more original than the emphasis.	The emphasis is not original.	entailment
+The freeware is purer than the plastic.	The freeware is pure.	not_entailment
+The freeware is purer than the plastic.	The plastic is not pure.	entailment
+The seed is purer than the produce.	The seed is pure.	not_entailment
+The seed is purer than the produce.	The produce is not pure.	entailment
+The cost is more certain than the relationship.	The cost is certain.	not_entailment
+The cost is more certain than the relationship.	The relationship is not certain.	entailment
+The father is healthier than the muscle.	The father is healthy.	not_entailment
+The father is healthier than the muscle.	The muscle is not healthy.	entailment
+The agreement is completer than the kit.	The agreement is complete.	not_entailment
+The agreement is completer than the kit.	The kit is not complete.	entailment
+The plan is neater than the architecture.	The plan is neat.	not_entailment
+The plan is neater than the architecture.	The architecture is not neat.	entailment
+The song is more original than the concept.	The song is original.	not_entailment
+The song is more original than the concept.	The concept is not original.	entailment
+The behaviour is more normal than the rest.	The behaviour is normal.	not_entailment
+The behaviour is more normal than the rest.	The rest is not normal.	entailment
+The road is dryer than the meat.	The road is dry.	not_entailment
+The road is dryer than the meat.	The meat is not dry.	entailment
+The bird is healthier than the republic.	The bird is healthy.	not_entailment
+The bird is healthier than the republic.	The republic is not healthy.	entailment
+The hall is more silent than the library.	The hall is silent.	not_entailment
+The hall is more silent than the library.	The library is not silent.	entailment
+The census is completer than the recruitment.	The census is complete.	not_entailment
+The census is completer than the recruitment.	The recruitment is not complete.	entailment
+The operation is completer than the tour.	The operation is complete.	not_entailment
+The operation is completer than the tour.	The tour is not complete.	entailment
+The rest is more certain than the wind.	The rest is certain.	not_entailment
+The rest is more certain than the wind.	The wind is not certain.	entailment
+The neck is smoother than the swing.	The neck is smooth.	not_entailment
+The neck is smoother than the swing.	The swing is not smooth.	entailment
+The border is straighter than the line.	The border is straight.	not_entailment
+The border is straighter than the line.	The line is not straight.	entailment
+The truth is more acceptable than the economy.	The truth is acceptable.	not_entailment
+The truth is more acceptable than the economy.	The economy is not acceptable.	entailment
+The situation is clearer than the air.	The situation is clear.	not_entailment
+The situation is clearer than the air.	The air is not clear.	entailment
+The farm is neater than the structure.	The farm is neat.	not_entailment
+The farm is neater than the structure.	The structure is not neat.	entailment
+The person is safer than the bus.	The person is safe.	not_entailment
+The person is safer than the bus.	The bus is not safe.	entailment
+The hardcover is more original than the reed.	The hardcover is original.	not_entailment
+The hardcover is more original than the reed.	The reed is not original.	entailment
+The mystery is completer than the build.	The mystery is complete.	not_entailment
+The mystery is completer than the build.	The build is not complete.	entailment
+The future is more acceptable than the risk.	The future is acceptable.	not_entailment
+The future is more acceptable than the risk.	The risk is not acceptable.	entailment
+The middle is flatter than the area.	The middle is flat.	not_entailment
+The middle is flatter than the area.	The area is not flat.	entailment
+The appearance is more normal than the test.	The appearance is normal.	not_entailment
+The appearance is more normal than the test.	The test is not normal.	entailment
+The duke is more certain than the relationship.	The duke is certain.	not_entailment
+The duke is more certain than the relationship.	The relationship is not certain.	entailment
+The economy is flatter than the pan.	The economy is flat.	not_entailment
+The economy is flatter than the pan.	The pan is not flat.	entailment
+The clothing is more modern than the mall.	The clothing is modern.	not_entailment
+The clothing is more modern than the mall.	The mall is not modern.	entailment
+The job is completer than the review.	The job is complete.	not_entailment
+The job is completer than the review.	The review is not complete.	entailment
+The game is completer than the review.	The game is complete.	not_entailment
+The game is completer than the review.	The review is not complete.	entailment
+The baby is healthier than the park.	The baby is healthy.	not_entailment
+The baby is healthier than the park.	The park is not healthy.	entailment
+The ice is smoother than the tail.	The ice is smooth.	not_entailment
+The ice is smoother than the tail.	The tail is not smooth.	entailment
+The vista is more certain than the principle.	The vista is certain.	not_entailment
+The vista is more certain than the principle.	The principle is not certain.	entailment
+The restoration is completer than the chain.	The restoration is complete.	not_entailment
+The restoration is completer than the chain.	The chain is not complete.	entailment
+The packaging is more modern than the pantyhose.	The packaging is modern.	not_entailment
+The packaging is more modern than the pantyhose.	The pantyhose is not modern.	entailment
+The reviewer is more independent than the body.	The reviewer is independent.	not_entailment
+The reviewer is more independent than the body.	The body is not independent.	entailment
+The beach is cleaner than the bar.	The beach is clean.	not_entailment
+The beach is cleaner than the bar.	The bar is not clean.	entailment
+The proof is more certain than the pain.	The proof is certain.	not_entailment
+The proof is more certain than the pain.	The pain is not certain.	entailment
+The set is completer than the map.	The set is complete.	not_entailment
+The set is completer than the map.	The map is not complete.	entailment
+The impact is more certain than the air.	The impact is certain.	not_entailment
+The impact is more certain than the air.	The air is not certain.	entailment
+The male is healthier than the guy.	The male is healthy.	not_entailment
+The male is healthier than the guy.	The guy is not healthy.	entailment
+The content is more original than the pottery.	The content is original.	not_entailment
+The content is more original than the pottery.	The pottery is not original.	entailment
+The position is more definite than the importance.	The position is definite.	not_entailment
+The position is more definite than the importance.	The importance is not definite.	entailment
+The square is neater than the cord.	The square is neat.	not_entailment
+The square is neater than the cord.	The cord is not neat.	entailment
+The host is more silent than the aircraft.	The host is silent.	not_entailment
+The host is more silent than the aircraft.	The aircraft is not silent.	entailment
+The fund is more independent than the enterprise.	The fund is independent.	not_entailment
+The fund is more independent than the enterprise.	The enterprise is not independent.	entailment
+The shape is neater than the form.	The shape is neat.	not_entailment
+The shape is neater than the form.	The form is not neat.	entailment
+The powder is dryer than the canvas.	The powder is dry.	not_entailment
+The powder is dryer than the canvas.	The canvas is not dry.	entailment
+The trend is clearer than the passion.	The trend is clear.	not_entailment
+The trend is clearer than the passion.	The passion is not clear.	entailment
+The past is more certain than the money.	The past is certain.	not_entailment
+The past is more certain than the money.	The money is not certain.	entailment
+The crew is more silent than the watch.	The crew is silent.	not_entailment
+The crew is more silent than the watch.	The watch is not silent.	entailment
+The floor is smoother than the fabric.	The floor is smooth.	not_entailment
+The floor is smoother than the fabric.	The fabric is not smooth.	entailment
+The ban is completer than the bankruptcy.	The ban is complete.	not_entailment
+The ban is completer than the bankruptcy.	The bankruptcy is not complete.	entailment
+The positive is more definite than the choice.	The positive is definite.	not_entailment
+The positive is more definite than the choice.	The choice is not definite.	entailment
+The island is flatter than the canvas.	The island is flat.	not_entailment
+The island is flatter than the canvas.	The canvas is not flat.	entailment
+The blade is smoother than the highway.	The blade is smooth.	not_entailment
+The blade is smoother than the highway.	The highway is not smooth.	entailment
+The surgery is completer than the circuit.	The surgery is complete.	not_entailment
+The surgery is completer than the circuit.	The circuit is not complete.	entailment
+The edge is cleaner than the shirt.	The edge is clean.	not_entailment
+The edge is cleaner than the shirt.	The shirt is not clean.	entailment
+The theater is more silent than the administration.	The theater is silent.	not_entailment
+The theater is more silent than the administration.	The administration is not silent.	entailment
+The river is straighter than the green.	The river is straight.	not_entailment
+The river is straighter than the green.	The green is not straight.	entailment
+The glossary is completer than the cover.	The glossary is complete.	not_entailment
+The glossary is completer than the cover.	The cover is not complete.	entailment
+The date is more definite than the spin.	The date is definite.	not_entailment
+The date is more definite than the spin.	The spin is not definite.	entailment
+The plan is more impossible than the master.	The plan is impossible.	not_entailment
+The plan is more impossible than the master.	The master is not impossible.	entailment
+The ending is more impossible than the program.	The ending is impossible.	not_entailment
+The ending is more impossible than the program.	The program is not impossible.	entailment
+The water is flatter than the car.	The water is flat.	not_entailment
+The water is flatter than the car.	The car is not flat.	entailment
+The evidence is more definite than the finding.	The evidence is definite.	not_entailment
+The evidence is more definite than the finding.	The finding is not definite.	entailment
+The transition is possibler than the distance.	The transition is possible.	entailment
+The transition is possibler than the distance.	The distance is not possible.	not_entailment
+The change is more profound than the process.	The change is profound.	entailment
+The change is more profound than the process.	The process is not profound.	not_entailment
+The sea is sicker than the lady.	The sea is sick.	entailment
+The sea is sicker than the lady.	The lady is not sick.	not_entailment
+The world is odder than the dialogue.	The world is odd.	entailment
+The world is odder than the dialogue.	The dialogue is not odd.	not_entailment
+The process is possibler than the repeat.	The process is possible.	entailment
+The process is possibler than the repeat.	The repeat is not possible.	not_entailment
+The scene is more dangerous than the zone.	The scene is dangerous.	entailment
+The scene is more dangerous than the zone.	The zone is not dangerous.	not_entailment
+The price is crazier than the orgy.	The price is crazy.	entailment
+The price is crazier than the orgy.	The orgy is not crazy.	not_entailment
+The future is sicker than the word.	The future is sick.	entailment
+The future is sicker than the word.	The word is not sick.	not_entailment
+The industry is sicker than the individual.	The industry is sick.	entailment
+The industry is sicker than the individual.	The individual is not sick.	not_entailment
+The word is dirtier than the lane.	The word is dirty.	entailment
+The word is dirtier than the lane.	The lane is not dirty.	not_entailment
+The logic is odder than the length.	The logic is odd.	entailment
+The logic is odder than the length.	The length is not odd.	not_entailment
+The occupation is more dangerous than the neighborhood.	The occupation is dangerous.	entailment
+The occupation is more dangerous than the neighborhood.	The neighborhood is not dangerous.	not_entailment
+The cost is more uncertain than the move.	The cost is uncertain.	entailment
+The cost is more uncertain than the move.	The move is not uncertain.	not_entailment
+The title is vaguer than the ideal.	The title is vague.	entailment
+The title is vaguer than the ideal.	The ideal is not vague.	not_entailment
+The cotton is wetter than the plate.	The cotton is wet.	entailment
+The cotton is wetter than the plate.	The plate is not wet.	not_entailment
+The ocean is rougher than the ford.	The ocean is rough.	entailment
+The ocean is rougher than the ford.	The ford is not rough.	not_entailment
+The virus is more dangerous than the message.	The virus is dangerous.	entailment
+The virus is more dangerous than the message.	The message is not dangerous.	not_entailment
+The reality is rougher than the film.	The reality is rough.	entailment
+The reality is rougher than the film.	The film is not rough.	not_entailment
+The pattern is more similar than the movie.	The pattern is similar.	entailment
+The pattern is more similar than the movie.	The movie is not similar.	not_entailment
+The climate is more different than the way.	The climate is different.	entailment
+The climate is more different than the way.	The way is not different.	not_entailment
+The cost is more similar than the tone.	The cost is similar.	entailment
+The cost is more similar than the tone.	The tone is not similar.	not_entailment
+The messaging is more different than the psychology.	The messaging is different.	entailment
+The messaging is more different than the psychology.	The psychology is not different.	not_entailment
+The sound is more similar than the middle.	The sound is similar.	entailment
+The sound is more similar than the middle.	The middle is not similar.	not_entailment
+The gap is more profound than the talent.	The gap is profound.	entailment
+The gap is more profound than the talent.	The talent is not profound.	not_entailment
+The music is more different than the focus.	The music is different.	entailment
+The music is more different than the focus.	The focus is not different.	not_entailment
+The psychology is more different than the sky.	The psychology is different.	entailment
+The psychology is more different than the sky.	The sky is not different.	not_entailment
+The word is crazier than the film.	The word is crazy.	entailment
+The word is crazier than the film.	The film is not crazy.	not_entailment
+The street is rougher than the morning.	The street is rough.	entailment
+The street is rougher than the morning.	The morning is not rough.	not_entailment
+The camcorder is more special than the soul.	The camcorder is special.	entailment
+The camcorder is more special than the soul.	The soul is not special.	not_entailment
+The paint is dirtier than the tape.	The paint is dirty.	entailment
+The paint is dirtier than the tape.	The tape is not dirty.	not_entailment
+The problem is more similar than the hardware.	The problem is similar.	entailment
+The problem is more similar than the hardware.	The hardware is not similar.	not_entailment
+The promise is vaguer than the basis.	The promise is vague.	entailment
+The promise is vaguer than the basis.	The basis is not vague.	not_entailment
+The mind is crazier than the fashion.	The mind is crazy.	entailment
+The mind is crazier than the fashion.	The fashion is not crazy.	not_entailment
+The finish is possibler than the walk.	The finish is possible.	entailment
+The finish is possibler than the walk.	The walk is not possible.	not_entailment
+The extent is more profound than the toll.	The extent is profound.	entailment
+The extent is more profound than the toll.	The toll is not profound.	not_entailment
+The interior is rougher than the joint.	The interior is rough.	entailment
+The interior is rougher than the joint.	The joint is not rough.	not_entailment
+The edge is rougher than the leather.	The edge is rough.	entailment
+The edge is rougher than the leather.	The leather is not rough.	not_entailment
+The angle is odder than the tie.	The angle is odd.	entailment
+The angle is odder than the tie.	The tie is not odd.	not_entailment
+The result is more uncertain than the choice.	The result is uncertain.	entailment
+The result is more uncertain than the choice.	The choice is not uncertain.	not_entailment
+The sea is more dangerous than the practice.	The sea is dangerous.	entailment
+The sea is more dangerous than the practice.	The practice is not dangerous.	not_entailment
+The way is more uncertain than the danger.	The way is uncertain.	entailment
+The way is more uncertain than the danger.	The danger is not uncertain.	not_entailment
+The right is crazier than the bar.	The right is crazy.	entailment
+The right is crazier than the bar.	The bar is not crazy.	not_entailment
+The valley is rougher than the scale.	The valley is rough.	entailment
+The valley is rougher than the scale.	The scale is not rough.	not_entailment
+The answer is possibler than the outcome.	The answer is possible.	entailment
+The answer is possibler than the outcome.	The outcome is not possible.	not_entailment
+The pottery is more different than the volume.	The pottery is different.	entailment
+The pottery is more different than the volume.	The volume is not different.	not_entailment
+The child is hungrier than the father.	The child is hungry.	entailment
+The child is hungrier than the father.	The father is not hungry.	not_entailment
+The ratio is odder than the attitude.	The ratio is odd.	entailment
+The ratio is odder than the attitude.	The attitude is not odd.	not_entailment
+The situation is more uncertain than the calendar.	The situation is uncertain.	entailment
+The situation is more uncertain than the calendar.	The calendar is not uncertain.	not_entailment
+The threat is more profound than the word.	The threat is profound.	entailment
+The threat is more profound than the word.	The word is not profound.	not_entailment
+The psychology is more similar than the equipment.	The psychology is similar.	entailment
+The psychology is more similar than the equipment.	The equipment is not similar.	not_entailment
+The power is crazier than the gang.	The power is crazy.	entailment
+The power is crazier than the gang.	The gang is not crazy.	not_entailment
+The environment is more uncertain than the structure.	The environment is uncertain.	entailment
+The environment is more uncertain than the structure.	The structure is not uncertain.	not_entailment
+The feel is more different than the beginning.	The feel is different.	entailment
+The feel is more different than the beginning.	The beginning is not different.	not_entailment
+The word is more special than the service.	The word is special.	entailment
+The word is more special than the service.	The service is not special.	not_entailment
+The output is more similar than the rear.	The output is similar.	entailment
+The output is more similar than the rear.	The rear is not similar.	not_entailment
+The dog is sicker than the engine.	The dog is sick.	entailment
+The dog is sicker than the engine.	The engine is not sick.	not_entailment
+The intelligence is vaguer than the relation.	The intelligence is vague.	entailment
+The intelligence is vaguer than the relation.	The relation is not vague.	not_entailment
+The bank is sicker than the cook.	The bank is sick.	entailment
+The bank is sicker than the cook.	The cook is not sick.	not_entailment
+The taste is odder than the situation.	The taste is odd.	entailment
+The taste is odder than the situation.	The situation is not odd.	not_entailment
+The world is possibler than the balance.	The world is possible.	entailment
+The world is possibler than the balance.	The balance is not possible.	not_entailment
+The problem is more profound than the shock.	The problem is profound.	entailment
+The problem is more profound than the shock.	The shock is not profound.	not_entailment
+The return is more uncertain than the space.	The return is uncertain.	entailment
+The return is more uncertain than the space.	The space is not uncertain.	not_entailment
+The plot is odder than the move.	The plot is odd.	entailment
+The plot is odder than the move.	The move is not odd.	not_entailment
+The wolf is sicker than the fish.	The wolf is sick.	entailment
+The wolf is sicker than the fish.	The fish is not sick.	not_entailment
+The location is more uncertain than the delay.	The location is uncertain.	entailment
+The location is more uncertain than the delay.	The delay is not uncertain.	not_entailment
+The name is vaguer than the commission.	The name is vague.	entailment
+The name is vaguer than the commission.	The commission is not vague.	not_entailment
+The diet is more similar than the path.	The diet is similar.	entailment
+The diet is more similar than the path.	The path is not similar.	not_entailment
+The farm is dirtier than the hair.	The farm is dirty.	entailment
+The farm is dirtier than the hair.	The hair is not dirty.	not_entailment
+The oracle is possibler than the failure.	The oracle is possible.	entailment
+The oracle is possibler than the failure.	The failure is not possible.	not_entailment
+The path is rougher than the grass.	The path is rough.	entailment
+The path is rougher than the grass.	The grass is not rough.	not_entailment
+The reason is odder than the distance.	The reason is odd.	entailment
+The reason is odder than the distance.	The distance is not odd.	not_entailment
+The date is more special than the heart.	The date is special.	entailment
+The date is more special than the heart.	The heart is not special.	not_entailment
+The ending is more special than the christmas.	The ending is special.	entailment
+The ending is more special than the christmas.	The christmas is not special.	not_entailment
+The hardware is more different than the ratio.	The hardware is different.	entailment
+The hardware is more different than the ratio.	The ratio is not different.	not_entailment
+The mother is sicker than the disease.	The mother is sick.	entailment
+The mother is sicker than the disease.	The disease is not sick.	not_entailment
+The media is dirtier than the pool.	The media is dirty.	entailment
+The media is dirtier than the pool.	The pool is not dirty.	not_entailment
+The difference is more profound than the success.	The difference is profound.	entailment
+The difference is more profound than the success.	The success is not profound.	not_entailment
+The blood is dirtier than the box.	The blood is dirty.	entailment
+The blood is dirtier than the box.	The box is not dirty.	not_entailment
+The software is more similar than the food.	The software is similar.	entailment
+The software is more similar than the food.	The food is not similar.	not_entailment
+The feeling is more different than the atmosphere.	The feeling is different.	entailment
+The feeling is more different than the atmosphere.	The atmosphere is not different.	not_entailment
+The order is vaguer than the ordering.	The order is vague.	entailment
+The order is vaguer than the ordering.	The ordering is not vague.	not_entailment
+The finish is rougher than the sound.	The finish is rough.	entailment
+The finish is rougher than the sound.	The sound is not rough.	not_entailment
+The response is more uncertain than the conclusion.	The response is uncertain.	entailment
+The response is more uncertain than the conclusion.	The conclusion is not uncertain.	not_entailment
+The villa is more special than the president.	The villa is special.	entailment
+The villa is more special than the president.	The president is not special.	not_entailment
+The environment is more different than the background.	The environment is different.	entailment
+The environment is more different than the background.	The background is not different.	not_entailment
+The jewellery is possibler than the planning.	The jewellery is possible.	entailment
+The jewellery is possibler than the planning.	The planning is not possible.	not_entailment
+The sea is dirtier than the milk.	The sea is dirty.	entailment
+The sea is dirtier than the milk.	The milk is not dirty.	not_entailment
+The planet is crazier than the girl.	The planet is crazy.	entailment
+The planet is crazier than the girl.	The girl is not crazy.	not_entailment
+The move is possibler than the negative.	The move is possible.	entailment
+The move is possibler than the negative.	The negative is not possible.	not_entailment
+The beach is dirtier than the power.	The beach is dirty.	entailment
+The beach is dirtier than the power.	The power is not dirty.	not_entailment
+The difficulty is more profound than the change.	The difficulty is profound.	entailment
+The difficulty is more profound than the change.	The change is not profound.	not_entailment
+The syntax is more similar than the architecture.	The syntax is similar.	entailment
+The syntax is more similar than the architecture.	The architecture is not similar.	not_entailment
+The contrast is more profound than the departure.	The contrast is profound.	entailment
+The contrast is more profound than the departure.	The departure is not profound.	not_entailment
+The concept is more similar than the effect.	The concept is similar.	entailment
+The concept is more similar than the effect.	The effect is not similar.	not_entailment
+The industry is hungrier than the state.	The industry is hungry.	entailment
+The industry is hungrier than the state.	The state is not hungry.	not_entailment
+The core is more different than the mechanism.	The core is different.	entailment
+The core is more different than the mechanism.	The mechanism is not different.	not_entailment
+The scene is more uncertain than the cost.	The scene is uncertain.	entailment
+The scene is more uncertain than the cost.	The cost is not uncertain.	not_entailment
+The result is more different than the point.	The result is different.	entailment
+The result is more different than the point.	The point is not different.	not_entailment
+The end is more uncertain than the leadership.	The end is uncertain.	entailment
+The end is more uncertain than the leadership.	The leadership is not uncertain.	not_entailment
+The woman is crazier than the feel.	The woman is crazy.	entailment
+The woman is crazier than the feel.	The feel is not crazy.	not_entailment
+The mystery is more profound than the philosophy.	The mystery is profound.	entailment
+The mystery is more profound than the philosophy.	The philosophy is not profound.	not_entailment
+The park is wetter than the bowl.	The park is wet.	entailment
+The park is wetter than the bowl.	The bowl is not wet.	not_entailment
+The devil is hungrier than the scene.	The devil is hungry.	entailment
+The devil is hungrier than the scene.	The scene is not hungry.	not_entailment
+The combination is possibler than the dream.	The combination is possible.	entailment
+The combination is possibler than the dream.	The dream is not possible.	not_entailment
+The bukkake is wetter than the milk.	The bukkake is wet.	entailment
+The bukkake is wetter than the milk.	The milk is not wet.	not_entailment
+The taste is more different than the cost.	The taste is different.	entailment
+The taste is more different than the cost.	The cost is not different.	not_entailment
+The river is wetter than the window.	The river is wet.	entailment
+The river is wetter than the window.	The window is not wet.	not_entailment
+The plot is vaguer than the usage.	The plot is vague.	entailment
+The plot is vaguer than the usage.	The usage is not vague.	not_entailment
+The air is sicker than the past.	The air is sick.	entailment
+The air is sicker than the past.	The past is not sick.	not_entailment
+The ride is crazier than the army.	The ride is crazy.	entailment
+The ride is crazier than the army.	The army is not crazy.	not_entailment
+The money is dirtier than the job.	The money is dirty.	entailment
+The money is dirtier than the job.	The job is not dirty.	not_entailment
+The future is more uncertain than the way.	The future is uncertain.	entailment
+The future is more uncertain than the way.	The way is not uncertain.	not_entailment
+The mood is more different than the economy.	The mood is different.	entailment
+The mood is more different than the economy.	The economy is not different.	not_entailment
+The world is rougher than the metal.	The world is rough.	entailment
+The world is rougher than the metal.	The metal is not rough.	not_entailment
+The tone is odder than the outcome.	The tone is odd.	entailment
+The tone is odder than the outcome.	The outcome is not odd.	not_entailment
+The atmosphere is more dangerous than the possibility.	The atmosphere is dangerous.	entailment
+The atmosphere is more dangerous than the possibility.	The possibility is not dangerous.	not_entailment
+The goal is possibler than the walk.	The goal is possible.	entailment
+The goal is possibler than the walk.	The walk is not possible.	not_entailment
+The truth is more profound than the rise.	The truth is profound.	entailment
+The truth is more profound than the rise.	The rise is not profound.	not_entailment
+The relief is more profound than the desire.	The relief is profound.	entailment
+The relief is more profound than the desire.	The desire is not profound.	not_entailment
+The back is more similar than the oracle.	The back is similar.	entailment
+The back is more similar than the oracle.	The oracle is not similar.	not_entailment
+The track is rougher than the morning.	The track is rough.	entailment
+The track is rougher than the morning.	The morning is not rough.	not_entailment
+The military is more different than the focus.	The military is different.	entailment
+The military is more different than the focus.	The focus is not different.	not_entailment
+The complexity is more profound than the story.	The complexity is profound.	entailment
+The complexity is more profound than the story.	The story is not profound.	not_entailment
+The future is more special than the challenge.	The future is special.	entailment
+The future is more special than the challenge.	The challenge is not special.	not_entailment
+The situation is more similar than the movie.	The situation is similar.	entailment
+The situation is more similar than the movie.	The movie is not similar.	not_entailment
+The loss is more profound than the departure.	The loss is profound.	entailment
+The loss is more profound than the departure.	The departure is not profound.	not_entailment
+The news is crazier than the teacher.	The news is crazy.	entailment
+The news is crazier than the teacher.	The teacher is not crazy.	not_entailment
+The glass is wetter than the fly.	The glass is wet.	entailment
+The glass is wetter than the fly.	The fly is not wet.	not_entailment
+The mood is more uncertain than the possibility.	The mood is uncertain.	entailment
+The mood is more uncertain than the possibility.	The possibility is not uncertain.	not_entailment
+The poetry is more profound than the sense.	The poetry is profound.	entailment
+The poetry is more profound than the sense.	The sense is not profound.	not_entailment
+The offer is vaguer than the connection.	The offer is vague.	entailment
+The offer is vaguer than the connection.	The connection is not vague.	not_entailment
+The media is hungrier than the editor.	The media is hungry.	entailment
+The media is hungrier than the editor.	The editor is not hungry.	not_entailment
+The border is rougher than the background.	The border is rough.	entailment
+The border is rougher than the background.	The background is not rough.	not_entailment
+The camcorder is more similar than the philosophy.	The camcorder is similar.	entailment
+The camcorder is more similar than the philosophy.	The philosophy is not similar.	not_entailment
+The market is more uncertain than the effectiveness.	The market is uncertain.	entailment
+The market is more uncertain than the effectiveness.	The effectiveness is not uncertain.	not_entailment
+The general is sicker than the money.	The general is sick.	entailment
+The general is sicker than the money.	The money is not sick.	not_entailment
+The surface is dirtier than the rice.	The surface is dirty.	entailment
+The surface is dirtier than the rice.	The rice is not dirty.	not_entailment
+The girl is sicker than the teacher.	The girl is sick.	entailment
+The girl is sicker than the teacher.	The teacher is not sick.	not_entailment
+The floor is dirtier than the thing.	The floor is dirty.	entailment
+The floor is dirtier than the thing.	The thing is not dirty.	not_entailment
+The web is dirtier than the van.	The web is dirty.	entailment
+The web is dirtier than the van.	The van is not dirty.	not_entailment
+The solution is possibler than the process.	The solution is possible.	entailment
+The solution is possibler than the process.	The process is not possible.	not_entailment
+The state is more uncertain than the performance.	The state is uncertain.	entailment
+The state is more uncertain than the performance.	The performance is not uncertain.	not_entailment
+The diamond is rougher than the skin.	The diamond is rough.	entailment
+The diamond is rougher than the skin.	The skin is not rough.	not_entailment
+The beginning is odder than the result.	The beginning is odd.	entailment
+The beginning is odder than the result.	The result is not odd.	not_entailment
+The landscape is odder than the layout.	The landscape is odd.	entailment
+The landscape is odder than the layout.	The layout is not odd.	not_entailment
+The shock is more profound than the failure.	The shock is profound.	entailment
+The shock is more profound than the failure.	The failure is not profound.	not_entailment
+The city is rougher than the map.	The city is rough.	entailment
+The city is rougher than the map.	The map is not rough.	not_entailment
+The sky is dirtier than the tech.	The sky is dirty.	entailment
+The sky is dirtier than the tech.	The tech is not dirty.	not_entailment
+The future is possibler than the puzzle.	The future is possible.	entailment
+The future is possibler than the puzzle.	The puzzle is not possible.	not_entailment
+The elite is hungrier than the tiger.	The elite is hungry.	entailment
+The elite is hungrier than the tiger.	The tiger is not hungry.	not_entailment
+The secret is dirtier than the subject.	The secret is dirty.	entailment
+The secret is dirtier than the subject.	The subject is not dirty.	not_entailment
+The dog is wetter than the adobe.	The dog is wet.	entailment
+The dog is wetter than the adobe.	The adobe is not wet.	not_entailment
+The supply is more uncertain than the reaction.	The supply is uncertain.	entailment
+The supply is more uncertain than the reaction.	The reaction is not uncertain.	not_entailment
+The experience is more profound than the pleasure.	The experience is profound.	entailment
+The experience is more profound than the pleasure.	The pleasure is not profound.	not_entailment
+The idea is more similar than the dynamic.	The idea is similar.	entailment
+The idea is more similar than the dynamic.	The dynamic is not similar.	not_entailment
+The ground is rougher than the route.	The ground is rough.	entailment
+The ground is rougher than the route.	The route is not rough.	not_entailment
+The damage is more profound than the argument.	The damage is profound.	entailment
+The damage is more profound than the argument.	The argument is not profound.	not_entailment
+The tiger is hungrier than the people.	The tiger is hungry.	entailment
+The tiger is hungrier than the people.	The people is not hungry.	not_entailment
+The weather is crazier than the following.	The weather is crazy.	entailment
+The weather is crazier than the following.	The following is not crazy.	not_entailment
+The context is more special than the president.	The context is special.	entailment
+The context is more special than the president.	The president is not special.	not_entailment
+The assignment is vaguer than the declaration.	The assignment is vague.	entailment
+The assignment is vaguer than the declaration.	The declaration is not vague.	not_entailment
+The customer is hungrier than the king.	The customer is hungry.	entailment
+The customer is hungrier than the king.	The king is not hungry.	not_entailment
+The effect is more uncertain than the mass.	The effect is uncertain.	entailment
+The effect is more uncertain than the mass.	The mass is not uncertain.	not_entailment
+The trail is rougher than the floor.	The trail is rough.	entailment
+The trail is rougher than the floor.	The floor is not rough.	not_entailment
+The atmosphere is odder than the result.	The atmosphere is odd.	entailment
+The atmosphere is odder than the result.	The result is not odd.	not_entailment
+The plate is dirtier than the dress.	The plate is dirty.	entailment
+The plate is dirtier than the dress.	The dress is not dirty.	not_entailment
+The layout is more similar than the argument.	The layout is similar.	entailment
+The layout is more similar than the argument.	The argument is not similar.	not_entailment
+The captain is happier than the community.	The captain is happy.	not_entailment
+The captain is happier than the community.	The community is not happy.	not_entailment
+The drive is further than the sea.	The drive is far.	not_entailment
+The drive is further than the sea.	The sea is not far.	not_entailment
+The author is suitabler than the atmosphere.	The author is suitable.	not_entailment
+The author is suitabler than the atmosphere.	The atmosphere is not suitable.	not_entailment
+The ice is thinner than the canvas.	The ice is thin.	not_entailment
+The ice is thinner than the canvas.	The canvas is not thin.	not_entailment
+The mouse is fatter than the foot.	The mouse is fat.	not_entailment
+The mouse is fatter than the foot.	The foot is not fat.	not_entailment
+The price is better than the band.	The price is good.	not_entailment
+The price is better than the band.	The band is not good.	not_entailment
+The river is deeper than the field.	The river is deep.	not_entailment
+The river is deeper than the field.	The field is not deep.	not_entailment
+The temperature is lower than the outlook.	The temperature is low.	not_entailment
+The temperature is lower than the outlook.	The outlook is not low.	not_entailment
+The land is shallower than the vat.	The land is shallow.	not_entailment
+The land is shallower than the vat.	The vat is not shallow.	not_entailment
+The spot is narrower than the space.	The spot is narrow.	not_entailment
+The spot is narrower than the space.	The space is not narrow.	not_entailment
+The voltage is lower than the bar.	The voltage is low.	not_entailment
+The voltage is lower than the bar.	The bar is not low.	not_entailment
+The choice is more direct than the issue.	The choice is direct.	not_entailment
+The choice is more direct than the issue.	The issue is not direct.	not_entailment
+The jewellery is more expensive than the facility.	The jewellery is expensive.	not_entailment
+The jewellery is more expensive than the facility.	The facility is not expensive.	not_entailment
+The relationship is happier than the association.	The relationship is happy.	not_entailment
+The relationship is happier than the association.	The association is not happy.	not_entailment
+The voyeur is richer than the spectrum.	The voyeur is rich.	not_entailment
+The voyeur is richer than the spectrum.	The spectrum is not rich.	not_entailment
+The medium is more direct than the advertising.	The medium is direct.	not_entailment
+The medium is more direct than the advertising.	The advertising is not direct.	not_entailment
+The effect is more direct than the angle.	The effect is direct.	not_entailment
+The effect is more direct than the angle.	The angle is not direct.	not_entailment
+The bedding is hotter than the battle.	The bedding is hot.	not_entailment
+The bedding is hotter than the battle.	The battle is not hot.	not_entailment
+The area is shallower than the mining.	The area is shallow.	not_entailment
+The area is shallower than the mining.	The mining is not shallow.	not_entailment
+The child is happier than the expert.	The child is happy.	not_entailment
+The child is happier than the expert.	The expert is not happy.	not_entailment
+The music is heavier than the equipment.	The music is heavy.	not_entailment
+The music is heavier than the equipment.	The equipment is not heavy.	not_entailment
+The universe is smaller than the creek.	The universe is small.	not_entailment
+The universe is smaller than the creek.	The creek is not small.	not_entailment
+The series is longer than the response.	The series is long.	not_entailment
+The series is longer than the response.	The response is not long.	not_entailment
+The grass is thicker than the chocolate.	The grass is thick.	not_entailment
+The grass is thicker than the chocolate.	The chocolate is not thick.	not_entailment
+The writing is more direct than the lighting.	The writing is direct.	not_entailment
+The writing is more direct than the lighting.	The lighting is not direct.	not_entailment
+The environment is stronger than the confidence.	The environment is strong.	not_entailment
+The environment is stronger than the confidence.	The confidence is not strong.	not_entailment
+The pottery is heavier than the leather.	The pottery is heavy.	not_entailment
+The pottery is heavier than the leather.	The leather is not heavy.	not_entailment
+The forest is deeper than the land.	The forest is deep.	not_entailment
+The forest is deeper than the land.	The land is not deep.	not_entailment
+The wire is thinner than the border.	The wire is thin.	not_entailment
+The wire is thinner than the border.	The border is not thin.	not_entailment
+The probability is lower than the power.	The probability is low.	not_entailment
+The probability is lower than the power.	The power is not low.	not_entailment
+The underground is deeper than the oil.	The underground is deep.	not_entailment
+The underground is deeper than the oil.	The oil is not deep.	not_entailment
+The church is older than the neighborhood.	The church is old.	not_entailment
+The church is older than the neighborhood.	The neighborhood is not old.	not_entailment
+The coffee is hotter than the roof.	The coffee is hot.	not_entailment
+The coffee is hotter than the roof.	The roof is not hot.	not_entailment
+The wikipedia is simpler than the brochure.	The wikipedia is simple.	not_entailment
+The wikipedia is simpler than the brochure.	The brochure is not simple.	not_entailment
+The airport is newer than the constitution.	The airport is new.	not_entailment
+The airport is newer than the constitution.	The constitution is not new.	not_entailment
+The recovery is weaker than the infrastructure.	The recovery is weak.	not_entailment
+The recovery is weaker than the infrastructure.	The infrastructure is not weak.	not_entailment
+The opportunity is bigger than the problem.	The opportunity is big.	not_entailment
+The opportunity is bigger than the problem.	The problem is not big.	not_entailment
+The cover is suitabler than the museum.	The cover is suitable.	not_entailment
+The cover is suitabler than the museum.	The museum is not suitable.	not_entailment
+The duke is stronger than the theme.	The duke is strong.	not_entailment
+The duke is stronger than the theme.	The theme is not strong.	not_entailment
+The line is thicker than the smoke.	The line is thick.	not_entailment
+The line is thicker than the smoke.	The smoke is not thick.	not_entailment
+The buyer is suitabler than the material.	The buyer is suitable.	not_entailment
+The buyer is suitabler than the material.	The material is not suitable.	not_entailment
+The future is worse than the memory.	The future is bad.	not_entailment
+The future is worse than the memory.	The memory is not bad.	not_entailment
+The wind is hotter than the situation.	The wind is hot.	not_entailment
+The wind is hotter than the situation.	The situation is not hot.	not_entailment
+The smith is younger than the star.	The smith is young.	not_entailment
+The smith is younger than the star.	The star is not young.	not_entailment
+The villa is larger than the ford.	The villa is large.	not_entailment
+The villa is larger than the ford.	The ford is not large.	not_entailment
+The jewellery is simpler than the rule.	The jewellery is simple.	not_entailment
+The jewellery is simpler than the rule.	The rule is not simple.	not_entailment
+The room is hotter than the afternoon.	The room is hot.	not_entailment
+The room is hotter than the afternoon.	The afternoon is not hot.	not_entailment
+The cemetery is larger than the map.	The cemetery is large.	not_entailment
+The cemetery is larger than the map.	The map is not large.	not_entailment
+The lighting is poorer than the coffee.	The lighting is poor.	not_entailment
+The lighting is poorer than the coffee.	The coffee is not poor.	not_entailment
+The world is more difficult than the technology.	The world is difficult.	not_entailment
+The world is more difficult than the technology.	The technology is not difficult.	not_entailment
+The food is worse than the wind.	The food is bad.	not_entailment
+The food is worse than the wind.	The wind is not bad.	not_entailment
+The student is taller than the scale.	The student is tall.	not_entailment
+The student is taller than the scale.	The scale is not tall.	not_entailment
+The love is deeper than the voice.	The love is deep.	not_entailment
+The love is deeper than the voice.	The voice is not deep.	not_entailment
+The booty is bigger than the deal.	The booty is big.	not_entailment
+The booty is bigger than the deal.	The deal is not big.	not_entailment
+The piano is gentler than the work.	The piano is gentle.	not_entailment
+The piano is gentler than the work.	The work is not gentle.	not_entailment
+The northwest is further than the top.	The northwest is far.	not_entailment
+The northwest is further than the top.	The top is not far.	not_entailment
+The duke is taller than the town.	The duke is tall.	not_entailment
+The duke is taller than the town.	The town is not tall.	not_entailment
+The world is newer than the ring.	The world is new.	not_entailment
+The world is newer than the ring.	The ring is not new.	not_entailment
+The net is wider than the center.	The net is wide.	not_entailment
+The net is wider than the center.	The center is not wide.	not_entailment
+The industry is stronger than the coffee.	The industry is strong.	not_entailment
+The industry is stronger than the coffee.	The coffee is not strong.	not_entailment
+The beam is narrower than the region.	The beam is narrow.	not_entailment
+The beam is narrower than the region.	The region is not narrow.	not_entailment
+The fit is better than the return.	The fit is good.	not_entailment
+The fit is better than the return.	The return is not good.	not_entailment
+The restaurant is newer than the attraction.	The restaurant is new.	not_entailment
+The restaurant is newer than the attraction.	The attraction is not new.	not_entailment
+The brochure is more expensive than the antiques.	The brochure is expensive.	not_entailment
+The brochure is more expensive than the antiques.	The antiques is not expensive.	not_entailment
+The world is richer than the atmosphere.	The world is rich.	not_entailment
+The world is richer than the atmosphere.	The atmosphere is not rich.	not_entailment
+The way is further than the potential.	The way is far.	not_entailment
+The way is further than the potential.	The potential is not far.	not_entailment
+The quest is easier than the combination.	The quest is easy.	not_entailment
+The quest is easier than the combination.	The combination is not easy.	not_entailment
+The feel is nicer than the sky.	The feel is nice.	not_entailment
+The feel is nicer than the sky.	The sky is not nice.	not_entailment
+The waiting is longer than the lesson.	The waiting is long.	not_entailment
+The waiting is longer than the lesson.	The lesson is not long.	not_entailment
+The result is more interesting than the number.	The result is interesting.	not_entailment
+The result is more interesting than the number.	The number is not interesting.	not_entailment
+The tone is stronger than the cheese.	The tone is strong.	not_entailment
+The tone is stronger than the cheese.	The cheese is not strong.	not_entailment
+The routine is easier than the walker.	The routine is easy.	not_entailment
+The routine is easier than the walker.	The walker is not easy.	not_entailment
+The case is more interesting than the body.	The case is interesting.	not_entailment
+The case is more interesting than the body.	The body is not interesting.	not_entailment
+The beginning is easier than the software.	The beginning is easy.	not_entailment
+The beginning is easier than the software.	The software is not easy.	not_entailment
+The island is shallower than the coast.	The island is shallow.	not_entailment
+The island is shallower than the coast.	The coast is not shallow.	not_entailment
+The sand is thicker than the line.	The sand is thick.	not_entailment
+The sand is thicker than the line.	The line is not thick.	not_entailment
+The answer is shorter than the argument.	The answer is short.	not_entailment
+The answer is shorter than the argument.	The argument is not short.	not_entailment
+The lady is fatter than the male.	The lady is fat.	not_entailment
+The lady is fatter than the male.	The male is not fat.	not_entailment
+The area is wider than the swing.	The area is wide.	not_entailment
+The area is wider than the swing.	The swing is not wide.	not_entailment
+The villa is fatter than the character.	The villa is fat.	not_entailment
+The villa is fatter than the character.	The character is not fat.	not_entailment
+The tradition is richer than the stuff.	The tradition is rich.	not_entailment
+The tradition is richer than the stuff.	The stuff is not rich.	not_entailment
+The canyon is deeper than the land.	The canyon is deep.	not_entailment
+The canyon is deeper than the land.	The land is not deep.	not_entailment
+The situation is worse than the atmosphere.	The situation is bad.	not_entailment
+The situation is worse than the atmosphere.	The atmosphere is not bad.	not_entailment
+The ocean is deeper than the sea.	The ocean is deep.	not_entailment
+The ocean is deeper than the sea.	The sea is not deep.	not_entailment
+The pottery is more expensive than the concept.	The pottery is expensive.	not_entailment
+The pottery is more expensive than the concept.	The concept is not expensive.	not_entailment
+The routine is simpler than the process.	The routine is simple.	not_entailment
+The routine is simpler than the process.	The process is not simple.	not_entailment
+The vat is larger than the parish.	The vat is large.	not_entailment
+The vat is larger than the parish.	The parish is not large.	not_entailment
+The way is more direct than the influence.	The way is direct.	not_entailment
+The way is more direct than the influence.	The influence is not direct.	not_entailment
+The infrastructure is poorer than the miller.	The infrastructure is poor.	not_entailment
+The infrastructure is poorer than the miller.	The miller is not poor.	not_entailment
+The academy is younger than the director.	The academy is young.	not_entailment
+The academy is younger than the director.	The director is not young.	not_entailment
+The path is further than the shore.	The path is far.	not_entailment
+The path is further than the shore.	The shore is not far.	not_entailment
+The box is heavier than the handle.	The box is heavy.	not_entailment
+The box is heavier than the handle.	The handle is not heavy.	not_entailment
+The hill is further than the door.	The hill is far.	not_entailment
+The hill is further than the door.	The door is not far.	not_entailment
+The housing is poorer than the news.	The housing is poor.	not_entailment
+The housing is poorer than the news.	The news is not poor.	not_entailment
+The truth is simpler than the reason.	The truth is simple.	not_entailment
+The truth is simpler than the reason.	The reason is not simple.	not_entailment
+The bedding is larger than the hall.	The bedding is large.	not_entailment
+The bedding is larger than the hall.	The hall is not large.	not_entailment
+The mood is nicer than the sand.	The mood is nice.	not_entailment
+The mood is nicer than the sand.	The sand is not nice.	not_entailment
+The brochure is nicer than the tree.	The brochure is nice.	not_entailment
+The brochure is nicer than the tree.	The tree is not nice.	not_entailment
+The present is more difficult than the option.	The present is difficult.	not_entailment
+The present is more difficult than the option.	The option is not difficult.	not_entailment
+The woman is happier than the bachelor.	The woman is happy.	not_entailment
+The woman is happier than the bachelor.	The bachelor is not happy.	not_entailment
+The ride is longer than the answer.	The ride is long.	not_entailment
+The ride is longer than the answer.	The answer is not long.	not_entailment
+The translation is more direct than the payment.	The translation is direct.	not_entailment
+The translation is more direct than the payment.	The payment is not direct.	not_entailment
+The consumer is happier than the conclusion.	The consumer is happy.	not_entailment
+The consumer is happier than the conclusion.	The conclusion is not happy.	not_entailment
+The city is further than the wall.	The city is far.	not_entailment
+The city is further than the wall.	The wall is not far.	not_entailment
+The future is more interesting than the mind.	The future is interesting.	not_entailment
+The future is more interesting than the mind.	The mind is not interesting.	not_entailment
+The mathematics is simpler than the glossary.	The mathematics is simple.	not_entailment
+The mathematics is simpler than the glossary.	The glossary is not simple.	not_entailment
+The kitchen is cooler than the dark.	The kitchen is cool.	not_entailment
+The kitchen is cooler than the dark.	The dark is not cool.	not_entailment
+The kid is taller than the hotel.	The kid is tall.	not_entailment
+The kid is taller than the hotel.	The hotel is not tall.	not_entailment
+The game is longer than the block.	The game is long.	not_entailment
+The game is longer than the block.	The block is not long.	not_entailment
+The quote is more direct than the offer.	The quote is direct.	not_entailment
+The quote is more direct than the offer.	The offer is not direct.	not_entailment
+The supply is thinner than the frame.	The supply is thin.	not_entailment
+The supply is thinner than the frame.	The frame is not thin.	not_entailment
+The system is better than the software.	The system is good.	not_entailment
+The system is better than the software.	The software is not good.	not_entailment
+The food is colder than the chicken.	The food is cold.	not_entailment
+The food is colder than the chicken.	The chicken is not cold.	not_entailment
+The lake is shallower than the angle.	The lake is shallow.	not_entailment
+The lake is shallower than the angle.	The angle is not shallow.	not_entailment
+The apartment is larger than the bibliography.	The apartment is large.	not_entailment
+The apartment is larger than the bibliography.	The bibliography is not large.	not_entailment
+The company is newer than the florist.	The company is new.	not_entailment
+The company is newer than the florist.	The florist is not new.	not_entailment
+The possibility is stronger than the message.	The possibility is strong.	not_entailment
+The possibility is stronger than the message.	The message is not strong.	not_entailment
+The void is deeper than the ink.	The void is deep.	not_entailment
+The void is deeper than the ink.	The ink is not deep.	not_entailment
+The exercise is easier than the moral.	The exercise is easy.	not_entailment
+The exercise is easier than the moral.	The moral is not easy.	not_entailment
+The chance is smaller than the town.	The chance is small.	not_entailment
+The chance is smaller than the town.	The town is not small.	not_entailment
+The evidence is stronger than the music.	The evidence is strong.	not_entailment
+The evidence is stronger than the music.	The music is not strong.	not_entailment
+The sun is weaker than the rock.	The sun is weak.	not_entailment
+The sun is weaker than the rock.	The rock is not weak.	not_entailment
+The florist is poorer than the man.	The florist is poor.	not_entailment
+The florist is poorer than the man.	The man is not poor.	not_entailment
+The problem is fatter than the monster.	The problem is fat.	not_entailment
+The problem is fatter than the monster.	The monster is not fat.	not_entailment
+The stone is colder than the plain.	The stone is cold.	not_entailment
+The stone is colder than the plain.	The plain is not cold.	not_entailment
+The atmosphere is better than the ending.	The atmosphere is good.	not_entailment
+The atmosphere is better than the ending.	The ending is not good.	not_entailment
+The crisis is deeper than the air.	The crisis is deep.	not_entailment
+The crisis is deeper than the air.	The air is not deep.	not_entailment
+The choosing is more difficult than the reason.	The choosing is difficult.	not_entailment
+The choosing is more difficult than the reason.	The reason is not difficult.	not_entailment
+The tea is cheaper than the man.	The tea is cheap.	not_entailment
+The tea is cheaper than the man.	The man is not cheap.	not_entailment
+The secret is simpler than the mistake.	The secret is simple.	not_entailment
+The secret is simpler than the mistake.	The mistake is not simple.	not_entailment
+The book is longer than the reply.	The book is long.	not_entailment
+The book is longer than the reply.	The reply is not long.	not_entailment
+The city is bigger than the red.	The city is big.	not_entailment
+The city is bigger than the red.	The red is not big.	not_entailment
+The buffalo is fatter than the candy.	The buffalo is fat.	not_entailment
+The buffalo is fatter than the candy.	The candy is not fat.	not_entailment
+The harbor is narrower than the ridge.	The harbor is narrow.	not_entailment
+The harbor is narrower than the ridge.	The ridge is not narrow.	not_entailment
+The latter is more direct than the credit.	The latter is direct.	not_entailment
+The latter is more direct than the credit.	The credit is not direct.	not_entailment
+The hardcover is newer than the web.	The hardcover is new.	not_entailment
+The hardcover is newer than the web.	The web is not new.	not_entailment
+The ice is colder than the cold.	The ice is cold.	not_entailment
+The ice is colder than the cold.	The cold is not cold.	not_entailment
+The game is more interesting than the location.	The game is interesting.	not_entailment
+The game is more interesting than the location.	The location is not interesting.	not_entailment
+The snow is thicker than the leather.	The snow is thick.	not_entailment
+The snow is thicker than the leather.	The leather is not thick.	not_entailment
+The lion is fatter than the girl.	The lion is fat.	not_entailment
+The lion is fatter than the girl.	The girl is not fat.	not_entailment
+The world is poorer than the village.	The world is poor.	not_entailment
+The world is poorer than the village.	The village is not poor.	not_entailment
+The trek is longer than the evening.	The trek is long.	not_entailment
+The trek is longer than the evening.	The evening is not long.	not_entailment
+The depth is shallower than the highway.	The depth is shallow.	not_entailment
+The depth is shallower than the highway.	The highway is not shallow.	not_entailment
+The solution is easier than the title.	The solution is easy.	not_entailment
+The solution is easier than the title.	The title is not easy.	not_entailment
+The tobacco is cheaper than the gas.	The tobacco is cheap.	not_entailment
+The tobacco is cheaper than the gas.	The gas is not cheap.	not_entailment
+The edge is thinner than the coffee.	The edge is thin.	not_entailment
+The edge is thinner than the coffee.	The coffee is not thin.	not_entailment
+The band is younger than the company.	The band is young.	not_entailment
+The band is younger than the company.	The company is not young.	not_entailment
+The household is happier than the community.	The household is happy.	not_entailment
+The household is happier than the community.	The community is not happy.	not_entailment
+The tiger is younger than the moon.	The tiger is young.	not_entailment
+The tiger is younger than the moon.	The moon is not young.	not_entailment
+The car is nicer than the romance.	The car is nice.	not_entailment
+The car is nicer than the romance.	The romance is not nice.	not_entailment
+The stadium is older than the neighborhood.	The stadium is old.	not_entailment
+The stadium is older than the neighborhood.	The neighborhood is not old.	not_entailment
+The grove is better than the skiing.	The grove is good.	not_entailment
+The grove is better than the skiing.	The skiing is not good.	not_entailment
+The handbook is shorter than the ride.	The handbook is short.	not_entailment
+The handbook is shorter than the ride.	The ride is not short.	not_entailment
+The universe is bigger than the threat.	The universe is big.	not_entailment
+The universe is bigger than the threat.	The threat is not big.	not_entailment
+The kiss is gentler than the walk.	The kiss is gentle.	not_entailment
+The kiss is gentler than the walk.	The walk is not gentle.	not_entailment
+The hair is shorter than the novel.	The hair is short.	not_entailment
+The hair is shorter than the novel.	The novel is not short.	not_entailment
+The ice is thicker than the soil.	The ice is thick.	not_entailment
+The ice is thicker than the soil.	The soil is not thick.	not_entailment
+The pocket is shallower than the draft.	The pocket is shallow.	not_entailment
+The pocket is shallower than the draft.	The draft is not shallow.	not_entailment
+The doctor is nicer than the window.	The doctor is nice.	not_entailment
+The doctor is nicer than the window.	The window is not nice.	not_entailment
+The technology is newer than the italian.	The technology is new.	not_entailment
+The technology is newer than the italian.	The italian is not new.	not_entailment
+The argument is stronger than the force.	The argument is strong.	not_entailment
+The argument is stronger than the force.	The force is not strong.	not_entailment
+The connection is worse than the moon.	The connection is bad.	not_entailment
+The connection is worse than the moon.	The moon is not bad.	not_entailment
+The signal is lower than the support.	The signal is low.	not_entailment
+The signal is lower than the support.	The support is not low.	not_entailment
+The environment is worse than the company.	The environment is bad.	not_entailment
+The environment is worse than the company.	The company is not bad.	not_entailment
+The outside is colder than the man.	The outside is cold.	not_entailment
+The outside is colder than the man.	The man is not cold.	not_entailment
+The grey is thicker than the shadow.	The grey is thick.	not_entailment
+The grey is thicker than the shadow.	The shadow is not thick.	not_entailment

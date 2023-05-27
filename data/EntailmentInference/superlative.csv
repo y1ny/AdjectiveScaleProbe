@@ -1,0 +1,1001 @@
+premise	hypothesis	label
+The salt is the purest salt I have ever seen.	The salt is the purest salt in the world.	not_entailment
+The salt is the purest salt in the world.	The salt is the purest salt I have ever seen.	entailment
+The song is the most original song I have ever seen.	The song is the most original song in the world.	not_entailment
+The song is the most original song in the world.	The song is the most original song I have ever seen.	entailment
+The oil is the richest oil I have ever seen.	The oil is the richest oil in the world.	not_entailment
+The oil is the richest oil in the world.	The oil is the richest oil I have ever seen.	entailment
+The context is the most special context I have ever seen.	The context is the most special context in the world.	not_entailment
+The context is the most special context in the world.	The context is the most special context I have ever seen.	entailment
+The opposition is the weakest opposition I have ever seen.	The opposition is the weakest opposition in the world.	not_entailment
+The opposition is the weakest opposition in the world.	The opposition is the weakest opposition I have ever seen.	entailment
+The dildo is the straightest dildo I have ever seen.	The dildo is the straightest dildo in the world.	not_entailment
+The dildo is the straightest dildo in the world.	The dildo is the straightest dildo I have ever seen.	entailment
+The equation is the easiest equation I have ever seen.	The equation is the easiest equation in the world.	not_entailment
+The equation is the easiest equation in the world.	The equation is the easiest equation I have ever seen.	entailment
+The soil is the richest soil I have ever seen.	The soil is the richest soil in the world.	not_entailment
+The soil is the richest soil in the world.	The soil is the richest soil I have ever seen.	entailment
+The bibliography is the longest bibliography I have ever seen.	The bibliography is the longest bibliography in the world.	not_entailment
+The bibliography is the longest bibliography in the world.	The bibliography is the longest bibliography I have ever seen.	entailment
+The sky is the clearest sky I have ever seen.	The sky is the clearest sky in the world.	not_entailment
+The sky is the clearest sky in the world.	The sky is the clearest sky I have ever seen.	entailment
+The villa is the richest villa I have ever seen.	The villa is the richest villa in the world.	not_entailment
+The villa is the richest villa in the world.	The villa is the richest villa I have ever seen.	entailment
+The voice is the gentlest voice I have ever seen.	The voice is the gentlest voice in the world.	not_entailment
+The voice is the gentlest voice in the world.	The voice is the gentlest voice I have ever seen.	entailment
+The plastic is the thickest plastic I have ever seen.	The plastic is the thickest plastic in the world.	not_entailment
+The plastic is the thickest plastic in the world.	The plastic is the thickest plastic I have ever seen.	entailment
+The air is the cheapest air I have ever seen.	The air is the cheapest air in the world.	not_entailment
+The air is the cheapest air in the world.	The air is the cheapest air I have ever seen.	entailment
+The tie is the straightest tie I have ever seen.	The tie is the straightest tie in the world.	not_entailment
+The tie is the straightest tie in the world.	The tie is the straightest tie I have ever seen.	entailment
+The shore is the shallowest shore I have ever seen.	The shore is the shallowest shore in the world.	not_entailment
+The shore is the shallowest shore in the world.	The shore is the shallowest shore I have ever seen.	entailment
+The title is the shortest title I have ever seen.	The title is the shortest title in the world.	not_entailment
+The title is the shortest title in the world.	The title is the shortest title I have ever seen.	entailment
+The angle is the straightest angle I have ever seen.	The angle is the straightest angle in the world.	not_entailment
+The angle is the straightest angle in the world.	The angle is the straightest angle I have ever seen.	entailment
+The mystery is the completest mystery I have ever seen.	The mystery is the completest mystery in the world.	not_entailment
+The mystery is the completest mystery in the world.	The mystery is the completest mystery I have ever seen.	entailment
+The female is the tallest female I have ever seen.	The female is the tallest female in the world.	not_entailment
+The female is the tallest female in the world.	The female is the tallest female I have ever seen.	entailment
+The issue is the most difficult issue I have ever seen.	The issue is the most difficult issue in the world.	not_entailment
+The issue is the most difficult issue in the world.	The issue is the most difficult issue I have ever seen.	entailment
+The route is the most direct route I have ever seen.	The route is the most direct route in the world.	not_entailment
+The route is the most direct route in the world.	The route is the most direct route I have ever seen.	entailment
+The income is the lowest income I have ever seen.	The income is the lowest income in the world.	not_entailment
+The income is the lowest income in the world.	The income is the lowest income I have ever seen.	entailment
+The lighting is the poorest lighting I have ever seen.	The lighting is the poorest lighting in the world.	not_entailment
+The lighting is the poorest lighting in the world.	The lighting is the poorest lighting I have ever seen.	entailment
+The combination is the craziest combination I have ever seen.	The combination is the craziest combination in the world.	not_entailment
+The combination is the craziest combination in the world.	The combination is the craziest combination I have ever seen.	entailment
+The depth is the most acceptable depth I have ever seen.	The depth is the most acceptable depth in the world.	not_entailment
+The depth is the most acceptable depth in the world.	The depth is the most acceptable depth I have ever seen.	entailment
+The sea is the sickest sea I have ever seen.	The sea is the sickest sea in the world.	not_entailment
+The sea is the sickest sea in the world.	The sea is the sickest sea I have ever seen.	entailment
+The bedding is the lowest bedding I have ever seen.	The bedding is the lowest bedding in the world.	not_entailment
+The bedding is the lowest bedding in the world.	The bedding is the lowest bedding I have ever seen.	entailment
+The bread is the thinnest bread I have ever seen.	The bread is the thinnest bread in the world.	not_entailment
+The bread is the thinnest bread in the world.	The bread is the thinnest bread I have ever seen.	entailment
+The boy is the healthiest boy I have ever seen.	The boy is the healthiest boy in the world.	not_entailment
+The boy is the healthiest boy in the world.	The boy is the healthiest boy I have ever seen.	entailment
+The audience is the happiest audience I have ever seen.	The audience is the happiest audience in the world.	not_entailment
+The audience is the happiest audience in the world.	The audience is the happiest audience I have ever seen.	entailment
+The effect is the most profound effect I have ever seen.	The effect is the most profound effect in the world.	not_entailment
+The effect is the most profound effect in the world.	The effect is the most profound effect I have ever seen.	entailment
+The detail is the richest detail I have ever seen.	The detail is the richest detail in the world.	not_entailment
+The detail is the richest detail in the world.	The detail is the richest detail I have ever seen.	entailment
+The interior is the nicest interior I have ever seen.	The interior is the nicest interior in the world.	not_entailment
+The interior is the nicest interior in the world.	The interior is the nicest interior I have ever seen.	entailment
+The idea is the easiest idea I have ever seen.	The idea is the easiest idea in the world.	not_entailment
+The idea is the easiest idea in the world.	The idea is the easiest idea I have ever seen.	entailment
+The point is the vaguest point I have ever seen.	The point is the vaguest point in the world.	not_entailment
+The point is the vaguest point in the world.	The point is the vaguest point I have ever seen.	entailment
+The rest is the most original rest I have ever seen.	The rest is the most original rest in the world.	not_entailment
+The rest is the most original rest in the world.	The rest is the most original rest I have ever seen.	entailment
+The ship is the safest ship I have ever seen.	The ship is the safest ship in the world.	not_entailment
+The ship is the safest ship in the world.	The ship is the safest ship I have ever seen.	entailment
+The price is the most expensive price I have ever seen.	The price is the most expensive price in the world.	not_entailment
+The price is the most expensive price in the world.	The price is the most expensive price I have ever seen.	entailment
+The bedding is the hottest bedding I have ever seen.	The bedding is the hottest bedding in the world.	not_entailment
+The bedding is the hottest bedding in the world.	The bedding is the hottest bedding I have ever seen.	entailment
+The finder is the possiblest finder I have ever seen.	The finder is the possiblest finder in the world.	not_entailment
+The finder is the possiblest finder in the world.	The finder is the possiblest finder I have ever seen.	entailment
+The following is the most certain following I have ever seen.	The following is the most certain following in the world.	not_entailment
+The following is the most certain following in the world.	The following is the most certain following I have ever seen.	entailment
+The experiment is the most interesting experiment I have ever seen.	The experiment is the most interesting experiment in the world.	not_entailment
+The experiment is the most interesting experiment in the world.	The experiment is the most interesting experiment I have ever seen.	entailment
+The ceiling is the lowest ceiling I have ever seen.	The ceiling is the lowest ceiling in the world.	not_entailment
+The ceiling is the lowest ceiling in the world.	The ceiling is the lowest ceiling I have ever seen.	entailment
+The point is the clearest point I have ever seen.	The point is the clearest point in the world.	not_entailment
+The point is the clearest point in the world.	The point is the clearest point I have ever seen.	entailment
+The boy is the most silent boy I have ever seen.	The boy is the most silent boy in the world.	not_entailment
+The boy is the most silent boy in the world.	The boy is the most silent boy I have ever seen.	entailment
+The river is the wettest river I have ever seen.	The river is the wettest river in the world.	not_entailment
+The river is the wettest river in the world.	The river is the wettest river I have ever seen.	entailment
+The steam is the hottest steam I have ever seen.	The steam is the hottest steam in the world.	not_entailment
+The steam is the hottest steam in the world.	The steam is the hottest steam I have ever seen.	entailment
+The font is the smallest font I have ever seen.	The font is the smallest font in the world.	not_entailment
+The font is the smallest font in the world.	The font is the smallest font I have ever seen.	entailment
+The concentration is the most normal concentration I have ever seen.	The concentration is the most normal concentration in the world.	not_entailment
+The concentration is the most normal concentration in the world.	The concentration is the most normal concentration I have ever seen.	entailment
+The energy is the craziest energy I have ever seen.	The energy is the craziest energy in the world.	not_entailment
+The energy is the craziest energy in the world.	The energy is the craziest energy I have ever seen.	entailment
+The brand is the strongest brand I have ever seen.	The brand is the strongest brand in the world.	not_entailment
+The brand is the strongest brand in the world.	The brand is the strongest brand I have ever seen.	entailment
+The top is the cleanest top I have ever seen.	The top is the cleanest top in the world.	not_entailment
+The top is the cleanest top in the world.	The top is the cleanest top I have ever seen.	entailment
+The potter is the oldest potter I have ever seen.	The potter is the oldest potter in the world.	not_entailment
+The potter is the oldest potter in the world.	The potter is the oldest potter I have ever seen.	entailment
+The transaction is the completest transaction I have ever seen.	The transaction is the completest transaction in the world.	not_entailment
+The transaction is the completest transaction in the world.	The transaction is the completest transaction I have ever seen.	entailment
+The prince is the youngest prince I have ever seen.	The prince is the youngest prince in the world.	not_entailment
+The prince is the youngest prince in the world.	The prince is the youngest prince I have ever seen.	entailment
+The cause is the most uncertain cause I have ever seen.	The cause is the most uncertain cause in the world.	not_entailment
+The cause is the most uncertain cause in the world.	The cause is the most uncertain cause I have ever seen.	entailment
+The ending is the happiest ending I have ever seen.	The ending is the happiest ending in the world.	not_entailment
+The ending is the happiest ending in the world.	The ending is the happiest ending I have ever seen.	entailment
+The concept is the most interesting concept I have ever seen.	The concept is the most interesting concept in the world.	not_entailment
+The concept is the most interesting concept in the world.	The concept is the most interesting concept I have ever seen.	entailment
+The dream is the most impossible dream I have ever seen.	The dream is the most impossible dream in the world.	not_entailment
+The dream is the most impossible dream in the world.	The dream is the most impossible dream I have ever seen.	entailment
+The toner is the dryest toner I have ever seen.	The toner is the dryest toner in the world.	not_entailment
+The toner is the dryest toner in the world.	The toner is the dryest toner I have ever seen.	entailment
+The stone is the purest stone I have ever seen.	The stone is the purest stone in the world.	not_entailment
+The stone is the purest stone in the world.	The stone is the purest stone I have ever seen.	entailment
+The pottery is the suitablest pottery I have ever seen.	The pottery is the suitablest pottery in the world.	not_entailment
+The pottery is the suitablest pottery in the world.	The pottery is the suitablest pottery I have ever seen.	entailment
+The restoration is the completest restoration I have ever seen.	The restoration is the completest restoration in the world.	not_entailment
+The restoration is the completest restoration in the world.	The restoration is the completest restoration I have ever seen.	entailment
+The cat is the oldest cat I have ever seen.	The cat is the oldest cat in the world.	not_entailment
+The cat is the oldest cat in the world.	The cat is the oldest cat I have ever seen.	entailment
+The end is the most uncertain end I have ever seen.	The end is the most uncertain end in the world.	not_entailment
+The end is the most uncertain end in the world.	The end is the most uncertain end I have ever seen.	entailment
+The vista is the possiblest vista I have ever seen.	The vista is the possiblest vista in the world.	not_entailment
+The vista is the possiblest vista in the world.	The vista is the possiblest vista I have ever seen.	entailment
+The tune is the most original tune I have ever seen.	The tune is the most original tune in the world.	not_entailment
+The tune is the most original tune in the world.	The tune is the most original tune I have ever seen.	entailment
+The journey is the possiblest journey I have ever seen.	The journey is the possiblest journey in the world.	not_entailment
+The journey is the possiblest journey in the world.	The journey is the possiblest journey I have ever seen.	entailment
+The wood is the dryest wood I have ever seen.	The wood is the dryest wood in the world.	not_entailment
+The wood is the dryest wood in the world.	The wood is the dryest wood I have ever seen.	entailment
+The villa is the oldest villa I have ever seen.	The villa is the oldest villa in the world.	not_entailment
+The villa is the oldest villa in the world.	The villa is the oldest villa I have ever seen.	entailment
+The customer is the hungriest customer I have ever seen.	The customer is the hungriest customer in the world.	not_entailment
+The customer is the hungriest customer in the world.	The customer is the hungriest customer I have ever seen.	entailment
+The photograph is the most original photograph I have ever seen.	The photograph is the most original photograph in the world.	not_entailment
+The photograph is the most original photograph in the world.	The photograph is the most original photograph I have ever seen.	entailment
+The economy is the best economy I have ever seen.	The economy is the best economy in the world.	not_entailment
+The economy is the best economy in the world.	The economy is the best economy I have ever seen.	entailment
+The weather is the coldest weather I have ever seen.	The weather is the coldest weather in the world.	not_entailment
+The weather is the coldest weather in the world.	The weather is the coldest weather I have ever seen.	entailment
+The font is the suitablest font I have ever seen.	The font is the suitablest font in the world.	not_entailment
+The font is the suitablest font in the world.	The font is the suitablest font I have ever seen.	entailment
+The ocean is the roughest ocean I have ever seen.	The ocean is the roughest ocean in the world.	not_entailment
+The ocean is the roughest ocean in the world.	The ocean is the roughest ocean I have ever seen.	entailment
+The ceiling is the thinnest ceiling I have ever seen.	The ceiling is the thinnest ceiling in the world.	not_entailment
+The ceiling is the thinnest ceiling in the world.	The ceiling is the thinnest ceiling I have ever seen.	entailment
+The response is the vaguest response I have ever seen.	The response is the vaguest response in the world.	not_entailment
+The response is the vaguest response in the world.	The response is the vaguest response I have ever seen.	entailment
+The princess is the sickest princess I have ever seen.	The princess is the sickest princess in the world.	not_entailment
+The princess is the sickest princess in the world.	The princess is the sickest princess I have ever seen.	entailment
+The blow is the heaviest blow I have ever seen.	The blow is the heaviest blow in the world.	not_entailment
+The blow is the heaviest blow in the world.	The blow is the heaviest blow I have ever seen.	entailment
+The ball is the heaviest ball I have ever seen.	The ball is the heaviest ball in the world.	not_entailment
+The ball is the heaviest ball in the world.	The ball is the heaviest ball I have ever seen.	entailment
+The wood is the wettest wood I have ever seen.	The wood is the wettest wood in the world.	not_entailment
+The wood is the wettest wood in the world.	The wood is the wettest wood I have ever seen.	entailment
+The venue is the suitablest venue I have ever seen.	The venue is the suitablest venue in the world.	not_entailment
+The venue is the suitablest venue in the world.	The venue is the suitablest venue I have ever seen.	entailment
+The reply is the vaguest reply I have ever seen.	The reply is the vaguest reply in the world.	not_entailment
+The reply is the vaguest reply in the world.	The reply is the vaguest reply I have ever seen.	entailment
+The result is the most normal result I have ever seen.	The result is the most normal result in the world.	not_entailment
+The result is the most normal result in the world.	The result is the most normal result I have ever seen.	entailment
+The health is the best health I have ever seen.	The health is the best health in the world.	not_entailment
+The health is the best health in the world.	The health is the best health I have ever seen.	entailment
+The area is the smallest area I have ever seen.	The area is the smallest area in the world.	not_entailment
+The area is the smallest area in the world.	The area is the smallest area I have ever seen.	entailment
+The performance is the most acceptable performance I have ever seen.	The performance is the most acceptable performance in the world.	not_entailment
+The performance is the most acceptable performance in the world.	The performance is the most acceptable performance I have ever seen.	entailment
+The station is the most independent station I have ever seen.	The station is the most independent station in the world.	not_entailment
+The station is the most independent station in the world.	The station is the most independent station I have ever seen.	entailment
+The operation is the completest operation I have ever seen.	The operation is the completest operation in the world.	not_entailment
+The operation is the completest operation in the world.	The operation is the completest operation I have ever seen.	entailment
+The brochure is the newest brochure I have ever seen.	The brochure is the newest brochure in the world.	not_entailment
+The brochure is the newest brochure in the world.	The brochure is the newest brochure I have ever seen.	entailment
+The future is the best future I have ever seen.	The future is the best future in the world.	not_entailment
+The future is the best future in the world.	The future is the best future I have ever seen.	entailment
+The ticket is the most expensive ticket I have ever seen.	The ticket is the most expensive ticket in the world.	not_entailment
+The ticket is the most expensive ticket in the world.	The ticket is the most expensive ticket I have ever seen.	entailment
+The stadium is the tallest stadium I have ever seen.	The stadium is the tallest stadium in the world.	not_entailment
+The stadium is the tallest stadium in the world.	The stadium is the tallest stadium I have ever seen.	entailment
+The result is the poorest result I have ever seen.	The result is the poorest result in the world.	not_entailment
+The result is the poorest result in the world.	The result is the poorest result I have ever seen.	entailment
+The salary is the lowest salary I have ever seen.	The salary is the lowest salary in the world.	not_entailment
+The salary is the lowest salary in the world.	The salary is the lowest salary I have ever seen.	entailment
+The queen is the happiest queen I have ever seen.	The queen is the happiest queen in the world.	not_entailment
+The queen is the happiest queen in the world.	The queen is the happiest queen I have ever seen.	entailment
+The cost is the most expensive cost I have ever seen.	The cost is the most expensive cost in the world.	not_entailment
+The cost is the most expensive cost in the world.	The cost is the most expensive cost I have ever seen.	entailment
+The space is the narrowest space I have ever seen.	The space is the narrowest space in the world.	not_entailment
+The space is the narrowest space in the world.	The space is the narrowest space I have ever seen.	entailment
+The world is the shortest world I have ever seen.	The world is the shortest world in the world.	not_entailment
+The world is the shortest world in the world.	The world is the shortest world I have ever seen.	entailment
+The hardcover is the heaviest hardcover I have ever seen.	The hardcover is the heaviest hardcover in the world.	not_entailment
+The hardcover is the heaviest hardcover in the world.	The hardcover is the heaviest hardcover I have ever seen.	entailment
+The industry is the craziest industry I have ever seen.	The industry is the craziest industry in the world.	not_entailment
+The industry is the craziest industry in the world.	The industry is the craziest industry I have ever seen.	entailment
+The pottery is the largest pottery I have ever seen.	The pottery is the largest pottery in the world.	not_entailment
+The pottery is the largest pottery in the world.	The pottery is the largest pottery I have ever seen.	entailment
+The risk is the most acceptable risk I have ever seen.	The risk is the most acceptable risk in the world.	not_entailment
+The risk is the most acceptable risk in the world.	The risk is the most acceptable risk I have ever seen.	entailment
+The testimonials is the most silent testimonials I have ever seen.	The testimonials is the most silent testimonials in the world.	not_entailment
+The testimonials is the most silent testimonials in the world.	The testimonials is the most silent testimonials I have ever seen.	entailment
+The handbook is the shortest handbook I have ever seen.	The handbook is the shortest handbook in the world.	not_entailment
+The handbook is the shortest handbook in the world.	The handbook is the shortest handbook I have ever seen.	entailment
+The water is the hottest water I have ever seen.	The water is the hottest water in the world.	not_entailment
+The water is the hottest water in the world.	The water is the hottest water I have ever seen.	entailment
+The apartment is the cleanest apartment I have ever seen.	The apartment is the cleanest apartment in the world.	not_entailment
+The apartment is the cleanest apartment in the world.	The apartment is the cleanest apartment I have ever seen.	entailment
+The future is the most interesting future I have ever seen.	The future is the most interesting future in the world.	not_entailment
+The future is the most interesting future in the world.	The future is the most interesting future I have ever seen.	entailment
+The guy is the sickest guy I have ever seen.	The guy is the sickest guy in the world.	not_entailment
+The guy is the sickest guy in the world.	The guy is the sickest guy I have ever seen.	entailment
+The consumer is the happiest consumer I have ever seen.	The consumer is the happiest consumer in the world.	not_entailment
+The consumer is the happiest consumer in the world.	The consumer is the happiest consumer I have ever seen.	entailment
+The sea is the coldest sea I have ever seen.	The sea is the coldest sea in the world.	not_entailment
+The sea is the coldest sea in the world.	The sea is the coldest sea I have ever seen.	entailment
+The road is the farthest road I have ever seen.	The road is the farthest road in the world.	not_entailment
+The road is the farthest road in the world.	The road is the farthest road I have ever seen.	entailment
+The pottery is the widest pottery I have ever seen.	The pottery is the widest pottery in the world.	not_entailment
+The pottery is the widest pottery in the world.	The pottery is the widest pottery I have ever seen.	entailment
+The injection is the most direct injection I have ever seen.	The injection is the most direct injection in the world.	not_entailment
+The injection is the most direct injection in the world.	The injection is the most direct injection I have ever seen.	entailment
+The word is the cheapest word I have ever seen.	The word is the cheapest word in the world.	not_entailment
+The word is the cheapest word in the world.	The word is the cheapest word I have ever seen.	entailment
+The plot is the thinnest plot I have ever seen.	The plot is the thinnest plot in the world.	not_entailment
+The plot is the thinnest plot in the world.	The plot is the thinnest plot I have ever seen.	entailment
+The story is the simplest story I have ever seen.	The story is the simplest story in the world.	not_entailment
+The story is the simplest story in the world.	The story is the simplest story I have ever seen.	entailment
+The scene is the wettest scene I have ever seen.	The scene is the wettest scene in the world.	not_entailment
+The scene is the wettest scene in the world.	The scene is the wettest scene I have ever seen.	entailment
+The lake is the dirtiest lake I have ever seen.	The lake is the dirtiest lake in the world.	not_entailment
+The lake is the dirtiest lake in the world.	The lake is the dirtiest lake I have ever seen.	entailment
+The spot is the narrowest spot I have ever seen.	The spot is the narrowest spot in the world.	not_entailment
+The spot is the narrowest spot in the world.	The spot is the narrowest spot I have ever seen.	entailment
+The method is the easiest method I have ever seen.	The method is the easiest method in the world.	not_entailment
+The method is the easiest method in the world.	The method is the easiest method I have ever seen.	entailment
+The interface is the smoothest interface I have ever seen.	The interface is the smoothest interface in the world.	not_entailment
+The interface is the smoothest interface in the world.	The interface is the smoothest interface I have ever seen.	entailment
+The road is the narrowest road I have ever seen.	The road is the narrowest road in the world.	not_entailment
+The road is the narrowest road in the world.	The road is the narrowest road I have ever seen.	entailment
+The atmosphere is the best atmosphere I have ever seen.	The atmosphere is the best atmosphere in the world.	not_entailment
+The atmosphere is the best atmosphere in the world.	The atmosphere is the best atmosphere I have ever seen.	entailment
+The job is the biggest job I have ever seen.	The job is the biggest job in the world.	not_entailment
+The job is the biggest job in the world.	The job is the biggest job I have ever seen.	entailment
+The extent is the most uncertain extent I have ever seen.	The extent is the most uncertain extent in the world.	not_entailment
+The extent is the most uncertain extent in the world.	The extent is the most uncertain extent I have ever seen.	entailment
+The hotel is the most modern hotel I have ever seen.	The hotel is the most modern hotel in the world.	not_entailment
+The hotel is the most modern hotel in the world.	The hotel is the most modern hotel I have ever seen.	entailment
+The military is the weakest military I have ever seen.	The military is the weakest military in the world.	not_entailment
+The military is the weakest military in the world.	The military is the weakest military I have ever seen.	entailment
+The water is the coldest water I have ever seen.	The water is the coldest water in the world.	not_entailment
+The water is the coldest water in the world.	The water is the coldest water I have ever seen.	entailment
+The tea is the richest tea I have ever seen.	The tea is the richest tea in the world.	not_entailment
+The tea is the richest tea in the world.	The tea is the richest tea I have ever seen.	entailment
+The man is the most silent man I have ever seen.	The man is the most silent man in the world.	not_entailment
+The man is the most silent man in the world.	The man is the most silent man I have ever seen.	entailment
+The city is the flattest city I have ever seen.	The city is the flattest city in the world.	not_entailment
+The city is the flattest city in the world.	The city is the flattest city I have ever seen.	entailment
+The beach is the shallowest beach I have ever seen.	The beach is the shallowest beach in the world.	not_entailment
+The beach is the shallowest beach in the world.	The beach is the shallowest beach I have ever seen.	entailment
+The market is the cheapest market I have ever seen.	The market is the cheapest market in the world.	not_entailment
+The market is the cheapest market in the world.	The market is the cheapest market I have ever seen.	entailment
+The grass is the tallest grass I have ever seen.	The grass is the tallest grass in the world.	not_entailment
+The grass is the tallest grass in the world.	The grass is the tallest grass I have ever seen.	entailment
+The government is the weakest government I have ever seen.	The government is the weakest government in the world.	not_entailment
+The government is the weakest government in the world.	The government is the weakest government I have ever seen.	entailment
+The vista is the widest vista I have ever seen.	The vista is the widest vista in the world.	not_entailment
+The vista is the widest vista in the world.	The vista is the widest vista I have ever seen.	entailment
+The sun is the coldest sun I have ever seen.	The sun is the coldest sun in the world.	not_entailment
+The sun is the coldest sun in the world.	The sun is the coldest sun I have ever seen.	entailment
+The size is the suitablest size I have ever seen.	The size is the suitablest size in the world.	not_entailment
+The size is the suitablest size in the world.	The size is the suitablest size I have ever seen.	entailment
+The water is the dryest water I have ever seen.	The water is the dryest water in the world.	not_entailment
+The water is the dryest water in the world.	The water is the dryest water I have ever seen.	entailment
+The hotel is the neatest hotel I have ever seen.	The hotel is the neatest hotel in the world.	not_entailment
+The hotel is the neatest hotel in the world.	The hotel is the neatest hotel I have ever seen.	entailment
+The hair is the thinnest hair I have ever seen.	The hair is the thinnest hair in the world.	not_entailment
+The hair is the thinnest hair in the world.	The hair is the thinnest hair I have ever seen.	entailment
+The view is the nicest view I have ever seen.	The view is the nicest view in the world.	not_entailment
+The view is the nicest view in the world.	The view is the nicest view I have ever seen.	entailment
+The issue is the simplest issue I have ever seen.	The issue is the simplest issue in the world.	not_entailment
+The issue is the simplest issue in the world.	The issue is the simplest issue I have ever seen.	entailment
+The artwork is the neatest artwork I have ever seen.	The artwork is the neatest artwork in the world.	not_entailment
+The artwork is the neatest artwork in the world.	The artwork is the neatest artwork I have ever seen.	entailment
+The public is the safest public I have ever seen.	The public is the safest public in the world.	not_entailment
+The public is the safest public in the world.	The public is the safest public I have ever seen.	entailment
+The grove is the newest grove I have ever seen.	The grove is the newest grove in the world.	not_entailment
+The grove is the newest grove in the world.	The grove is the newest grove I have ever seen.	entailment
+The river is the smallest river I have ever seen.	The river is the smallest river in the world.	not_entailment
+The river is the smallest river in the world.	The river is the smallest river I have ever seen.	entailment
+The apartment is the nicest apartment I have ever seen.	The apartment is the nicest apartment in the world.	not_entailment
+The apartment is the nicest apartment in the world.	The apartment is the nicest apartment I have ever seen.	entailment
+The offer is the vaguest offer I have ever seen.	The offer is the vaguest offer in the world.	not_entailment
+The offer is the vaguest offer in the world.	The offer is the vaguest offer I have ever seen.	entailment
+The park is the narrowest park I have ever seen.	The park is the narrowest park in the world.	not_entailment
+The park is the narrowest park in the world.	The park is the narrowest park I have ever seen.	entailment
+The safari is the most similar safari I have ever seen.	The safari is the most similar safari in the world.	not_entailment
+The safari is the most similar safari in the world.	The safari is the most similar safari I have ever seen.	entailment
+The girl is the fattest girl I have ever seen.	The girl is the fattest girl in the world.	not_entailment
+The girl is the fattest girl in the world.	The girl is the fattest girl I have ever seen.	entailment
+The earth is the oldest earth I have ever seen.	The earth is the oldest earth in the world.	not_entailment
+The earth is the oldest earth in the world.	The earth is the oldest earth I have ever seen.	entailment
+The juice is the purest juice I have ever seen.	The juice is the purest juice in the world.	not_entailment
+The juice is the purest juice in the world.	The juice is the purest juice I have ever seen.	entailment
+The organization is the most independent organization I have ever seen.	The organization is the most independent organization in the world.	not_entailment
+The organization is the most independent organization in the world.	The organization is the most independent organization I have ever seen.	entailment
+The audit is the completest audit I have ever seen.	The audit is the completest audit in the world.	not_entailment
+The audit is the completest audit in the world.	The audit is the completest audit I have ever seen.	entailment
+The house is the coldest house I have ever seen.	The house is the coldest house in the world.	not_entailment
+The house is the coldest house in the world.	The house is the coldest house I have ever seen.	entailment
+The vista is the most certain vista I have ever seen.	The vista is the most certain vista in the world.	not_entailment
+The vista is the most certain vista in the world.	The vista is the most certain vista I have ever seen.	entailment
+The hall is the most silent hall I have ever seen.	The hall is the most silent hall in the world.	not_entailment
+The hall is the most silent hall in the world.	The hall is the most silent hall I have ever seen.	entailment
+The nose is the most normal nose I have ever seen.	The nose is the most normal nose in the world.	not_entailment
+The nose is the most normal nose in the world.	The nose is the most normal nose I have ever seen.	entailment
+The topic is the most interesting topic I have ever seen.	The topic is the most interesting topic in the world.	not_entailment
+The topic is the most interesting topic in the world.	The topic is the most interesting topic I have ever seen.	entailment
+The kid is the poorest kid I have ever seen.	The kid is the poorest kid in the world.	not_entailment
+The kid is the poorest kid in the world.	The kid is the poorest kid I have ever seen.	entailment
+The failure is the most profound failure I have ever seen.	The failure is the most profound failure in the world.	not_entailment
+The failure is the most profound failure in the world.	The failure is the most profound failure I have ever seen.	entailment
+The desert is the farthest desert I have ever seen.	The desert is the farthest desert in the world.	not_entailment
+The desert is the farthest desert in the world.	The desert is the farthest desert I have ever seen.	entailment
+The lack is the most definite lack I have ever seen.	The lack is the most definite lack in the world.	not_entailment
+The lack is the most definite lack in the world.	The lack is the most definite lack I have ever seen.	entailment
+The integration is the completest integration I have ever seen.	The integration is the completest integration in the world.	not_entailment
+The integration is the completest integration in the world.	The integration is the completest integration I have ever seen.	entailment
+The application is the completest application I have ever seen.	The application is the completest application in the world.	not_entailment
+The application is the completest application in the world.	The application is the completest application I have ever seen.	entailment
+The outcome is the most interesting outcome I have ever seen.	The outcome is the most interesting outcome in the world.	not_entailment
+The outcome is the most interesting outcome in the world.	The outcome is the most interesting outcome I have ever seen.	entailment
+The painting is the most original painting I have ever seen.	The painting is the most original painting in the world.	not_entailment
+The painting is the most original painting in the world.	The painting is the most original painting I have ever seen.	entailment
+The bottom is the weakest bottom I have ever seen.	The bottom is the weakest bottom in the world.	not_entailment
+The bottom is the weakest bottom in the world.	The bottom is the weakest bottom I have ever seen.	entailment
+The procedure is the easiest procedure I have ever seen.	The procedure is the easiest procedure in the world.	not_entailment
+The procedure is the easiest procedure in the world.	The procedure is the easiest procedure I have ever seen.	entailment
+The messaging is the most different messaging I have ever seen.	The messaging is the most different messaging in the world.	not_entailment
+The messaging is the most different messaging in the world.	The messaging is the most different messaging I have ever seen.	entailment
+The blonde is the tallest blonde I have ever seen.	The blonde is the tallest blonde in the world.	not_entailment
+The blonde is the tallest blonde in the world.	The blonde is the tallest blonde I have ever seen.	entailment
+The beach is the narrowest beach I have ever seen.	The beach is the narrowest beach in the world.	not_entailment
+The beach is the narrowest beach in the world.	The beach is the narrowest beach I have ever seen.	entailment
+The problem is the largest problem I have ever seen.	The problem is the largest problem in the world.	not_entailment
+The problem is the largest problem in the world.	The problem is the largest problem I have ever seen.	entailment
+The atmosphere is the worst atmosphere I have ever seen.	The atmosphere is the worst atmosphere in the world.	not_entailment
+The atmosphere is the worst atmosphere in the world.	The atmosphere is the worst atmosphere I have ever seen.	entailment
+The vat is the shallowest vat I have ever seen.	The vat is the shallowest vat in the world.	not_entailment
+The vat is the shallowest vat in the world.	The vat is the shallowest vat I have ever seen.	entailment
+The job is the most dangerous job I have ever seen.	The job is the most dangerous job in the world.	not_entailment
+The job is the most dangerous job in the world.	The job is the most dangerous job I have ever seen.	entailment
+The deck is the shallowest deck I have ever seen.	The deck is the shallowest deck in the world.	not_entailment
+The deck is the shallowest deck in the world.	The deck is the shallowest deck I have ever seen.	entailment
+The stream is the smoothest stream I have ever seen.	The stream is the smoothest stream in the world.	not_entailment
+The stream is the smoothest stream in the world.	The stream is the smoothest stream I have ever seen.	entailment
+The news is the hottest news I have ever seen.	The news is the hottest news in the world.	not_entailment
+The news is the hottest news in the world.	The news is the hottest news I have ever seen.	entailment
+The game is the dirtiest game I have ever seen.	The game is the dirtiest game in the world.	not_entailment
+The game is the dirtiest game in the world.	The game is the dirtiest game I have ever seen.	entailment
+The market is the hottest market I have ever seen.	The market is the hottest market in the world.	not_entailment
+The market is the hottest market in the world.	The market is the hottest market I have ever seen.	entailment
+The duke is the gentlest duke I have ever seen.	The duke is the gentlest duke in the world.	not_entailment
+The duke is the gentlest duke in the world.	The duke is the gentlest duke I have ever seen.	entailment
+The result is the oddest result I have ever seen.	The result is the oddest result in the world.	not_entailment
+The result is the oddest result in the world.	The result is the oddest result I have ever seen.	entailment
+The currency is the weakest currency I have ever seen.	The currency is the weakest currency in the world.	not_entailment
+The currency is the weakest currency in the world.	The currency is the weakest currency I have ever seen.	entailment
+The villa is the tallest villa I have ever seen.	The villa is the tallest villa in the world.	not_entailment
+The villa is the tallest villa in the world.	The villa is the tallest villa I have ever seen.	entailment
+The challenge is the biggest challenge I have ever seen.	The challenge is the biggest challenge in the world.	not_entailment
+The challenge is the biggest challenge in the world.	The challenge is the biggest challenge I have ever seen.	entailment
+The web is the dirtiest web I have ever seen.	The web is the dirtiest web in the world.	not_entailment
+The web is the dirtiest web in the world.	The web is the dirtiest web I have ever seen.	entailment
+The school is the oldest school I have ever seen.	The school is the oldest school in the world.	not_entailment
+The school is the oldest school in the world.	The school is the oldest school I have ever seen.	entailment
+The alternative is the easiest alternative I have ever seen.	The alternative is the easiest alternative in the world.	not_entailment
+The alternative is the easiest alternative in the world.	The alternative is the easiest alternative I have ever seen.	entailment
+The limit is the most definite limit I have ever seen.	The limit is the most definite limit in the world.	not_entailment
+The limit is the most definite limit in the world.	The limit is the most definite limit I have ever seen.	entailment
+The city is the dirtiest city I have ever seen.	The city is the dirtiest city in the world.	not_entailment
+The city is the dirtiest city in the world.	The city is the dirtiest city I have ever seen.	entailment
+The infrastructure is the poorest infrastructure I have ever seen.	The infrastructure is the poorest infrastructure in the world.	not_entailment
+The infrastructure is the poorest infrastructure in the world.	The infrastructure is the poorest infrastructure I have ever seen.	entailment
+The market is the strongest market I have ever seen.	The market is the strongest market in the world.	not_entailment
+The market is the strongest market in the world.	The market is the strongest market I have ever seen.	entailment
+The letter is the longest letter I have ever seen.	The letter is the longest letter in the world.	not_entailment
+The letter is the longest letter in the world.	The letter is the longest letter I have ever seen.	entailment
+The shower is the hottest shower I have ever seen.	The shower is the hottest shower in the world.	not_entailment
+The shower is the hottest shower in the world.	The shower is the hottest shower I have ever seen.	entailment
+The market is the flattest market I have ever seen.	The market is the flattest market in the world.	not_entailment
+The market is the flattest market in the world.	The market is the flattest market I have ever seen.	entailment
+The download is the most direct download I have ever seen.	The download is the most direct download in the world.	not_entailment
+The download is the most direct download in the world.	The download is the most direct download I have ever seen.	entailment
+The villa is the most expensive villa I have ever seen.	The villa is the most expensive villa in the world.	not_entailment
+The villa is the most expensive villa in the world.	The villa is the most expensive villa I have ever seen.	entailment
+The accommodation is the most modern accommodation I have ever seen.	The accommodation is the most modern accommodation in the world.	not_entailment
+The accommodation is the most modern accommodation in the world.	The accommodation is the most modern accommodation I have ever seen.	entailment
+The outlook is the poorest outlook I have ever seen.	The outlook is the poorest outlook in the world.	not_entailment
+The outlook is the poorest outlook in the world.	The outlook is the poorest outlook I have ever seen.	entailment
+The air is the purest air I have ever seen.	The air is the purest air in the world.	not_entailment
+The air is the purest air in the world.	The air is the purest air I have ever seen.	entailment
+The gourmet is the youngest gourmet I have ever seen.	The gourmet is the youngest gourmet in the world.	not_entailment
+The gourmet is the youngest gourmet in the world.	The gourmet is the youngest gourmet I have ever seen.	entailment
+The bathroom is the cleanest bathroom I have ever seen.	The bathroom is the cleanest bathroom in the world.	not_entailment
+The bathroom is the cleanest bathroom in the world.	The bathroom is the cleanest bathroom I have ever seen.	entailment
+The leather is the smoothest leather I have ever seen.	The leather is the smoothest leather in the world.	not_entailment
+The leather is the smoothest leather in the world.	The leather is the smoothest leather I have ever seen.	entailment
+The light is the purest light I have ever seen.	The light is the purest light in the world.	not_entailment
+The light is the purest light in the world.	The light is the purest light I have ever seen.	entailment
+The glass is the cleanest glass I have ever seen.	The glass is the cleanest glass in the world.	not_entailment
+The glass is the cleanest glass in the world.	The glass is the cleanest glass I have ever seen.	entailment
+The music is the richest music I have ever seen.	The music is the richest music in the world.	not_entailment
+The music is the richest music in the world.	The music is the richest music I have ever seen.	entailment
+The shore is the coldest shore I have ever seen.	The shore is the coldest shore in the world.	not_entailment
+The shore is the coldest shore in the world.	The shore is the coldest shore I have ever seen.	entailment
+The pet is the healthiest pet I have ever seen.	The pet is the healthiest pet in the world.	not_entailment
+The pet is the healthiest pet in the world.	The pet is the healthiest pet I have ever seen.	entailment
+The grove is the vaguest grove I have ever seen.	The grove is the vaguest grove in the world.	not_entailment
+The grove is the vaguest grove in the world.	The grove is the vaguest grove I have ever seen.	entailment
+The response is the most uncertain response I have ever seen.	The response is the most uncertain response in the world.	not_entailment
+The response is the most uncertain response in the world.	The response is the most uncertain response I have ever seen.	entailment
+The ending is the most impossible ending I have ever seen.	The ending is the most impossible ending in the world.	not_entailment
+The ending is the most impossible ending in the world.	The ending is the most impossible ending I have ever seen.	entailment
+The sauce is the hottest sauce I have ever seen.	The sauce is the hottest sauce in the world.	not_entailment
+The sauce is the hottest sauce in the world.	The sauce is the hottest sauce I have ever seen.	entailment
+The angle is the oddest angle I have ever seen.	The angle is the oddest angle in the world.	not_entailment
+The angle is the oddest angle in the world.	The angle is the oddest angle I have ever seen.	entailment
+The northeast is the farthest northeast I have ever seen.	The northeast is the farthest northeast in the world.	not_entailment
+The northeast is the farthest northeast in the world.	The northeast is the farthest northeast I have ever seen.	entailment
+The hunter is the hungriest hunter I have ever seen.	The hunter is the hungriest hunter in the world.	not_entailment
+The hunter is the hungriest hunter in the world.	The hunter is the hungriest hunter I have ever seen.	entailment
+The taste is the most similar taste I have ever seen.	The taste is the most similar taste in the world.	not_entailment
+The taste is the most similar taste in the world.	The taste is the most similar taste I have ever seen.	entailment
+The reverse is the most similar reverse I have ever seen.	The reverse is the most similar reverse in the world.	not_entailment
+The reverse is the most similar reverse in the world.	The reverse is the most similar reverse I have ever seen.	entailment
+The coffee is the weakest coffee I have ever seen.	The coffee is the weakest coffee in the world.	not_entailment
+The coffee is the weakest coffee in the world.	The coffee is the weakest coffee I have ever seen.	entailment
+The sound is the most similar sound I have ever seen.	The sound is the most similar sound in the world.	not_entailment
+The sound is the most similar sound in the world.	The sound is the most similar sound I have ever seen.	entailment
+The sun is the hottest sun I have ever seen.	The sun is the hottest sun in the world.	not_entailment
+The sun is the hottest sun in the world.	The sun is the hottest sun I have ever seen.	entailment
+The team is the healthiest team I have ever seen.	The team is the healthiest team in the world.	not_entailment
+The team is the healthiest team in the world.	The team is the healthiest team I have ever seen.	entailment
+The roof is the wettest roof I have ever seen.	The roof is the wettest roof in the world.	not_entailment
+The roof is the wettest roof in the world.	The roof is the wettest roof I have ever seen.	entailment
+The memorabilia is the newest memorabilia I have ever seen.	The memorabilia is the newest memorabilia in the world.	not_entailment
+The memorabilia is the newest memorabilia in the world.	The memorabilia is the newest memorabilia I have ever seen.	entailment
+The probability is the lowest probability I have ever seen.	The probability is the lowest probability in the world.	not_entailment
+The probability is the lowest probability in the world.	The probability is the lowest probability I have ever seen.	entailment
+The world is the flattest world I have ever seen.	The world is the flattest world in the world.	not_entailment
+The world is the flattest world in the world.	The world is the flattest world I have ever seen.	entailment
+The bread is the thickest bread I have ever seen.	The bread is the thickest bread in the world.	not_entailment
+The bread is the thickest bread in the world.	The bread is the thickest bread I have ever seen.	entailment
+The conclusion is the most interesting conclusion I have ever seen.	The conclusion is the most interesting conclusion in the world.	not_entailment
+The conclusion is the most interesting conclusion in the world.	The conclusion is the most interesting conclusion I have ever seen.	entailment
+The mood is the heaviest mood I have ever seen.	The mood is the heaviest mood in the world.	not_entailment
+The mood is the heaviest mood in the world.	The mood is the heaviest mood I have ever seen.	entailment
+The idea is the most impossible idea I have ever seen.	The idea is the most impossible idea in the world.	not_entailment
+The idea is the most impossible idea in the world.	The idea is the most impossible idea I have ever seen.	entailment
+The horse is the gentlest horse I have ever seen.	The horse is the gentlest horse in the world.	not_entailment
+The horse is the gentlest horse in the world.	The horse is the gentlest horse I have ever seen.	entailment
+The reason is the vaguest reason I have ever seen.	The reason is the vaguest reason in the world.	not_entailment
+The reason is the vaguest reason in the world.	The reason is the vaguest reason I have ever seen.	entailment
+The farm is the healthiest farm I have ever seen.	The farm is the healthiest farm in the world.	not_entailment
+The farm is the healthiest farm in the world.	The farm is the healthiest farm I have ever seen.	entailment
+The result is the suitablest result I have ever seen.	The result is the suitablest result in the world.	not_entailment
+The result is the suitablest result in the world.	The result is the suitablest result I have ever seen.	entailment
+The candidate is the most independent candidate I have ever seen.	The candidate is the most independent candidate in the world.	not_entailment
+The candidate is the most independent candidate in the world.	The candidate is the most independent candidate I have ever seen.	entailment
+The technology is the most interesting technology I have ever seen.	The technology is the most interesting technology in the world.	not_entailment
+The technology is the most interesting technology in the world.	The technology is the most interesting technology I have ever seen.	entailment
+The provision is the vaguest provision I have ever seen.	The provision is the vaguest provision in the world.	not_entailment
+The provision is the vaguest provision in the world.	The provision is the vaguest provision I have ever seen.	entailment
+The air is the heaviest air I have ever seen.	The air is the heaviest air in the world.	not_entailment
+The air is the heaviest air in the world.	The air is the heaviest air I have ever seen.	entailment
+The argument is the strongest argument I have ever seen.	The argument is the strongest argument in the world.	not_entailment
+The argument is the strongest argument in the world.	The argument is the strongest argument I have ever seen.	entailment
+The vehicle is the safest vehicle I have ever seen.	The vehicle is the safest vehicle in the world.	not_entailment
+The vehicle is the safest vehicle in the world.	The vehicle is the safest vehicle I have ever seen.	entailment
+The atmosphere is the craziest atmosphere I have ever seen.	The atmosphere is the craziest atmosphere in the world.	not_entailment
+The atmosphere is the craziest atmosphere in the world.	The atmosphere is the craziest atmosphere I have ever seen.	entailment
+The translation is the most direct translation I have ever seen.	The translation is the most direct translation in the world.	not_entailment
+The translation is the most direct translation in the world.	The translation is the most direct translation I have ever seen.	entailment
+The team is the newest team I have ever seen.	The team is the newest team in the world.	not_entailment
+The team is the newest team in the world.	The team is the newest team I have ever seen.	entailment
+The scene is the oddest scene I have ever seen.	The scene is the oddest scene in the world.	not_entailment
+The scene is the oddest scene in the world.	The scene is the oddest scene I have ever seen.	entailment
+The doctor is the sickest doctor I have ever seen.	The doctor is the sickest doctor in the world.	not_entailment
+The doctor is the sickest doctor in the world.	The doctor is the sickest doctor I have ever seen.	entailment
+The dog is the oldest dog I have ever seen.	The dog is the oldest dog in the world.	not_entailment
+The dog is the oldest dog in the world.	The dog is the oldest dog I have ever seen.	entailment
+The harbor is the widest harbor I have ever seen.	The harbor is the widest harbor in the world.	not_entailment
+The harbor is the widest harbor in the world.	The harbor is the widest harbor I have ever seen.	entailment
+The shore is the farthest shore I have ever seen.	The shore is the farthest shore in the world.	not_entailment
+The shore is the farthest shore in the world.	The shore is the farthest shore I have ever seen.	entailment
+The world is the most difficult world I have ever seen.	The world is the most difficult world in the world.	not_entailment
+The world is the most difficult world in the world.	The world is the most difficult world I have ever seen.	entailment
+The gift is the purest gift I have ever seen.	The gift is the purest gift in the world.	not_entailment
+The gift is the purest gift in the world.	The gift is the purest gift I have ever seen.	entailment
+The current is the weakest current I have ever seen.	The current is the weakest current in the world.	not_entailment
+The current is the weakest current in the world.	The current is the weakest current I have ever seen.	entailment
+The equipment is the heaviest equipment I have ever seen.	The equipment is the heaviest equipment in the world.	not_entailment
+The equipment is the heaviest equipment in the world.	The equipment is the heaviest equipment I have ever seen.	entailment
+The florist is the smallest florist I have ever seen.	The florist is the smallest florist in the world.	not_entailment
+The florist is the smallest florist in the world.	The florist is the smallest florist I have ever seen.	entailment
+The weather is the most special weather I have ever seen.	The weather is the most special weather in the world.	not_entailment
+The weather is the most special weather in the world.	The weather is the most special weather I have ever seen.	entailment
+The ending is the most special ending I have ever seen.	The ending is the most special ending in the world.	not_entailment
+The ending is the most special ending in the world.	The ending is the most special ending I have ever seen.	entailment
+The euro is the weakest euro I have ever seen.	The euro is the weakest euro in the world.	not_entailment
+The euro is the weakest euro in the world.	The euro is the weakest euro I have ever seen.	entailment
+The reader is the most silent reader I have ever seen.	The reader is the most silent reader in the world.	not_entailment
+The reader is the most silent reader in the world.	The reader is the most silent reader I have ever seen.	entailment
+The gnome is the smallest gnome I have ever seen.	The gnome is the smallest gnome in the world.	not_entailment
+The gnome is the smallest gnome in the world.	The gnome is the smallest gnome I have ever seen.	entailment
+The truth is the most impossible truth I have ever seen.	The truth is the most impossible truth in the world.	not_entailment
+The truth is the most impossible truth in the world.	The truth is the most impossible truth I have ever seen.	entailment
+The pantyhose is the oldest pantyhose I have ever seen.	The pantyhose is the oldest pantyhose in the world.	not_entailment
+The pantyhose is the oldest pantyhose in the world.	The pantyhose is the oldest pantyhose I have ever seen.	entailment
+The film is the most silent film I have ever seen.	The film is the most silent film in the world.	not_entailment
+The film is the most silent film in the world.	The film is the most silent film I have ever seen.	entailment
+The news is the coldest news I have ever seen.	The news is the coldest news in the world.	not_entailment
+The news is the coldest news in the world.	The news is the coldest news I have ever seen.	entailment
+The environment is the worst environment I have ever seen.	The environment is the worst environment in the world.	not_entailment
+The environment is the worst environment in the world.	The environment is the worst environment I have ever seen.	entailment
+The orgy is the sickest orgy I have ever seen.	The orgy is the sickest orgy in the world.	not_entailment
+The orgy is the sickest orgy in the world.	The orgy is the sickest orgy I have ever seen.	entailment
+The toner is the most special toner I have ever seen.	The toner is the most special toner in the world.	not_entailment
+The toner is the most special toner in the world.	The toner is the most special toner I have ever seen.	entailment
+The housing is the nicest housing I have ever seen.	The housing is the nicest housing in the world.	not_entailment
+The housing is the nicest housing in the world.	The housing is the nicest housing I have ever seen.	entailment
+The soul is the purest soul I have ever seen.	The soul is the purest soul in the world.	not_entailment
+The soul is the purest soul in the world.	The soul is the purest soul I have ever seen.	entailment
+The story is the oddest story I have ever seen.	The story is the oddest story in the world.	not_entailment
+The story is the oddest story in the world.	The story is the oddest story I have ever seen.	entailment
+The route is the straightest route I have ever seen.	The route is the straightest route in the world.	not_entailment
+The route is the straightest route in the world.	The route is the straightest route I have ever seen.	entailment
+The problem is the clearest problem I have ever seen.	The problem is the clearest problem in the world.	not_entailment
+The problem is the clearest problem in the world.	The problem is the clearest problem I have ever seen.	entailment
+The function is the most normal function I have ever seen.	The function is the most normal function in the world.	not_entailment
+The function is the most normal function in the world.	The function is the most normal function I have ever seen.	entailment
+The concept is the most modern concept I have ever seen.	The concept is the most modern concept in the world.	not_entailment
+The concept is the most modern concept in the world.	The concept is the most modern concept I have ever seen.	entailment
+The internet is the most difficult internet I have ever seen.	The internet is the most difficult internet in the world.	not_entailment
+The internet is the most difficult internet in the world.	The internet is the most difficult internet I have ever seen.	entailment
+The acrobat is the youngest acrobat I have ever seen.	The acrobat is the youngest acrobat in the world.	not_entailment
+The acrobat is the youngest acrobat in the world.	The acrobat is the youngest acrobat I have ever seen.	entailment
+The market is the healthiest market I have ever seen.	The market is the healthiest market in the world.	not_entailment
+The market is the healthiest market in the world.	The market is the healthiest market I have ever seen.	entailment
+The damage is the most profound damage I have ever seen.	The damage is the most profound damage in the world.	not_entailment
+The damage is the most profound damage in the world.	The damage is the most profound damage I have ever seen.	entailment
+The defense is the weakest defense I have ever seen.	The defense is the weakest defense in the world.	not_entailment
+The defense is the weakest defense in the world.	The defense is the weakest defense I have ever seen.	entailment
+The glass is the heaviest glass I have ever seen.	The glass is the heaviest glass in the world.	not_entailment
+The glass is the heaviest glass in the world.	The glass is the heaviest glass I have ever seen.	entailment
+The scope is the vaguest scope I have ever seen.	The scope is the vaguest scope in the world.	not_entailment
+The scope is the vaguest scope in the world.	The scope is the vaguest scope I have ever seen.	entailment
+The air is the roughest air I have ever seen.	The air is the roughest air in the world.	not_entailment
+The air is the roughest air in the world.	The air is the roughest air I have ever seen.	entailment
+The rest is the most difficult rest I have ever seen.	The rest is the most difficult rest in the world.	not_entailment
+The rest is the most difficult rest in the world.	The rest is the most difficult rest I have ever seen.	entailment
+The past is the most certain past I have ever seen.	The past is the most certain past in the world.	not_entailment
+The past is the most certain past in the world.	The past is the most certain past I have ever seen.	entailment
+The floor is the smoothest floor I have ever seen.	The floor is the smoothest floor in the world.	not_entailment
+The floor is the smoothest floor in the world.	The floor is the smoothest floor I have ever seen.	entailment
+The desk is the neatest desk I have ever seen.	The desk is the neatest desk in the world.	not_entailment
+The desk is the neatest desk in the world.	The desk is the neatest desk I have ever seen.	entailment
+The outlook is the weakest outlook I have ever seen.	The outlook is the weakest outlook in the world.	not_entailment
+The outlook is the weakest outlook in the world.	The outlook is the weakest outlook I have ever seen.	entailment
+The king is the hungriest king I have ever seen.	The king is the hungriest king in the world.	not_entailment
+The king is the hungriest king in the world.	The king is the hungriest king I have ever seen.	entailment
+The outcome is the most certain outcome I have ever seen.	The outcome is the most certain outcome in the world.	not_entailment
+The outcome is the most certain outcome in the world.	The outcome is the most certain outcome I have ever seen.	entailment
+The alliance is the weakest alliance I have ever seen.	The alliance is the weakest alliance in the world.	not_entailment
+The alliance is the weakest alliance in the world.	The alliance is the weakest alliance I have ever seen.	entailment
+The ball is the dirtiest ball I have ever seen.	The ball is the dirtiest ball in the world.	not_entailment
+The ball is the dirtiest ball in the world.	The ball is the dirtiest ball I have ever seen.	entailment
+The sand is the deepest sand I have ever seen.	The sand is the deepest sand in the world.	not_entailment
+The sand is the deepest sand in the world.	The sand is the deepest sand I have ever seen.	entailment
+The future is the richest future I have ever seen.	The future is the richest future in the world.	not_entailment
+The future is the richest future in the world.	The future is the richest future I have ever seen.	entailment
+The population is the healthiest population I have ever seen.	The population is the healthiest population in the world.	not_entailment
+The population is the healthiest population in the world.	The population is the healthiest population I have ever seen.	entailment
+The lane is the widest lane I have ever seen.	The lane is the widest lane in the world.	not_entailment
+The lane is the widest lane in the world.	The lane is the widest lane I have ever seen.	entailment
+The promise is the most impossible promise I have ever seen.	The promise is the most impossible promise in the world.	not_entailment
+The promise is the most impossible promise in the world.	The promise is the most impossible promise I have ever seen.	entailment
+The weather is the best weather I have ever seen.	The weather is the best weather in the world.	not_entailment
+The weather is the best weather in the world.	The weather is the best weather I have ever seen.	entailment
+The mercury is the lowest mercury I have ever seen.	The mercury is the lowest mercury in the world.	not_entailment
+The mercury is the lowest mercury in the world.	The mercury is the lowest mercury I have ever seen.	entailment
+The back is the straightest back I have ever seen.	The back is the straightest back in the world.	not_entailment
+The back is the straightest back in the world.	The back is the straightest back I have ever seen.	entailment
+The beach is the nicest beach I have ever seen.	The beach is the nicest beach in the world.	not_entailment
+The beach is the nicest beach in the world.	The beach is the nicest beach I have ever seen.	entailment
+The case is the strongest case I have ever seen.	The case is the strongest case in the world.	not_entailment
+The case is the strongest case in the world.	The case is the strongest case I have ever seen.	entailment
+The movie is the oddest movie I have ever seen.	The movie is the oddest movie in the world.	not_entailment
+The movie is the oddest movie in the world.	The movie is the oddest movie I have ever seen.	entailment
+The guinea is the oldest guinea I have ever seen.	The guinea is the oldest guinea in the world.	not_entailment
+The guinea is the oldest guinea in the world.	The guinea is the oldest guinea I have ever seen.	entailment
+The teacher is the most silent teacher I have ever seen.	The teacher is the most silent teacher in the world.	not_entailment
+The teacher is the most silent teacher in the world.	The teacher is the most silent teacher I have ever seen.	entailment
+The kid is the richest kid I have ever seen.	The kid is the richest kid in the world.	not_entailment
+The kid is the richest kid in the world.	The kid is the richest kid I have ever seen.	entailment
+The alternative is the most difficult alternative I have ever seen.	The alternative is the most difficult alternative in the world.	not_entailment
+The alternative is the most difficult alternative in the world.	The alternative is the most difficult alternative I have ever seen.	entailment
+The refinance is the completest refinance I have ever seen.	The refinance is the completest refinance in the world.	not_entailment
+The refinance is the completest refinance in the world.	The refinance is the completest refinance I have ever seen.	entailment
+The avenue is the narrowest avenue I have ever seen.	The avenue is the narrowest avenue in the world.	not_entailment
+The avenue is the narrowest avenue in the world.	The avenue is the narrowest avenue I have ever seen.	entailment
+The desire is the strongest desire I have ever seen.	The desire is the strongest desire in the world.	not_entailment
+The desire is the strongest desire in the world.	The desire is the strongest desire I have ever seen.	entailment
+The scale is the most normal scale I have ever seen.	The scale is the most normal scale in the world.	not_entailment
+The scale is the most normal scale in the world.	The scale is the most normal scale I have ever seen.	entailment
+The cream is the thinnest cream I have ever seen.	The cream is the thinnest cream in the world.	not_entailment
+The cream is the thinnest cream in the world.	The cream is the thinnest cream I have ever seen.	entailment
+The pottery is the most acceptable pottery I have ever seen.	The pottery is the most acceptable pottery in the world.	not_entailment
+The pottery is the most acceptable pottery in the world.	The pottery is the most acceptable pottery I have ever seen.	entailment
+The target is the clearest target I have ever seen.	The target is the clearest target in the world.	not_entailment
+The target is the clearest target in the world.	The target is the clearest target I have ever seen.	entailment
+The edge is the roughest edge I have ever seen.	The edge is the roughest edge in the world.	not_entailment
+The edge is the roughest edge in the world.	The edge is the roughest edge I have ever seen.	entailment
+The journey is the farthest journey I have ever seen.	The journey is the farthest journey in the world.	not_entailment
+The journey is the farthest journey in the world.	The journey is the farthest journey I have ever seen.	entailment
+The infant is the healthiest infant I have ever seen.	The infant is the healthiest infant in the world.	not_entailment
+The infant is the healthiest infant in the world.	The infant is the healthiest infant I have ever seen.	entailment
+The pottery is the smallest pottery I have ever seen.	The pottery is the smallest pottery in the world.	not_entailment
+The pottery is the smallest pottery in the world.	The pottery is the smallest pottery I have ever seen.	entailment
+The climate is the worst climate I have ever seen.	The climate is the worst climate in the world.	not_entailment
+The climate is the worst climate in the world.	The climate is the worst climate I have ever seen.	entailment
+The water is the purest water I have ever seen.	The water is the purest water in the world.	not_entailment
+The water is the purest water in the world.	The water is the purest water I have ever seen.	entailment
+The pizza is the best pizza I have ever seen.	The pizza is the best pizza in the world.	not_entailment
+The pizza is the best pizza in the world.	The pizza is the best pizza I have ever seen.	entailment
+The plant is the healthiest plant I have ever seen.	The plant is the healthiest plant in the world.	not_entailment
+The plant is the healthiest plant in the world.	The plant is the healthiest plant I have ever seen.	entailment
+The brain is the most special brain I have ever seen.	The brain is the most special brain in the world.	not_entailment
+The brain is the most special brain in the world.	The brain is the most special brain I have ever seen.	entailment
+The smith is the youngest smith I have ever seen.	The smith is the youngest smith in the world.	not_entailment
+The smith is the youngest smith in the world.	The smith is the youngest smith I have ever seen.	entailment
+The press is the weakest press I have ever seen.	The press is the weakest press in the world.	not_entailment
+The press is the weakest press in the world.	The press is the weakest press I have ever seen.	entailment
+The situation is the most difficult situation I have ever seen.	The situation is the most difficult situation in the world.	not_entailment
+The situation is the most difficult situation in the world.	The situation is the most difficult situation I have ever seen.	entailment
+The reality is the clearest reality I have ever seen.	The reality is the clearest reality in the world.	not_entailment
+The reality is the clearest reality in the world.	The reality is the clearest reality I have ever seen.	entailment
+The collection is the completest collection I have ever seen.	The collection is the completest collection in the world.	not_entailment
+The collection is the completest collection in the world.	The collection is the completest collection I have ever seen.	entailment
+The nation is the hungriest nation I have ever seen.	The nation is the hungriest nation in the world.	not_entailment
+The nation is the hungriest nation in the world.	The nation is the hungriest nation I have ever seen.	entailment
+The world is the most different world I have ever seen.	The world is the most different world in the world.	not_entailment
+The world is the most different world in the world.	The world is the most different world I have ever seen.	entailment
+The objective is the most definite objective I have ever seen.	The objective is the most definite objective in the world.	not_entailment
+The objective is the most definite objective in the world.	The objective is the most definite objective I have ever seen.	entailment
+The news is the worst news I have ever seen.	The news is the worst news in the world.	not_entailment
+The news is the worst news in the world.	The news is the worst news I have ever seen.	entailment
+The board is the most independent board I have ever seen.	The board is the most independent board in the world.	not_entailment
+The board is the most independent board in the world.	The board is the most independent board I have ever seen.	entailment
+The atmosphere is the most special atmosphere I have ever seen.	The atmosphere is the most special atmosphere in the world.	not_entailment
+The atmosphere is the most special atmosphere in the world.	The atmosphere is the most special atmosphere I have ever seen.	entailment
+The beginning is the newest beginning I have ever seen.	The beginning is the newest beginning in the world.	not_entailment
+The beginning is the newest beginning in the world.	The beginning is the newest beginning I have ever seen.	entailment
+The family is the healthiest family I have ever seen.	The family is the healthiest family in the world.	not_entailment
+The family is the healthiest family in the world.	The family is the healthiest family I have ever seen.	entailment
+The tea is the hottest tea I have ever seen.	The tea is the hottest tea in the world.	not_entailment
+The tea is the hottest tea in the world.	The tea is the hottest tea I have ever seen.	entailment
+The fund is the most independent fund I have ever seen.	The fund is the most independent fund in the world.	not_entailment
+The fund is the most independent fund in the world.	The fund is the most independent fund I have ever seen.	entailment
+The ocean is the coolest ocean I have ever seen.	The ocean is the coolest ocean in the world.	not_entailment
+The ocean is the coolest ocean in the world.	The ocean is the coolest ocean I have ever seen.	entailment
+The cost is the most uncertain cost I have ever seen.	The cost is the most uncertain cost in the world.	not_entailment
+The cost is the most uncertain cost in the world.	The cost is the most uncertain cost I have ever seen.	entailment
+The smith is the smallest smith I have ever seen.	The smith is the smallest smith in the world.	not_entailment
+The smith is the smallest smith in the world.	The smith is the smallest smith I have ever seen.	entailment
+The queen is the sickest queen I have ever seen.	The queen is the sickest queen in the world.	not_entailment
+The queen is the sickest queen in the world.	The queen is the sickest queen I have ever seen.	entailment
+The wire is the thinnest wire I have ever seen.	The wire is the thinnest wire in the world.	not_entailment
+The wire is the thinnest wire in the world.	The wire is the thinnest wire I have ever seen.	entailment
+The teacher is the happiest teacher I have ever seen.	The teacher is the happiest teacher in the world.	not_entailment
+The teacher is the happiest teacher in the world.	The teacher is the happiest teacher I have ever seen.	entailment
+The loss is the heaviest loss I have ever seen.	The loss is the heaviest loss in the world.	not_entailment
+The loss is the heaviest loss in the world.	The loss is the heaviest loss I have ever seen.	entailment
+The lighting is the suitablest lighting I have ever seen.	The lighting is the suitablest lighting in the world.	not_entailment
+The lighting is the suitablest lighting in the world.	The lighting is the suitablest lighting I have ever seen.	entailment
+The king is the craziest king I have ever seen.	The king is the craziest king in the world.	not_entailment
+The king is the craziest king in the world.	The king is the craziest king I have ever seen.	entailment
+The plan is the neatest plan I have ever seen.	The plan is the neatest plan in the world.	not_entailment
+The plan is the neatest plan in the world.	The plan is the neatest plan I have ever seen.	entailment
+The advantage is the most definite advantage I have ever seen.	The advantage is the most definite advantage in the world.	not_entailment
+The advantage is the most definite advantage in the world.	The advantage is the most definite advantage I have ever seen.	entailment
+The explanation is the easiest explanation I have ever seen.	The explanation is the easiest explanation in the world.	not_entailment
+The explanation is the easiest explanation in the world.	The explanation is the easiest explanation I have ever seen.	entailment
+The coach is the happiest coach I have ever seen.	The coach is the happiest coach in the world.	not_entailment
+The coach is the happiest coach in the world.	The coach is the happiest coach I have ever seen.	entailment
+The pottery is the oldest pottery I have ever seen.	The pottery is the oldest pottery in the world.	not_entailment
+The pottery is the oldest pottery in the world.	The pottery is the oldest pottery I have ever seen.	entailment
+The accommodation is the nicest accommodation I have ever seen.	The accommodation is the nicest accommodation in the world.	not_entailment
+The accommodation is the nicest accommodation in the world.	The accommodation is the nicest accommodation I have ever seen.	entailment
+The highway is the most dangerous highway I have ever seen.	The highway is the most dangerous highway in the world.	not_entailment
+The highway is the most dangerous highway in the world.	The highway is the most dangerous highway I have ever seen.	entailment
+The editor is the most independent editor I have ever seen.	The editor is the most independent editor in the world.	not_entailment
+The editor is the most independent editor in the world.	The editor is the most independent editor I have ever seen.	entailment
+The safari is the biggest safari I have ever seen.	The safari is the biggest safari in the world.	not_entailment
+The safari is the biggest safari in the world.	The safari is the biggest safari I have ever seen.	entailment
+The dollar is the weakest dollar I have ever seen.	The dollar is the weakest dollar in the world.	not_entailment
+The dollar is the weakest dollar in the world.	The dollar is the weakest dollar I have ever seen.	entailment
+The world is the coolest world I have ever seen.	The world is the coolest world in the world.	not_entailment
+The world is the coolest world in the world.	The world is the coolest world I have ever seen.	entailment
+The outcome is the most impossible outcome I have ever seen.	The outcome is the most impossible outcome in the world.	not_entailment
+The outcome is the most impossible outcome in the world.	The outcome is the most impossible outcome I have ever seen.	entailment
+The messenger is the most special messenger I have ever seen.	The messenger is the most special messenger in the world.	not_entailment
+The messenger is the most special messenger in the world.	The messenger is the most special messenger I have ever seen.	entailment
+The government is the happiest government I have ever seen.	The government is the happiest government in the world.	not_entailment
+The government is the happiest government in the world.	The government is the happiest government I have ever seen.	entailment
+The plastic is the thinnest plastic I have ever seen.	The plastic is the thinnest plastic in the world.	not_entailment
+The plastic is the thinnest plastic in the world.	The plastic is the thinnest plastic I have ever seen.	entailment
+The bar is the lowest bar I have ever seen.	The bar is the lowest bar in the world.	not_entailment
+The bar is the lowest bar in the world.	The bar is the lowest bar I have ever seen.	entailment
+The perspective is the most different perspective I have ever seen.	The perspective is the most different perspective in the world.	not_entailment
+The perspective is the most different perspective in the world.	The perspective is the most different perspective I have ever seen.	entailment
+The border is the narrowest border I have ever seen.	The border is the narrowest border in the world.	not_entailment
+The border is the narrowest border in the world.	The border is the narrowest border I have ever seen.	entailment
+The execution is the completest execution I have ever seen.	The execution is the completest execution in the world.	not_entailment
+The execution is the completest execution in the world.	The execution is the completest execution I have ever seen.	entailment
+The outside is the coldest outside I have ever seen.	The outside is the coldest outside in the world.	not_entailment
+The outside is the coldest outside in the world.	The outside is the coldest outside I have ever seen.	entailment
+The internet is the craziest internet I have ever seen.	The internet is the craziest internet in the world.	not_entailment
+The internet is the craziest internet in the world.	The internet is the craziest internet I have ever seen.	entailment
+The mayor is the sickest mayor I have ever seen.	The mayor is the sickest mayor in the world.	not_entailment
+The mayor is the sickest mayor in the world.	The mayor is the sickest mayor I have ever seen.	entailment
+The locator is the most direct locator I have ever seen.	The locator is the most direct locator in the world.	not_entailment
+The locator is the most direct locator in the world.	The locator is the most direct locator I have ever seen.	entailment
+The atmosphere is the most dangerous atmosphere I have ever seen.	The atmosphere is the most dangerous atmosphere in the world.	not_entailment
+The atmosphere is the most dangerous atmosphere in the world.	The atmosphere is the most dangerous atmosphere I have ever seen.	entailment
+The dynamic is the most interesting dynamic I have ever seen.	The dynamic is the most interesting dynamic in the world.	not_entailment
+The dynamic is the most interesting dynamic in the world.	The dynamic is the most interesting dynamic I have ever seen.	entailment
+The snow is the dryest snow I have ever seen.	The snow is the dryest snow in the world.	not_entailment
+The snow is the dryest snow in the world.	The snow is the dryest snow I have ever seen.	entailment
+The weather is the craziest weather I have ever seen.	The weather is the craziest weather in the world.	not_entailment
+The weather is the craziest weather in the world.	The weather is the craziest weather I have ever seen.	entailment
+The ground is the coldest ground I have ever seen.	The ground is the coldest ground in the world.	not_entailment
+The ground is the coldest ground in the world.	The ground is the coldest ground I have ever seen.	entailment
+The positive is the most definite positive I have ever seen.	The positive is the most definite positive in the world.	not_entailment
+The positive is the most definite positive in the world.	The positive is the most definite positive I have ever seen.	entailment
+The cost is the farthest cost I have ever seen.	The cost is the farthest cost in the world.	not_entailment
+The cost is the farthest cost in the world.	The cost is the farthest cost I have ever seen.	entailment
+The landscape is the oddest landscape I have ever seen.	The landscape is the oddest landscape in the world.	not_entailment
+The landscape is the oddest landscape in the world.	The landscape is the oddest landscape I have ever seen.	entailment
+The design is the most original design I have ever seen.	The design is the most original design in the world.	not_entailment
+The design is the most original design in the world.	The design is the most original design I have ever seen.	entailment
+The benefit is the most profound benefit I have ever seen.	The benefit is the most profound benefit in the world.	not_entailment
+The benefit is the most profound benefit in the world.	The benefit is the most profound benefit I have ever seen.	entailment
+The range is the farthest range I have ever seen.	The range is the farthest range in the world.	not_entailment
+The range is the farthest range in the world.	The range is the farthest range I have ever seen.	entailment
+The coast is the cleanest coast I have ever seen.	The coast is the cleanest coast in the world.	not_entailment
+The coast is the cleanest coast in the world.	The coast is the cleanest coast I have ever seen.	entailment
+The bibliography is the richest bibliography I have ever seen.	The bibliography is the richest bibliography in the world.	not_entailment
+The bibliography is the richest bibliography in the world.	The bibliography is the richest bibliography I have ever seen.	entailment
+The density is the most normal density I have ever seen.	The density is the most normal density in the world.	not_entailment
+The density is the most normal density in the world.	The density is the most normal density I have ever seen.	entailment
+The steering is the smoothest steering I have ever seen.	The steering is the smoothest steering in the world.	not_entailment
+The steering is the smoothest steering in the world.	The steering is the smoothest steering I have ever seen.	entailment
+The park is the coolest park I have ever seen.	The park is the coolest park in the world.	not_entailment
+The park is the coolest park in the world.	The park is the coolest park I have ever seen.	entailment
+The guy is the richest guy I have ever seen.	The guy is the richest guy in the world.	not_entailment
+The guy is the richest guy in the world.	The guy is the richest guy I have ever seen.	entailment
+The bank is the healthiest bank I have ever seen.	The bank is the healthiest bank in the world.	not_entailment
+The bank is the healthiest bank in the world.	The bank is the healthiest bank I have ever seen.	entailment
+The jewellery is the newest jewellery I have ever seen.	The jewellery is the newest jewellery in the world.	not_entailment
+The jewellery is the newest jewellery in the world.	The jewellery is the newest jewellery I have ever seen.	entailment
+The room is the hottest room I have ever seen.	The room is the hottest room in the world.	not_entailment
+The room is the hottest room in the world.	The room is the hottest room I have ever seen.	entailment
+The arrow is the straightest arrow I have ever seen.	The arrow is the straightest arrow in the world.	not_entailment
+The arrow is the straightest arrow in the world.	The arrow is the straightest arrow I have ever seen.	entailment
+The music is the gentlest music I have ever seen.	The music is the gentlest music in the world.	not_entailment
+The music is the gentlest music in the world.	The music is the gentlest music I have ever seen.	entailment
+The cat is the sickest cat I have ever seen.	The cat is the sickest cat in the world.	not_entailment
+The cat is the sickest cat in the world.	The cat is the sickest cat I have ever seen.	entailment
+The meaning is the most profound meaning I have ever seen.	The meaning is the most profound meaning in the world.	not_entailment
+The meaning is the most profound meaning in the world.	The meaning is the most profound meaning I have ever seen.	entailment
+The reed is the dryest reed I have ever seen.	The reed is the dryest reed in the world.	not_entailment
+The reed is the dryest reed in the world.	The reed is the dryest reed I have ever seen.	entailment
+The beast is the hungriest beast I have ever seen.	The beast is the hungriest beast in the world.	not_entailment
+The beast is the hungriest beast in the world.	The beast is the hungriest beast I have ever seen.	entailment
+The error is the most acceptable error I have ever seen.	The error is the most acceptable error in the world.	not_entailment
+The error is the most acceptable error in the world.	The error is the most acceptable error I have ever seen.	entailment
+The approach is the gentlest approach I have ever seen.	The approach is the gentlest approach in the world.	not_entailment
+The approach is the gentlest approach in the world.	The approach is the gentlest approach I have ever seen.	entailment
+The mechanism is the most similar mechanism I have ever seen.	The mechanism is the most similar mechanism in the world.	not_entailment
+The mechanism is the most similar mechanism in the world.	The mechanism is the most similar mechanism I have ever seen.	entailment
+The word is the craziest word I have ever seen.	The word is the craziest word in the world.	not_entailment
+The word is the craziest word in the world.	The word is the craziest word I have ever seen.	entailment
+The world is the best world I have ever seen.	The world is the best world in the world.	not_entailment
+The world is the best world in the world.	The world is the best world I have ever seen.	entailment
+The jewellery is the purest jewellery I have ever seen.	The jewellery is the purest jewellery in the world.	not_entailment
+The jewellery is the purest jewellery in the world.	The jewellery is the purest jewellery I have ever seen.	entailment
+The combination is the most impossible combination I have ever seen.	The combination is the most impossible combination in the world.	not_entailment
+The combination is the most impossible combination in the world.	The combination is the most impossible combination I have ever seen.	entailment
+The job is the completest job I have ever seen.	The job is the completest job in the world.	not_entailment
+The job is the completest job in the world.	The job is the completest job I have ever seen.	entailment
+The diet is the most normal diet I have ever seen.	The diet is the most normal diet in the world.	not_entailment
+The diet is the most normal diet in the world.	The diet is the most normal diet I have ever seen.	entailment
+The quality is the poorest quality I have ever seen.	The quality is the poorest quality in the world.	not_entailment
+The quality is the poorest quality in the world.	The quality is the poorest quality I have ever seen.	entailment
+The clay is the dryest clay I have ever seen.	The clay is the dryest clay in the world.	not_entailment
+The clay is the dryest clay in the world.	The clay is the dryest clay I have ever seen.	entailment
+The truth is the straightest truth I have ever seen.	The truth is the straightest truth in the world.	not_entailment
+The truth is the straightest truth in the world.	The truth is the straightest truth I have ever seen.	entailment
+The church is the sickest church I have ever seen.	The church is the sickest church in the world.	not_entailment
+The church is the sickest church in the world.	The church is the sickest church I have ever seen.	entailment
+The no is the most definite no I have ever seen.	The no is the most definite no in the world.	not_entailment
+The no is the most definite no in the world.	The no is the most definite no I have ever seen.	entailment
+The result is the most profound result I have ever seen.	The result is the most profound result in the world.	not_entailment
+The result is the most profound result in the world.	The result is the most profound result I have ever seen.	entailment
+The name is the most original name I have ever seen.	The name is the most original name in the world.	not_entailment
+The name is the most original name in the world.	The name is the most original name I have ever seen.	entailment
+The programme is the most independent programme I have ever seen.	The programme is the most independent programme in the world.	not_entailment
+The programme is the most independent programme in the world.	The programme is the most independent programme I have ever seen.	entailment
+The thing is the craziest thing I have ever seen.	The thing is the craziest thing in the world.	not_entailment
+The thing is the craziest thing in the world.	The thing is the craziest thing I have ever seen.	entailment
+The west is the straightest west I have ever seen.	The west is the straightest west in the world.	not_entailment
+The west is the straightest west in the world.	The west is the straightest west I have ever seen.	entailment
+The surface is the flattest surface I have ever seen.	The surface is the flattest surface in the world.	not_entailment
+The surface is the flattest surface in the world.	The surface is the flattest surface I have ever seen.	entailment
+The atmosphere is the oddest atmosphere I have ever seen.	The atmosphere is the oddest atmosphere in the world.	not_entailment
+The atmosphere is the oddest atmosphere in the world.	The atmosphere is the oddest atmosphere I have ever seen.	entailment
+The answer is the clearest answer I have ever seen.	The answer is the clearest answer in the world.	not_entailment
+The answer is the clearest answer in the world.	The answer is the clearest answer I have ever seen.	entailment
+The occasion is the suitablest occasion I have ever seen.	The occasion is the suitablest occasion in the world.	not_entailment
+The occasion is the suitablest occasion in the world.	The occasion is the suitablest occasion I have ever seen.	entailment
+The core is the strongest core I have ever seen.	The core is the strongest core in the world.	not_entailment
+The core is the strongest core in the world.	The core is the strongest core I have ever seen.	entailment
+The process is the possiblest process I have ever seen.	The process is the possiblest process in the world.	not_entailment
+The process is the possiblest process in the world.	The process is the possiblest process I have ever seen.	entailment
+The game is the most interesting game I have ever seen.	The game is the most interesting game in the world.	not_entailment
+The game is the most interesting game in the world.	The game is the most interesting game I have ever seen.	entailment
+The recovery is the possiblest recovery I have ever seen.	The recovery is the possiblest recovery in the world.	not_entailment
+The recovery is the possiblest recovery in the world.	The recovery is the possiblest recovery I have ever seen.	entailment
+The pottery is the purest pottery I have ever seen.	The pottery is the purest pottery in the world.	not_entailment
+The pottery is the purest pottery in the world.	The pottery is the purest pottery I have ever seen.	entailment
+The moment is the most certain moment I have ever seen.	The moment is the most certain moment in the world.	not_entailment
+The moment is the most certain moment in the world.	The moment is the most certain moment I have ever seen.	entailment
+The system is the most dangerous system I have ever seen.	The system is the most dangerous system in the world.	not_entailment
+The system is the most dangerous system in the world.	The system is the most dangerous system I have ever seen.	entailment
+The net is the thinnest net I have ever seen.	The net is the thinnest net in the world.	not_entailment
+The net is the thinnest net in the world.	The net is the thinnest net I have ever seen.	entailment
+The car is the dirtiest car I have ever seen.	The car is the dirtiest car in the world.	not_entailment
+The car is the dirtiest car in the world.	The car is the dirtiest car I have ever seen.	entailment
+The reed is the heaviest reed I have ever seen.	The reed is the heaviest reed in the world.	not_entailment
+The reed is the heaviest reed in the world.	The reed is the heaviest reed I have ever seen.	entailment
+The gi is the most original gi I have ever seen.	The gi is the most original gi in the world.	not_entailment
+The gi is the most original gi in the world.	The gi is the most original gi I have ever seen.	entailment
+The concern is the most profound concern I have ever seen.	The concern is the most profound concern in the world.	not_entailment
+The concern is the most profound concern in the world.	The concern is the most profound concern I have ever seen.	entailment
+The pattern is the most similar pattern I have ever seen.	The pattern is the most similar pattern in the world.	not_entailment
+The pattern is the most similar pattern in the world.	The pattern is the most similar pattern I have ever seen.	entailment
+The woman is the most silent woman I have ever seen.	The woman is the most silent woman in the world.	not_entailment
+The woman is the most silent woman in the world.	The woman is the most silent woman I have ever seen.	entailment
+The recorder is the most silent recorder I have ever seen.	The recorder is the most silent recorder in the world.	not_entailment
+The recorder is the most silent recorder in the world.	The recorder is the most silent recorder I have ever seen.	entailment
+The snow is the heaviest snow I have ever seen.	The snow is the heaviest snow in the world.	not_entailment
+The snow is the heaviest snow in the world.	The snow is the heaviest snow I have ever seen.	entailment
+The yard is the cleanest yard I have ever seen.	The yard is the cleanest yard in the world.	not_entailment
+The yard is the cleanest yard in the world.	The yard is the cleanest yard I have ever seen.	entailment
+The truck is the cleanest truck I have ever seen.	The truck is the cleanest truck in the world.	not_entailment
+The truck is the cleanest truck in the world.	The truck is the cleanest truck I have ever seen.	entailment
+The quote is the most original quote I have ever seen.	The quote is the most original quote in the world.	not_entailment
+The quote is the most original quote in the world.	The quote is the most original quote I have ever seen.	entailment
+The line is the longest line I have ever seen.	The line is the longest line in the world.	not_entailment
+The line is the longest line in the world.	The line is the longest line I have ever seen.	entailment
+The pan is the shallowest pan I have ever seen.	The pan is the shallowest pan in the world.	not_entailment
+The pan is the shallowest pan in the world.	The pan is the shallowest pan I have ever seen.	entailment
+The glass is the tallest glass I have ever seen.	The glass is the tallest glass in the world.	not_entailment
+The glass is the tallest glass in the world.	The glass is the tallest glass I have ever seen.	entailment
+The bird is the fattest bird I have ever seen.	The bird is the fattest bird in the world.	not_entailment
+The bird is the fattest bird in the world.	The bird is the fattest bird I have ever seen.	entailment
+The dark is the deepest dark I have ever seen.	The dark is the deepest dark in the world.	not_entailment
+The dark is the deepest dark in the world.	The dark is the deepest dark I have ever seen.	entailment
+The level is the lowest level I have ever seen.	The level is the lowest level in the world.	not_entailment
+The level is the lowest level in the world.	The level is the lowest level I have ever seen.	entailment
+The combination is the oddest combination I have ever seen.	The combination is the oddest combination in the world.	not_entailment
+The combination is the oddest combination in the world.	The combination is the oddest combination I have ever seen.	entailment
+The theory is the most interesting theory I have ever seen.	The theory is the most interesting theory in the world.	not_entailment
+The theory is the most interesting theory in the world.	The theory is the most interesting theory I have ever seen.	entailment
+The country is the youngest country I have ever seen.	The country is the youngest country in the world.	not_entailment
+The country is the youngest country in the world.	The country is the youngest country I have ever seen.	entailment
+The banner is the most original banner I have ever seen.	The banner is the most original banner in the world.	not_entailment
+The banner is the most original banner in the world.	The banner is the most original banner I have ever seen.	entailment
+The paint is the dryest paint I have ever seen.	The paint is the dryest paint in the world.	not_entailment
+The paint is the dryest paint in the world.	The paint is the dryest paint I have ever seen.	entailment
+The gear is the most expensive gear I have ever seen.	The gear is the most expensive gear in the world.	not_entailment
+The gear is the most expensive gear in the world.	The gear is the most expensive gear I have ever seen.	entailment
+The deck is the narrowest deck I have ever seen.	The deck is the narrowest deck in the world.	not_entailment
+The deck is the narrowest deck in the world.	The deck is the narrowest deck I have ever seen.	entailment
+The music is the most special music I have ever seen.	The music is the most special music in the world.	not_entailment
+The music is the most special music in the world.	The music is the most special music I have ever seen.	entailment
+The boot is the cleanest boot I have ever seen.	The boot is the cleanest boot in the world.	not_entailment
+The boot is the cleanest boot in the world.	The boot is the cleanest boot I have ever seen.	entailment
+The word is the fattest word I have ever seen.	The word is the fattest word in the world.	not_entailment
+The word is the fattest word in the world.	The word is the fattest word I have ever seen.	entailment
+The supply is the shortest supply I have ever seen.	The supply is the shortest supply in the world.	not_entailment
+The supply is the shortest supply in the world.	The supply is the shortest supply I have ever seen.	entailment
+The bed is the flattest bed I have ever seen.	The bed is the flattest bed in the world.	not_entailment
+The bed is the flattest bed in the world.	The bed is the flattest bed I have ever seen.	entailment
+The border is the widest border I have ever seen.	The border is the widest border in the world.	not_entailment
+The border is the widest border in the world.	The border is the widest border I have ever seen.	entailment
+The throat is the dryest throat I have ever seen.	The throat is the dryest throat in the world.	not_entailment
+The throat is the dryest throat in the world.	The throat is the dryest throat I have ever seen.	entailment
+The return is the lowest return I have ever seen.	The return is the lowest return in the world.	not_entailment
+The return is the lowest return in the world.	The return is the lowest return I have ever seen.	entailment
+The future is the oddest future I have ever seen.	The future is the oddest future in the world.	not_entailment
+The future is the oddest future in the world.	The future is the oddest future I have ever seen.	entailment
+The copper is the purest copper I have ever seen.	The copper is the purest copper in the world.	not_entailment
+The copper is the purest copper in the world.	The copper is the purest copper I have ever seen.	entailment
+The transformation is the completest transformation I have ever seen.	The transformation is the completest transformation in the world.	not_entailment
+The transformation is the completest transformation in the world.	The transformation is the completest transformation I have ever seen.	entailment
+The chemistry is the most similar chemistry I have ever seen.	The chemistry is the most similar chemistry in the world.	not_entailment
+The chemistry is the most similar chemistry in the world.	The chemistry is the most similar chemistry I have ever seen.	entailment
+The sea is the flattest sea I have ever seen.	The sea is the flattest sea in the world.	not_entailment
+The sea is the flattest sea in the world.	The sea is the flattest sea I have ever seen.	entailment
+The bedding is the heaviest bedding I have ever seen.	The bedding is the heaviest bedding in the world.	not_entailment
+The bedding is the heaviest bedding in the world.	The bedding is the heaviest bedding I have ever seen.	entailment
+The answer is the simplest answer I have ever seen.	The answer is the simplest answer in the world.	not_entailment
+The answer is the simplest answer in the world.	The answer is the simplest answer I have ever seen.	entailment
+The word is the most impossible word I have ever seen.	The word is the most impossible word in the world.	not_entailment
+The word is the most impossible word in the world.	The word is the most impossible word I have ever seen.	entailment
+The concentration is the lowest concentration I have ever seen.	The concentration is the lowest concentration in the world.	not_entailment
+The concentration is the lowest concentration in the world.	The concentration is the lowest concentration I have ever seen.	entailment
+The world is the craziest world I have ever seen.	The world is the craziest world in the world.	not_entailment
+The world is the craziest world in the world.	The world is the craziest world I have ever seen.	entailment
+The border is the roughest border I have ever seen.	The border is the roughest border in the world.	not_entailment
+The border is the roughest border in the world.	The border is the roughest border I have ever seen.	entailment
+The soup is the thickest soup I have ever seen.	The soup is the thickest soup in the world.	not_entailment
+The soup is the thickest soup in the world.	The soup is the thickest soup I have ever seen.	entailment
+The screen is the most silent screen I have ever seen.	The screen is the most silent screen in the world.	not_entailment
+The screen is the most silent screen in the world.	The screen is the most silent screen I have ever seen.	entailment
+The thought is the craziest thought I have ever seen.	The thought is the craziest thought in the world.	not_entailment
+The thought is the craziest thought in the world.	The thought is the craziest thought I have ever seen.	entailment
+The nose is the straightest nose I have ever seen.	The nose is the straightest nose in the world.	not_entailment
+The nose is the straightest nose in the world.	The nose is the straightest nose I have ever seen.	entailment
+The fruit is the purest fruit I have ever seen.	The fruit is the purest fruit in the world.	not_entailment
+The fruit is the purest fruit in the world.	The fruit is the purest fruit I have ever seen.	entailment
+The puzzle is the most difficult puzzle I have ever seen.	The puzzle is the most difficult puzzle in the world.	not_entailment
+The puzzle is the most difficult puzzle in the world.	The puzzle is the most difficult puzzle I have ever seen.	entailment
+The plane is the safest plane I have ever seen.	The plane is the safest plane in the world.	not_entailment
+The plane is the safest plane in the world.	The plane is the safest plane I have ever seen.	entailment
+The price is the best price I have ever seen.	The price is the best price in the world.	not_entailment
+The price is the best price in the world.	The price is the best price I have ever seen.	entailment
+The truth is the most different truth I have ever seen.	The truth is the most different truth in the world.	not_entailment
+The truth is the most different truth in the world.	The truth is the most different truth I have ever seen.	entailment
+The grove is the youngest grove I have ever seen.	The grove is the youngest grove in the world.	not_entailment
+The grove is the youngest grove in the world.	The grove is the youngest grove I have ever seen.	entailment
+The dog is the gentlest dog I have ever seen.	The dog is the gentlest dog in the world.	not_entailment
+The dog is the gentlest dog in the world.	The dog is the gentlest dog I have ever seen.	entailment
+The motion is the smoothest motion I have ever seen.	The motion is the smoothest motion in the world.	not_entailment
+The motion is the smoothest motion in the world.	The motion is the smoothest motion I have ever seen.	entailment
+The variation is the widest variation I have ever seen.	The variation is the widest variation in the world.	not_entailment
+The variation is the widest variation in the world.	The variation is the widest variation I have ever seen.	entailment
+The middle is the flattest middle I have ever seen.	The middle is the flattest middle in the world.	not_entailment
+The middle is the flattest middle in the world.	The middle is the flattest middle I have ever seen.	entailment
+The road is the wettest road I have ever seen.	The road is the wettest road in the world.	not_entailment
+The road is the wettest road in the world.	The road is the wettest road I have ever seen.	entailment
+The beach is the dirtiest beach I have ever seen.	The beach is the dirtiest beach in the world.	not_entailment
+The beach is the dirtiest beach in the world.	The beach is the dirtiest beach I have ever seen.	entailment
+The salt is the cheapest salt I have ever seen.	The salt is the cheapest salt in the world.	not_entailment
+The salt is the cheapest salt in the world.	The salt is the cheapest salt I have ever seen.	entailment
+The artwork is the most original artwork I have ever seen.	The artwork is the most original artwork in the world.	not_entailment
+The artwork is the most original artwork in the world.	The artwork is the most original artwork I have ever seen.	entailment
+The crew is the hungriest crew I have ever seen.	The crew is the hungriest crew in the world.	not_entailment
+The crew is the hungriest crew in the world.	The crew is the hungriest crew I have ever seen.	entailment
+The village is the poorest village I have ever seen.	The village is the poorest village in the world.	not_entailment
+The village is the poorest village in the world.	The village is the poorest village I have ever seen.	entailment
+The memorabilia is the largest memorabilia I have ever seen.	The memorabilia is the largest memorabilia in the world.	not_entailment
+The memorabilia is the largest memorabilia in the world.	The memorabilia is the largest memorabilia I have ever seen.	entailment
+The well is the shallowest well I have ever seen.	The well is the shallowest well in the world.	not_entailment
+The well is the shallowest well in the world.	The well is the shallowest well I have ever seen.	entailment
+The road is the straightest road I have ever seen.	The road is the straightest road in the world.	not_entailment
+The road is the straightest road in the world.	The road is the straightest road I have ever seen.	entailment
+The driver is the safest driver I have ever seen.	The driver is the safest driver in the world.	not_entailment
+The driver is the safest driver in the world.	The driver is the safest driver I have ever seen.	entailment
+The village is the smallest village I have ever seen.	The village is the smallest village in the world.	not_entailment
+The village is the smallest village in the world.	The village is the smallest village I have ever seen.	entailment
+The man is the oldest man I have ever seen.	The man is the oldest man in the world.	not_entailment
+The man is the oldest man in the world.	The man is the oldest man I have ever seen.	entailment
+The sky is the wettest sky I have ever seen.	The sky is the wettest sky in the world.	not_entailment
+The sky is the wettest sky in the world.	The sky is the wettest sky I have ever seen.	entailment
+The wind is the most certain wind I have ever seen.	The wind is the most certain wind in the world.	not_entailment
+The wind is the most certain wind in the world.	The wind is the most certain wind I have ever seen.	entailment

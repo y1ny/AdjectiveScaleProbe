@@ -1,0 +1,863 @@
+sentence1	sentence2	gold_label
+A 80°C alcohol is hot. A 40°C alcohol is cold.	A 30°C alcohol is hot.	contradiction
+A 80°C alcohol is hot. A 40°C alcohol is cold.	A 34°C alcohol is hot.	contradiction
+A 80°C alcohol is hot. A 40°C alcohol is cold.	A 92°C alcohol is cold.	contradiction
+A 96°C bowl is hot. A 56°C bowl is cold.	A 44°C bowl is hot.	contradiction
+A 96°C bowl is hot. A 56°C bowl is cold.	A 46°C bowl is hot.	contradiction
+A 96°C bowl is hot. A 56°C bowl is cold.	A 48°C bowl is hot.	contradiction
+A 96°C bowl is hot. A 56°C bowl is cold.	A 54°C bowl is hot.	contradiction
+A 96°C bowl is hot. A 56°C bowl is cold.	A 100°C bowl is hot.	entailment
+A 96°C bowl is hot. A 56°C bowl is cold.	A 102°C bowl is hot.	entailment
+A 96°C bowl is hot. A 56°C bowl is cold.	A 108°C bowl is hot.	entailment
+A 96°C bowl is hot. A 56°C bowl is cold.	A 112°C bowl is hot.	entailment
+A 96°C bowl is hot. A 56°C bowl is cold.	A 38°C bowl is cold.	entailment
+A 96°C bowl is hot. A 56°C bowl is cold.	A 40°C bowl is cold.	entailment
+A 96°C bowl is hot. A 56°C bowl is cold.	A 112°C bowl is cold.	contradiction
+A 107°C cup is hot. A 67°C cup is cold.	A 53°C cup is hot.	contradiction
+A 107°C cup is hot. A 67°C cup is cold.	A 57°C cup is hot.	contradiction
+A 107°C cup is hot. A 67°C cup is cold.	A 59°C cup is hot.	contradiction
+A 107°C cup is hot. A 67°C cup is cold.	A 61°C cup is hot.	contradiction
+A 107°C cup is hot. A 67°C cup is cold.	A 117°C cup is hot.	entailment
+A 107°C cup is hot. A 67°C cup is cold.	A 49°C cup is cold.	entailment
+A 107°C cup is hot. A 67°C cup is cold.	A 51°C cup is cold.	entailment
+A 107°C cup is hot. A 67°C cup is cold.	A 59°C cup is cold.	entailment
+A 120°C oil is hot. A 80°C oil is cold.	A 70°C oil is hot.	contradiction
+A 120°C oil is hot. A 80°C oil is cold.	A 134°C oil is hot.	entailment
+A 120°C oil is hot. A 80°C oil is cold.	A 64°C oil is cold.	entailment
+A 120°C oil is hot. A 80°C oil is cold.	A 74°C oil is cold.	entailment
+A 120°C oil is hot. A 80°C oil is cold.	A 78°C oil is cold.	entailment
+A 120°C oil is hot. A 80°C oil is cold.	A 126°C oil is cold.	contradiction
+A 120°C oil is hot. A 80°C oil is cold.	A 130°C oil is cold.	contradiction
+A 166°C butter is hot. A 106°C butter is cold.	A 97°C butter is hot.	contradiction
+A 166°C butter is hot. A 106°C butter is cold.	A 100°C butter is hot.	contradiction
+A 166°C butter is hot. A 106°C butter is cold.	A 103°C butter is hot.	contradiction
+A 166°C butter is hot. A 106°C butter is cold.	A 166°C butter is hot.	entailment
+A 166°C butter is hot. A 106°C butter is cold.	A 169°C butter is hot.	entailment
+A 166°C butter is hot. A 106°C butter is cold.	A 85°C butter is cold.	entailment
+A 166°C butter is hot. A 106°C butter is cold.	A 97°C butter is cold.	entailment
+A 166°C butter is hot. A 106°C butter is cold.	A 106°C butter is cold.	entailment
+A 200°C gas is hot. A 120°C gas is cold.	A 116°C gas is hot.	contradiction
+A 200°C gas is hot. A 120°C gas is cold.	A 120°C gas is hot.	contradiction
+A 200°C gas is hot. A 120°C gas is cold.	A 200°C gas is hot.	entailment
+A 200°C gas is hot. A 120°C gas is cold.	A 236°C gas is hot.	entailment
+A 200°C gas is hot. A 120°C gas is cold.	A 84°C gas is cold.	entailment
+A 200°C gas is hot. A 120°C gas is cold.	A 88°C gas is cold.	entailment
+A 200°C gas is hot. A 120°C gas is cold.	A 108°C gas is cold.	entailment
+A 200°C gas is hot. A 120°C gas is cold.	A 120°C gas is cold.	entailment
+A 200°C gas is hot. A 120°C gas is cold.	A 208°C gas is cold.	contradiction
+A 200°C gas is hot. A 120°C gas is cold.	A 220°C gas is cold.	contradiction
+A 216°C oven is hot. A 136°C oven is cold.	A 128°C oven is hot.	contradiction
+A 216°C oven is hot. A 136°C oven is cold.	A 120°C oven is cold.	entailment
+A 216°C oven is hot. A 136°C oven is cold.	A 124°C oven is cold.	entailment
+A 216°C oven is hot. A 136°C oven is cold.	A 216°C oven is cold.	contradiction
+A 216°C oven is hot. A 136°C oven is cold.	A 224°C oven is cold.	contradiction
+A 216°C oven is hot. A 136°C oven is cold.	A 228°C oven is cold.	contradiction
+A 216°C oven is hot. A 136°C oven is cold.	A 236°C oven is cold.	contradiction
+A 60°C desert is hot. A 20°C desert is cold.	A 12°C desert is hot.	contradiction
+A 60°C desert is hot. A 20°C desert is cold.	A 68°C desert is hot.	entailment
+A 60°C desert is hot. A 20°C desert is cold.	A 70°C desert is hot.	entailment
+A 60°C desert is hot. A 20°C desert is cold.	A 4°C desert is cold.	entailment
+A 60°C desert is hot. A 20°C desert is cold.	A 6°C desert is cold.	entailment
+A 60°C desert is hot. A 20°C desert is cold.	A 14°C desert is cold.	entailment
+A 60°C desert is hot. A 20°C desert is cold.	A 60°C desert is cold.	contradiction
+A 60°C desert is hot. A 20°C desert is cold.	A 72°C desert is cold.	contradiction
+A 60°C desert is hot. A 20°C desert is cold.	A 78°C desert is cold.	contradiction
+A 216°C dish is hot. A 136°C dish is cold.	A 100°C dish is hot.	contradiction
+A 216°C dish is hot. A 136°C dish is cold.	A 116°C dish is hot.	contradiction
+A 216°C dish is hot. A 136°C dish is cold.	A 120°C dish is hot.	contradiction
+A 216°C dish is hot. A 136°C dish is cold.	A 220°C dish is hot.	entailment
+A 216°C dish is hot. A 136°C dish is cold.	A 232°C dish is hot.	entailment
+A 216°C dish is hot. A 136°C dish is cold.	A 240°C dish is hot.	entailment
+A 216°C dish is hot. A 136°C dish is cold.	A 248°C dish is hot.	entailment
+A 216°C dish is hot. A 136°C dish is cold.	A 252°C dish is hot.	entailment
+A 216°C dish is hot. A 136°C dish is cold.	A 120°C dish is cold.	entailment
+A 216°C dish is hot. A 136°C dish is cold.	A 244°C dish is cold.	contradiction
+A 76°C cookie is hot. A 36°C cookie is cold.	A 18°C cookie is hot.	contradiction
+A 76°C cookie is hot. A 36°C cookie is cold.	A 20°C cookie is hot.	contradiction
+A 76°C cookie is hot. A 36°C cookie is cold.	A 22°C cookie is hot.	contradiction
+A 76°C cookie is hot. A 36°C cookie is cold.	A 24°C cookie is cold.	entailment
+A 76°C cookie is hot. A 36°C cookie is cold.	A 84°C cookie is cold.	contradiction
+A 216°C bacon is hot. A 136°C bacon is cold.	A 108°C bacon is hot.	contradiction
+A 216°C bacon is hot. A 136°C bacon is cold.	A 240°C bacon is hot.	entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 252°C bacon is hot.	entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 112°C bacon is cold.	entailment
+A 216°C bacon is hot. A 136°C bacon is cold.	A 216°C bacon is cold.	contradiction
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 118°C gasoline is hot.	entailment
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 42°C gasoline is cold.	entailment
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 44°C gasoline is cold.	entailment
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 56°C gasoline is cold.	entailment
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 58°C gasoline is cold.	entailment
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 104°C gasoline is cold.	contradiction
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 114°C gasoline is cold.	contradiction
+A 100°C gasoline is hot. A 60°C gasoline is cold.	A 116°C gasoline is cold.	contradiction
+A 90°C squirt is hot. A 50°C squirt is cold.	A 38°C squirt is hot.	contradiction
+A 90°C squirt is hot. A 50°C squirt is cold.	A 50°C squirt is hot.	contradiction
+A 90°C squirt is hot. A 50°C squirt is cold.	A 92°C squirt is hot.	entailment
+A 90°C squirt is hot. A 50°C squirt is cold.	A 108°C squirt is hot.	entailment
+A 90°C squirt is hot. A 50°C squirt is cold.	A 32°C squirt is cold.	entailment
+A 90°C squirt is hot. A 50°C squirt is cold.	A 46°C squirt is cold.	entailment
+A 90°C squirt is hot. A 50°C squirt is cold.	A 92°C squirt is cold.	contradiction
+A 90°C squirt is hot. A 50°C squirt is cold.	A 104°C squirt is cold.	contradiction
+A 90°C squirt is hot. A 50°C squirt is cold.	A 108°C squirt is cold.	contradiction
+A 72°C pizza is hot. A 32°C pizza is cold.	A 18°C pizza is hot.	contradiction
+A 72°C pizza is hot. A 32°C pizza is cold.	A 20°C pizza is hot.	contradiction
+A 72°C pizza is hot. A 32°C pizza is cold.	A 88°C pizza is hot.	entailment
+A 72°C pizza is hot. A 32°C pizza is cold.	A 18°C pizza is cold.	entailment
+A 72°C pizza is hot. A 32°C pizza is cold.	A 24°C pizza is cold.	entailment
+A 72°C pizza is hot. A 32°C pizza is cold.	A 32°C pizza is cold.	entailment
+A 72°C pizza is hot. A 32°C pizza is cold.	A 74°C pizza is cold.	contradiction
+A 72°C pizza is hot. A 32°C pizza is cold.	A 78°C pizza is cold.	contradiction
+A 72°C pizza is hot. A 32°C pizza is cold.	A 84°C pizza is cold.	contradiction
+A 72°C pizza is hot. A 32°C pizza is cold.	A 90°C pizza is cold.	contradiction
+A 116°C pan is hot. A 76°C pan is cold.	A 58°C pan is hot.	contradiction
+A 116°C pan is hot. A 76°C pan is cold.	A 74°C pan is hot.	contradiction
+A 116°C pan is hot. A 76°C pan is cold.	A 76°C pan is hot.	contradiction
+A 116°C pan is hot. A 76°C pan is cold.	A 126°C pan is hot.	entailment
+A 116°C pan is hot. A 76°C pan is cold.	A 128°C pan is hot.	entailment
+A 116°C pan is hot. A 76°C pan is cold.	A 130°C pan is hot.	entailment
+A 116°C pan is hot. A 76°C pan is cold.	A 134°C pan is hot.	entailment
+A 116°C pan is hot. A 76°C pan is cold.	A 58°C pan is cold.	entailment
+A 116°C pan is hot. A 76°C pan is cold.	A 124°C pan is cold.	contradiction
+A 134°C soup is hot. A 74°C soup is cold.	A 56°C soup is hot.	contradiction
+A 134°C soup is hot. A 74°C soup is cold.	A 140°C soup is hot.	entailment
+A 134°C soup is hot. A 74°C soup is cold.	A 146°C soup is hot.	entailment
+A 134°C soup is hot. A 74°C soup is cold.	A 161°C soup is cold.	contradiction
+A 478°C coal is hot. A 318°C coal is cold.	A 286°C coal is hot.	contradiction
+A 478°C coal is hot. A 318°C coal is cold.	A 318°C coal is hot.	contradiction
+A 478°C coal is hot. A 318°C coal is cold.	A 478°C coal is hot.	entailment
+A 478°C coal is hot. A 318°C coal is cold.	A 486°C coal is hot.	entailment
+A 478°C coal is hot. A 318°C coal is cold.	A 270°C coal is cold.	entailment
+A 478°C coal is hot. A 318°C coal is cold.	A 294°C coal is cold.	entailment
+A 478°C coal is hot. A 318°C coal is cold.	A 518°C coal is cold.	contradiction
+A 100°C coffee is hot. A 60°C coffee is cold.	A 48°C coffee is hot.	contradiction
+A 100°C coffee is hot. A 60°C coffee is cold.	A 106°C coffee is hot.	entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 110°C coffee is hot.	entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 112°C coffee is hot.	entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 116°C coffee is hot.	entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 58°C coffee is cold.	entailment
+A 100°C coffee is hot. A 60°C coffee is cold.	A 104°C coffee is cold.	contradiction
+A 100°C coffee is hot. A 60°C coffee is cold.	A 106°C coffee is cold.	contradiction
+A 60°C machine is hot. A 20°C machine is cold.	A 8°C machine is hot.	contradiction
+A 60°C machine is hot. A 20°C machine is cold.	A 12°C machine is hot.	contradiction
+A 60°C machine is hot. A 20°C machine is cold.	A 18°C machine is hot.	contradiction
+A 60°C machine is hot. A 20°C machine is cold.	A 64°C machine is hot.	entailment
+A 60°C machine is hot. A 20°C machine is cold.	A 78°C machine is hot.	entailment
+A 60°C machine is hot. A 20°C machine is cold.	A 68°C machine is cold.	contradiction
+A 60°C machine is hot. A 20°C machine is cold.	A 70°C machine is cold.	contradiction
+A 108°C pork is hot. A 68°C pork is cold.	A 50°C pork is hot.	contradiction
+A 108°C pork is hot. A 68°C pork is cold.	A 54°C pork is hot.	contradiction
+A 108°C pork is hot. A 68°C pork is cold.	A 64°C pork is hot.	contradiction
+A 108°C pork is hot. A 68°C pork is cold.	A 66°C pork is hot.	contradiction
+A 108°C pork is hot. A 68°C pork is cold.	A 110°C pork is hot.	entailment
+A 108°C pork is hot. A 68°C pork is cold.	A 114°C pork is hot.	entailment
+A 108°C pork is hot. A 68°C pork is cold.	A 118°C pork is hot.	entailment
+A 108°C pork is hot. A 68°C pork is cold.	A 54°C pork is cold.	entailment
+A 108°C pork is hot. A 68°C pork is cold.	A 116°C pork is cold.	contradiction
+A 60°C bath is hot. A 20°C bath is cold.	A 2°C bath is hot.	contradiction
+A 60°C bath is hot. A 20°C bath is cold.	A 10°C bath is hot.	contradiction
+A 60°C bath is hot. A 20°C bath is cold.	A 12°C bath is hot.	contradiction
+A 60°C bath is hot. A 20°C bath is cold.	A 62°C bath is hot.	entailment
+A 60°C bath is hot. A 20°C bath is cold.	A 64°C bath is hot.	entailment
+A 60°C bath is hot. A 20°C bath is cold.	A 68°C bath is hot.	entailment
+A 60°C bath is hot. A 20°C bath is cold.	A 2°C bath is cold.	entailment
+A 60°C bath is hot. A 20°C bath is cold.	A 14°C bath is cold.	entailment
+A 60°C bath is hot. A 20°C bath is cold.	A 72°C bath is cold.	contradiction
+A 230°C grill is hot. A 150°C grill is cold.	A 142°C grill is hot.	contradiction
+A 230°C grill is hot. A 150°C grill is cold.	A 230°C grill is cold.	contradiction
+A 113°C fuel is hot. A 73°C fuel is cold.	A 57°C fuel is hot.	contradiction
+A 113°C fuel is hot. A 73°C fuel is cold.	A 71°C fuel is hot.	contradiction
+A 113°C fuel is hot. A 73°C fuel is cold.	A 125°C fuel is hot.	entailment
+A 113°C fuel is hot. A 73°C fuel is cold.	A 131°C fuel is hot.	entailment
+A 160°C pie is hot. A 100°C pie is cold.	A 73°C pie is hot.	contradiction
+A 160°C pie is hot. A 100°C pie is cold.	A 166°C pie is hot.	entailment
+A 160°C pie is hot. A 100°C pie is cold.	A 169°C pie is hot.	entailment
+A 160°C pie is hot. A 100°C pie is cold.	A 172°C pie is hot.	entailment
+A 160°C pie is hot. A 100°C pie is cold.	A 79°C pie is cold.	entailment
+A 160°C pie is hot. A 100°C pie is cold.	A 91°C pie is cold.	entailment
+A 160°C pie is hot. A 100°C pie is cold.	A 97°C pie is cold.	entailment
+A 160°C pie is hot. A 100°C pie is cold.	A 175°C pie is cold.	contradiction
+A 160°C pie is hot. A 100°C pie is cold.	A 178°C pie is cold.	contradiction
+A 160°C pie is hot. A 100°C pie is cold.	A 184°C pie is cold.	contradiction
+A 216°C cheese is hot. A 136°C cheese is cold.	A 136°C cheese is hot.	contradiction
+A 216°C cheese is hot. A 136°C cheese is cold.	A 224°C cheese is hot.	entailment
+A 216°C cheese is hot. A 136°C cheese is cold.	A 236°C cheese is hot.	entailment
+A 216°C cheese is hot. A 136°C cheese is cold.	A 240°C cheese is hot.	entailment
+A 216°C cheese is hot. A 136°C cheese is cold.	A 120°C cheese is cold.	entailment
+A 216°C cheese is hot. A 136°C cheese is cold.	A 128°C cheese is cold.	entailment
+A 216°C cheese is hot. A 136°C cheese is cold.	A 228°C cheese is cold.	contradiction
+A 216°C cheese is hot. A 136°C cheese is cold.	A 236°C cheese is cold.	contradiction
+A 120 cm rope is long. A 80 cm rope is short.	A 70 cm rope is long.	contradiction
+A 120 cm rope is long. A 80 cm rope is short.	A 76 cm rope is long.	contradiction
+A 120 cm rope is long. A 80 cm rope is short.	A 128 cm rope is long.	entailment
+A 120 cm rope is long. A 80 cm rope is short.	A 130 cm rope is long.	entailment
+A 120 cm rope is long. A 80 cm rope is short.	A 134 cm rope is long.	entailment
+A 120 cm rope is long. A 80 cm rope is short.	A 70 cm rope is short.	entailment
+A 120 cm rope is long. A 80 cm rope is short.	A 122 cm rope is short.	contradiction
+A 120 cm rope is long. A 80 cm rope is short.	A 128 cm rope is short.	contradiction
+A 120 cm rope is long. A 80 cm rope is short.	A 132 cm rope is short.	contradiction
+A 120 cm rope is long. A 80 cm rope is short.	A 134 cm rope is short.	contradiction
+A 360 cm sculpture is tall. A 240 cm sculpture is short.	A 192 cm sculpture is tall.	contradiction
+A 360 cm sculpture is tall. A 240 cm sculpture is short.	A 240 cm sculpture is tall.	contradiction
+A 360 cm sculpture is tall. A 240 cm sculpture is short.	A 360 cm sculpture is tall.	entailment
+A 360 cm sculpture is tall. A 240 cm sculpture is short.	A 372 cm sculpture is tall.	entailment
+A 360 cm sculpture is tall. A 240 cm sculpture is short.	A 366 cm sculpture is short.	contradiction
+A 360 cm sculpture is tall. A 240 cm sculpture is short.	A 378 cm sculpture is short.	contradiction
+A 360 cm sculpture is tall. A 240 cm sculpture is short.	A 384 cm sculpture is short.	contradiction
+A 90 cm chair is tall. A 50 cm chair is short.	A 44 cm chair is tall.	contradiction
+A 90 cm chair is tall. A 50 cm chair is short.	A 94 cm chair is tall.	entailment
+A 90 cm chair is tall. A 50 cm chair is short.	A 32 cm chair is short.	entailment
+A 90 cm chair is tall. A 50 cm chair is short.	A 34 cm chair is short.	entailment
+A 90 cm chair is tall. A 50 cm chair is short.	A 38 cm chair is short.	entailment
+A 90 cm chair is tall. A 50 cm chair is short.	A 92 cm chair is short.	contradiction
+A 90 cm chair is tall. A 50 cm chair is short.	A 96 cm chair is short.	contradiction
+A 90 cm chair is tall. A 50 cm chair is short.	A 100 cm chair is short.	contradiction
+A 90 cm chair is tall. A 50 cm chair is short.	A 102 cm chair is short.	contradiction
+A 90 cm chair is tall. A 50 cm chair is short.	A 104 cm chair is short.	contradiction
+A 1110 cm boulder is tall. A 730 cm boulder is short.	A 1167 cm boulder is tall.	entailment
+A 1110 cm boulder is tall. A 730 cm boulder is short.	A 1205 cm boulder is tall.	entailment
+A 1110 cm boulder is tall. A 730 cm boulder is short.	A 1129 cm boulder is short.	contradiction
+A 1110 cm boulder is tall. A 730 cm boulder is short.	A 1148 cm boulder is short.	contradiction
+A 1110 cm boulder is tall. A 730 cm boulder is short.	A 1167 cm boulder is short.	contradiction
+A 1110 cm boulder is tall. A 730 cm boulder is short.	A 1281 cm boulder is short.	contradiction
+A 1200 m hill is tall. A 800 m hill is short.	A 620 m hill is tall.	contradiction
+A 1200 m hill is tall. A 800 m hill is short.	A 1260 m hill is tall.	entailment
+A 1200 m hill is tall. A 800 m hill is short.	A 1280 m hill is tall.	entailment
+A 1200 m hill is tall. A 800 m hill is short.	A 680 m hill is short.	entailment
+A 1200 m hill is tall. A 800 m hill is short.	A 720 m hill is short.	entailment
+A 1200 m hill is tall. A 800 m hill is short.	A 740 m hill is short.	entailment
+A 1200 m hill is tall. A 800 m hill is short.	A 1220 m hill is short.	contradiction
+A 60 m peak is tall. A 20 m peak is short.	A 16 m peak is tall.	contradiction
+A 60 m peak is tall. A 20 m peak is short.	A 68 m peak is tall.	entailment
+A 60 m peak is tall. A 20 m peak is short.	A 60 m peak is short.	contradiction
+A 60 m peak is tall. A 20 m peak is short.	A 68 m peak is short.	contradiction
+A 70 m path is long. A 30 m path is short.	A 22 m path is long.	contradiction
+A 70 m path is long. A 30 m path is short.	A 26 m path is long.	contradiction
+A 70 m path is long. A 30 m path is short.	A 86 m path is long.	entailment
+A 70 m path is long. A 30 m path is short.	A 86 m path is short.	contradiction
+A 210 cm adult is tall. A 130 cm adult is short.	A 102 cm adult is tall.	contradiction
+A 210 cm adult is tall. A 130 cm adult is short.	A 230 cm adult is tall.	entailment
+A 210 cm adult is tall. A 130 cm adult is short.	A 130 cm adult is short.	entailment
+A 210 cm adult is tall. A 130 cm adult is short.	A 222 cm adult is short.	contradiction
+A 210 cm adult is tall. A 130 cm adult is short.	A 234 cm adult is short.	contradiction
+A 210 cm adult is tall. A 130 cm adult is short.	A 238 cm adult is short.	contradiction
+A 300 m capitol is tall. A 200 m capitol is short.	A 310 m capitol is tall.	entailment
+A 300 m capitol is tall. A 200 m capitol is short.	A 320 m capitol is tall.	entailment
+A 300 m capitol is tall. A 200 m capitol is short.	A 330 m capitol is tall.	entailment
+A 300 m capitol is tall. A 200 m capitol is short.	A 155 m capitol is short.	entailment
+A 300 m capitol is tall. A 200 m capitol is short.	A 180 m capitol is short.	entailment
+A 300 m capitol is tall. A 200 m capitol is short.	A 195 m capitol is short.	entailment
+A 300 m capitol is tall. A 200 m capitol is short.	A 320 m capitol is short.	contradiction
+A 300 m capitol is tall. A 200 m capitol is short.	A 345 m capitol is short.	contradiction
+A 80 cm fish is long. A 40 cm fish is short.	A 22 cm fish is long.	contradiction
+A 80 cm fish is long. A 40 cm fish is short.	A 24 cm fish is long.	contradiction
+A 80 cm fish is long. A 40 cm fish is short.	A 26 cm fish is long.	contradiction
+A 80 cm fish is long. A 40 cm fish is short.	A 34 cm fish is long.	contradiction
+A 80 cm fish is long. A 40 cm fish is short.	A 98 cm fish is long.	entailment
+A 80 cm fish is long. A 40 cm fish is short.	A 26 cm fish is short.	entailment
+A 80 cm fish is long. A 40 cm fish is short.	A 90 cm fish is short.	contradiction
+A 80 cm fish is long. A 40 cm fish is short.	A 94 cm fish is short.	contradiction
+A 60 m tower is tall. A 20 m tower is short.	A 64 m tower is tall.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 68 m tower is tall.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 70 m tower is tall.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 72 m tower is tall.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 8 m tower is short.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 10 m tower is short.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 16 m tower is short.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 20 m tower is short.	entailment
+A 60 m tower is tall. A 20 m tower is short.	A 62 m tower is short.	contradiction
+A 340 m dam is tall. A 220 m dam is short.	A 178 m dam is tall.	contradiction
+A 340 m dam is tall. A 220 m dam is short.	A 190 m dam is tall.	contradiction
+A 340 m dam is tall. A 220 m dam is short.	A 208 m dam is tall.	contradiction
+A 340 m dam is tall. A 220 m dam is short.	A 190 m dam is short.	entailment
+A 340 m dam is tall. A 220 m dam is short.	A 214 m dam is short.	entailment
+A 340 m dam is tall. A 220 m dam is short.	A 220 m dam is short.	entailment
+A 340 m dam is tall. A 220 m dam is short.	A 352 m dam is short.	contradiction
+A 340 m dam is tall. A 220 m dam is short.	A 364 m dam is short.	contradiction
+A 1200 m avenue is long. A 800 m avenue is short.	A 620 m avenue is long.	contradiction
+A 1200 m avenue is long. A 800 m avenue is short.	A 720 m avenue is long.	contradiction
+A 1200 m avenue is long. A 800 m avenue is short.	A 1280 m avenue is long.	entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 640 m avenue is short.	entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 780 m avenue is short.	entailment
+A 1200 m avenue is long. A 800 m avenue is short.	A 1220 m avenue is short.	contradiction
+A 1200 m avenue is long. A 800 m avenue is short.	A 1300 m avenue is short.	contradiction
+A 1200 m avenue is long. A 800 m avenue is short.	A 1360 m avenue is short.	contradiction
+A 1200 m avenue is long. A 800 m avenue is short.	A 1380 m avenue is short.	contradiction
+A 330 m tunnel is long. A 210 m tunnel is short.	A 162 m tunnel is long.	contradiction
+A 330 m tunnel is long. A 210 m tunnel is short.	A 186 m tunnel is long.	contradiction
+A 330 m tunnel is long. A 210 m tunnel is short.	A 192 m tunnel is long.	contradiction
+A 330 m tunnel is long. A 210 m tunnel is short.	A 360 m tunnel is long.	entailment
+A 330 m tunnel is long. A 210 m tunnel is short.	A 378 m tunnel is long.	entailment
+A 330 m tunnel is long. A 210 m tunnel is short.	A 162 m tunnel is short.	entailment
+A 330 m tunnel is long. A 210 m tunnel is short.	A 378 m tunnel is short.	contradiction
+A 60 m chapel is high. A 20 m chapel is low.	A 6 m chapel is high.	contradiction
+A 60 m chapel is high. A 20 m chapel is low.	A 16 m chapel is high.	contradiction
+A 60 m chapel is high. A 20 m chapel is low.	A 72 m chapel is high.	entailment
+A 60 m chapel is high. A 20 m chapel is low.	A 76 m chapel is high.	entailment
+A 60 m chapel is high. A 20 m chapel is low.	A 6 m chapel is low.	entailment
+A 60 m chapel is high. A 20 m chapel is low.	A 12 m chapel is low.	entailment
+A 60 m chapel is high. A 20 m chapel is low.	A 68 m chapel is low.	contradiction
+A 60 m chapel is high. A 20 m chapel is low.	A 70 m chapel is low.	contradiction
+A 60 m chapel is high. A 20 m chapel is low.	A 72 m chapel is low.	contradiction
+A 60 m chapel is high. A 20 m chapel is low.	A 78 m chapel is low.	contradiction
+A 210 cm camel is tall. A 130 cm camel is short.	A 94 cm camel is tall.	contradiction
+A 210 cm camel is tall. A 130 cm camel is short.	A 114 cm camel is tall.	contradiction
+A 210 cm camel is tall. A 130 cm camel is short.	A 118 cm camel is tall.	contradiction
+A 210 cm camel is tall. A 130 cm camel is short.	A 130 cm camel is tall.	contradiction
+A 210 cm camel is tall. A 130 cm camel is short.	A 222 cm camel is tall.	entailment
+A 210 cm camel is tall. A 130 cm camel is short.	A 234 cm camel is tall.	entailment
+A 210 cm camel is tall. A 130 cm camel is short.	A 122 cm camel is short.	entailment
+A 210 cm camel is tall. A 130 cm camel is short.	A 130 cm camel is short.	entailment
+A 210 cm camel is tall. A 130 cm camel is short.	A 242 cm camel is short.	contradiction
+A 300 cm fence is tall. A 200 cm fence is short.	A 155 cm fence is tall.	contradiction
+A 300 cm fence is tall. A 200 cm fence is short.	A 165 cm fence is tall.	contradiction
+A 300 cm fence is tall. A 200 cm fence is short.	A 175 cm fence is tall.	contradiction
+A 300 cm fence is tall. A 200 cm fence is short.	A 200 cm fence is tall.	contradiction
+A 300 cm fence is tall. A 200 cm fence is short.	A 345 cm fence is tall.	entailment
+A 300 cm fence is tall. A 200 cm fence is short.	A 160 cm fence is short.	entailment
+A 300 cm fence is tall. A 200 cm fence is short.	A 165 cm fence is short.	entailment
+A 300 cm fence is tall. A 200 cm fence is short.	A 180 cm fence is short.	entailment
+A 300 cm fence is tall. A 200 cm fence is short.	A 190 cm fence is short.	entailment
+A 300 cm fence is tall. A 200 cm fence is short.	A 325 cm fence is short.	contradiction
+A 80 m condo is tall. A 40 m condo is short.	A 30 m condo is tall.	contradiction
+A 80 m condo is tall. A 40 m condo is short.	A 34 m condo is tall.	contradiction
+A 80 m condo is tall. A 40 m condo is short.	A 36 m condo is tall.	contradiction
+A 80 m condo is tall. A 40 m condo is short.	A 86 m condo is tall.	entailment
+A 80 m condo is tall. A 40 m condo is short.	A 92 m condo is tall.	entailment
+A 80 m condo is tall. A 40 m condo is short.	A 94 m condo is tall.	entailment
+A 80 m condo is tall. A 40 m condo is short.	A 98 m condo is tall.	entailment
+A 80 m condo is tall. A 40 m condo is short.	A 38 m condo is short.	entailment
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 74 cm beaver is tall.	contradiction
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 76 cm beaver is tall.	contradiction
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 78 cm beaver is tall.	contradiction
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 122 cm beaver is tall.	entailment
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 124 cm beaver is tall.	entailment
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 130 cm beaver is tall.	entailment
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 134 cm beaver is tall.	entailment
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 66 cm beaver is short.	entailment
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 74 cm beaver is short.	entailment
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 122 cm beaver is short.	contradiction
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 128 cm beaver is short.	contradiction
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 134 cm beaver is short.	contradiction
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 138 cm beaver is short.	contradiction
+A 120 cm roof is high. A 80 cm roof is low.	A 72 cm roof is high.	contradiction
+A 120 cm roof is high. A 80 cm roof is low.	A 80 cm roof is high.	contradiction
+A 120 cm roof is high. A 80 cm roof is low.	A 122 cm roof is high.	entailment
+A 120 cm roof is high. A 80 cm roof is low.	A 132 cm roof is high.	entailment
+A 120 cm roof is high. A 80 cm roof is low.	A 134 cm roof is high.	entailment
+A 120 cm roof is high. A 80 cm roof is low.	A 138 cm roof is high.	entailment
+A 120 cm roof is high. A 80 cm roof is low.	A 62 cm roof is low.	entailment
+A 120 cm roof is high. A 80 cm roof is low.	A 134 cm roof is low.	contradiction
+A 120 cm roof is high. A 80 cm roof is low.	A 138 cm roof is low.	contradiction
+A 200 cm bush is tall. A 120 cm bush is short.	A 88 cm bush is tall.	contradiction
+A 200 cm bush is tall. A 120 cm bush is short.	A 208 cm bush is tall.	entailment
+A 200 cm bush is tall. A 120 cm bush is short.	A 200 cm bush is short.	contradiction
+A 200 cm bush is tall. A 120 cm bush is short.	A 204 cm bush is short.	contradiction
+A 200 cm bush is tall. A 120 cm bush is short.	A 236 cm bush is short.	contradiction
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 2050 m mountain is tall.	contradiction
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 4195 m mountain is tall.	entailment
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 4325 m mountain is tall.	entailment
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 4390 m mountain is tall.	entailment
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 2050 m mountain is short.	entailment
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 2310 m mountain is short.	entailment
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 2375 m mountain is short.	entailment
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 2505 m mountain is short.	entailment
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 4000 m mountain is short.	contradiction
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 4130 m mountain is short.	contradiction
+A 3870 m mountain is tall. A 2570 m mountain is short.	A 4390 m mountain is short.	contradiction
+A 140 cm dog is tall. A 80 cm dog is short.	A 140 cm dog is tall.	entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 143 cm dog is tall.	entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 146 cm dog is tall.	entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 167 cm dog is tall.	entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 68 cm dog is short.	entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 71 cm dog is short.	entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 80 cm dog is short.	entailment
+A 140 cm dog is tall. A 80 cm dog is short.	A 155 cm dog is short.	contradiction
+A 140 cm dog is tall. A 80 cm dog is short.	A 158 cm dog is short.	contradiction
+A 90 m bridge is long. A 50 m bridge is short.	A 48 m bridge is long.	contradiction
+A 90 m bridge is long. A 50 m bridge is short.	A 102 m bridge is long.	entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 32 m bridge is short.	entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 46 m bridge is short.	entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 48 m bridge is short.	entailment
+A 90 m bridge is long. A 50 m bridge is short.	A 90 m bridge is short.	contradiction
+A 90 m bridge is long. A 50 m bridge is short.	A 92 m bridge is short.	contradiction
+A 90 m bridge is long. A 50 m bridge is short.	A 94 m bridge is short.	contradiction
+A 1200 m temple is high. A 800 m temple is low.	A 700 m temple is high.	contradiction
+A 1200 m temple is high. A 800 m temple is low.	A 720 m temple is high.	contradiction
+A 1200 m temple is high. A 800 m temple is low.	A 1280 m temple is high.	entailment
+A 1200 m temple is high. A 800 m temple is low.	A 620 m temple is low.	entailment
+A 1200 m temple is high. A 800 m temple is low.	A 780 m temple is low.	entailment
+A 1200 m temple is high. A 800 m temple is low.	A 1340 m temple is low.	contradiction
+A 1200 m temple is high. A 800 m temple is low.	A 1360 m temple is low.	contradiction
+A 2190 g meat is heavy. A 1450 g meat is light.	A 1117 g meat is heavy.	contradiction
+A 2190 g meat is heavy. A 1450 g meat is light.	A 1339 g meat is heavy.	contradiction
+A 2190 g meat is heavy. A 1450 g meat is light.	A 2412 g meat is heavy.	entailment
+A 2190 g meat is heavy. A 1450 g meat is light.	A 2486 g meat is heavy.	entailment
+A 2190 g meat is heavy. A 1450 g meat is light.	A 1302 g meat is light.	entailment
+A 2190 g meat is heavy. A 1450 g meat is light.	A 1450 g meat is light.	entailment
+A 2190 g meat is heavy. A 1450 g meat is light.	A 2190 g meat is light.	contradiction
+A 2190 g meat is heavy. A 1450 g meat is light.	A 2375 g meat is light.	contradiction
+A 2190 g meat is heavy. A 1450 g meat is light.	A 2523 g meat is light.	contradiction
+A 120 kg cow is heavy. A 80 kg cow is light.	A 62 kg cow is heavy.	contradiction
+A 120 kg cow is heavy. A 80 kg cow is light.	A 132 kg cow is heavy.	entailment
+A 120 kg cow is heavy. A 80 kg cow is light.	A 138 kg cow is heavy.	entailment
+A 120 kg cow is heavy. A 80 kg cow is light.	A 68 kg cow is light.	entailment
+A 120 kg cow is heavy. A 80 kg cow is light.	A 78 kg cow is light.	entailment
+A 120 kg cow is heavy. A 80 kg cow is light.	A 124 kg cow is light.	contradiction
+A 120 kg cow is heavy. A 80 kg cow is light.	A 136 kg cow is light.	contradiction
+A 90 kg bed is heavy. A 50 kg bed is light.	A 36 kg bed is heavy.	contradiction
+A 90 kg bed is heavy. A 50 kg bed is light.	A 104 kg bed is heavy.	entailment
+A 90 kg bed is heavy. A 50 kg bed is light.	A 40 kg bed is light.	entailment
+A 90 kg bed is heavy. A 50 kg bed is light.	A 46 kg bed is light.	entailment
+A 90 kg bed is heavy. A 50 kg bed is light.	A 98 kg bed is light.	contradiction
+A 90 kg bed is heavy. A 50 kg bed is light.	A 100 kg bed is light.	contradiction
+A 90 kg bed is heavy. A 50 kg bed is light.	A 102 kg bed is light.	contradiction
+A 90 kg bed is heavy. A 50 kg bed is light.	A 106 kg bed is light.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 83 kg mustang is heavy.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 98 kg mustang is heavy.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 101 kg mustang is heavy.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 173 kg mustang is heavy.	entailment
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 185 kg mustang is heavy.	entailment
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 191 kg mustang is heavy.	entailment
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 89 kg mustang is light.	entailment
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 98 kg mustang is light.	entailment
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 170 kg mustang is light.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 173 kg mustang is light.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 182 kg mustang is light.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 191 kg mustang is light.	contradiction
+A 170 kg mustang is heavy. A 110 kg mustang is light.	A 194 kg mustang is light.	contradiction
+A 1200 g pot is heavy. A 800 g pot is light.	A 660 g pot is heavy.	contradiction
+A 1200 g pot is heavy. A 800 g pot is light.	A 740 g pot is heavy.	contradiction
+A 1200 g pot is heavy. A 800 g pot is light.	A 1280 g pot is heavy.	entailment
+A 1200 g pot is heavy. A 800 g pot is light.	A 1300 g pot is heavy.	entailment
+A 1200 g pot is heavy. A 800 g pot is light.	A 740 g pot is light.	entailment
+A 1200 g pot is heavy. A 800 g pot is light.	A 1340 g pot is light.	contradiction
+A 1200 g pot is heavy. A 800 g pot is light.	A 1380 g pot is light.	contradiction
+A 34020 kg train is heavy. A 22680 kg train is light.	A 22113 kg train is heavy.	contradiction
+A 34020 kg train is heavy. A 22680 kg train is light.	A 34587 kg train is heavy.	entailment
+A 34020 kg train is heavy. A 22680 kg train is light.	A 36855 kg train is heavy.	entailment
+A 34020 kg train is heavy. A 22680 kg train is light.	A 38556 kg train is heavy.	entailment
+A 34020 kg train is heavy. A 22680 kg train is light.	A 39123 kg train is heavy.	entailment
+A 34020 kg train is heavy. A 22680 kg train is light.	A 18144 kg train is light.	entailment
+A 34020 kg train is heavy. A 22680 kg train is light.	A 34587 kg train is light.	contradiction
+A 34020 kg train is heavy. A 22680 kg train is light.	A 36288 kg train is light.	contradiction
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 972 kg sculpture is heavy.	contradiction
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 1003 kg sculpture is heavy.	contradiction
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 1034 kg sculpture is heavy.	contradiction
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 1096 kg sculpture is heavy.	contradiction
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 1902 kg sculpture is heavy.	entailment
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 1995 kg sculpture is heavy.	entailment
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 941 kg sculpture is light.	entailment
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 1034 kg sculpture is light.	entailment
+A 1840 kg sculpture is heavy. A 1220 kg sculpture is light.	A 1158 kg sculpture is light.	entailment
+A 1100 g walnut is heavy. A 720 g walnut is light.	A 549 g walnut is heavy.	contradiction
+A 1100 g walnut is heavy. A 720 g walnut is light.	A 663 g walnut is heavy.	contradiction
+A 1100 g walnut is heavy. A 720 g walnut is light.	A 663 g walnut is light.	entailment
+A 1100 g walnut is heavy. A 720 g walnut is light.	A 701 g walnut is light.	entailment
+A 1100 g walnut is heavy. A 720 g walnut is light.	A 1195 g walnut is light.	contradiction
+A 1100 g walnut is heavy. A 720 g walnut is light.	A 1214 g walnut is light.	contradiction
+A 6620 g iron is heavy. A 4400 g iron is light.	A 4067 g iron is heavy.	contradiction
+A 6620 g iron is heavy. A 4400 g iron is light.	A 6953 g iron is heavy.	entailment
+A 6620 g iron is heavy. A 4400 g iron is light.	A 7064 g iron is heavy.	entailment
+A 6620 g iron is heavy. A 4400 g iron is light.	A 3512 g iron is light.	entailment
+A 6620 g iron is heavy. A 4400 g iron is light.	A 4067 g iron is light.	entailment
+A 6620 g iron is heavy. A 4400 g iron is light.	A 4289 g iron is light.	entailment
+A 6620 g iron is heavy. A 4400 g iron is light.	A 4400 g iron is light.	entailment
+A 6620 g iron is heavy. A 4400 g iron is light.	A 6620 g iron is light.	contradiction
+A 6620 g iron is heavy. A 4400 g iron is light.	A 7175 g iron is light.	contradiction
+A 70 kg plant is heavy. A 30 kg plant is light.	A 12 kg plant is heavy.	contradiction
+A 70 kg plant is heavy. A 30 kg plant is light.	A 14 kg plant is heavy.	contradiction
+A 70 kg plant is heavy. A 30 kg plant is light.	A 18 kg plant is heavy.	contradiction
+A 70 kg plant is heavy. A 30 kg plant is light.	A 28 kg plant is heavy.	contradiction
+A 70 kg plant is heavy. A 30 kg plant is light.	A 72 kg plant is heavy.	entailment
+A 70 kg plant is heavy. A 30 kg plant is light.	A 74 kg plant is heavy.	entailment
+A 70 kg plant is heavy. A 30 kg plant is light.	A 78 kg plant is heavy.	entailment
+A 70 kg plant is heavy. A 30 kg plant is light.	A 12 kg plant is light.	entailment
+A 70 kg plant is heavy. A 30 kg plant is light.	A 24 kg plant is light.	entailment
+A 70 kg plant is heavy. A 30 kg plant is light.	A 84 kg plant is light.	contradiction
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 398 kg buffalo is heavy.	contradiction
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 422 kg buffalo is heavy.	contradiction
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 710 kg buffalo is heavy.	entailment
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 794 kg buffalo is heavy.	entailment
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 362 kg buffalo is light.	entailment
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 422 kg buffalo is light.	entailment
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 458 kg buffalo is light.	entailment
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 722 kg buffalo is light.	contradiction
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 794 kg buffalo is light.	contradiction
+A 710 kg buffalo is heavy. A 470 kg buffalo is light.	A 806 kg buffalo is light.	contradiction
+A 420 g beer is heavy. A 280 g beer is light.	A 259 g beer is heavy.	contradiction
+A 420 g beer is heavy. A 280 g beer is light.	A 427 g beer is heavy.	entailment
+A 420 g beer is heavy. A 280 g beer is light.	A 476 g beer is heavy.	entailment
+A 420 g beer is heavy. A 280 g beer is light.	A 273 g beer is light.	entailment
+A 420 g beer is heavy. A 280 g beer is light.	A 280 g beer is light.	entailment
+A 420 g beer is heavy. A 280 g beer is light.	A 420 g beer is light.	contradiction
+A 420 g beer is heavy. A 280 g beer is light.	A 448 g beer is light.	contradiction
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 620 g pillow is heavy.	contradiction
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 760 g pillow is heavy.	contradiction
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1340 g pillow is heavy.	entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 780 g pillow is light.	entailment
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1320 g pillow is light.	contradiction
+A 1200 g pillow is heavy. A 800 g pillow is light.	A 1360 g pillow is light.	contradiction
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 8 kg eagle is heavy.	contradiction
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 18 kg eagle is heavy.	contradiction
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 20 kg eagle is heavy.	contradiction
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 60 kg eagle is heavy.	entailment
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 74 kg eagle is heavy.	entailment
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 76 kg eagle is heavy.	entailment
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 2 kg eagle is light.	entailment
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 8 kg eagle is light.	entailment
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 14 kg eagle is light.	entailment
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 16 kg eagle is light.	entailment
+A 60 kg eagle is heavy. A 20 kg eagle is light.	A 66 kg eagle is light.	contradiction
+A 4910 g fox is heavy. A 3270 g fox is light.	A 2614 g fox is heavy.	contradiction
+A 4910 g fox is heavy. A 3270 g fox is light.	A 4910 g fox is heavy.	entailment
+A 4910 g fox is heavy. A 3270 g fox is light.	A 5074 g fox is heavy.	entailment
+A 4910 g fox is heavy. A 3270 g fox is light.	A 5566 g fox is heavy.	entailment
+A 4910 g fox is heavy. A 3270 g fox is light.	A 3270 g fox is light.	entailment
+A 4910 g fox is heavy. A 3270 g fox is light.	A 4910 g fox is light.	contradiction
+A 4910 g fox is heavy. A 3270 g fox is light.	A 5484 g fox is light.	contradiction
+A 1650 kg bear is heavy. A 1090 kg bear is light.	A 922 kg bear is heavy.	contradiction
+A 1650 kg bear is heavy. A 1090 kg bear is light.	A 1090 kg bear is heavy.	contradiction
+A 1650 kg bear is heavy. A 1090 kg bear is light.	A 1762 kg bear is heavy.	entailment
+A 1650 kg bear is heavy. A 1090 kg bear is light.	A 838 kg bear is light.	entailment
+A 1650 kg bear is heavy. A 1090 kg bear is light.	A 894 kg bear is light.	entailment
+A 1650 kg bear is heavy. A 1090 kg bear is light.	A 1818 kg bear is light.	contradiction
+A 1650 kg bear is heavy. A 1090 kg bear is light.	A 1874 kg bear is light.	contradiction
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 1716 g laptop is heavy.	contradiction
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 2640 g laptop is heavy.	entailment
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 2860 g laptop is heavy.	entailment
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 1408 g laptop is light.	entailment
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 1496 g laptop is light.	entailment
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 1540 g laptop is light.	entailment
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 2728 g laptop is light.	contradiction
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 2816 g laptop is light.	contradiction
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 2860 g laptop is light.	contradiction
+A 2640 g laptop is heavy. A 1760 g laptop is light.	A 3036 g laptop is light.	contradiction
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 4892 g kitty is heavy.	contradiction
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 5166 g kitty is heavy.	contradiction
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 8180 g kitty is heavy.	entailment
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 8317 g kitty is heavy.	entailment
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 8728 g kitty is heavy.	entailment
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 9139 g kitty is heavy.	entailment
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 4481 g kitty is light.	entailment
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 5029 g kitty is light.	entailment
+A 8180 g kitty is heavy. A 5440 g kitty is light.	A 8728 g kitty is light.	contradiction
+A 90 kg beast is heavy. A 50 kg beast is light.	A 40 kg beast is heavy.	contradiction
+A 90 kg beast is heavy. A 50 kg beast is light.	A 92 kg beast is heavy.	entailment
+A 90 kg beast is heavy. A 50 kg beast is light.	A 42 kg beast is light.	entailment
+A 90 kg beast is heavy. A 50 kg beast is light.	A 48 kg beast is light.	entailment
+A 90 kg beast is heavy. A 50 kg beast is light.	A 50 kg beast is light.	entailment
+A 90 kg beast is heavy. A 50 kg beast is light.	A 92 kg beast is light.	contradiction
+A 90 kg beast is heavy. A 50 kg beast is light.	A 96 kg beast is light.	contradiction
+A 90 kg beast is heavy. A 50 kg beast is light.	A 98 kg beast is light.	contradiction
+A 3600 g infant is heavy. A 2400 g infant is light.	A 1860 g infant is heavy.	contradiction
+A 3600 g infant is heavy. A 2400 g infant is light.	A 1980 g infant is heavy.	contradiction
+A 3600 g infant is heavy. A 2400 g infant is light.	A 2220 g infant is heavy.	contradiction
+A 3600 g infant is heavy. A 2400 g infant is light.	A 3660 g infant is heavy.	entailment
+A 3600 g infant is heavy. A 2400 g infant is light.	A 3780 g infant is heavy.	entailment
+A 3600 g infant is heavy. A 2400 g infant is light.	A 1980 g infant is light.	entailment
+A 3600 g infant is heavy. A 2400 g infant is light.	A 2400 g infant is light.	entailment
+A 3600 g infant is heavy. A 2400 g infant is light.	A 3960 g infant is light.	contradiction
+A 3820 g box is heavy. A 2540 g box is light.	A 2156 g box is heavy.	contradiction
+A 3820 g box is heavy. A 2540 g box is light.	A 4012 g box is heavy.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 4204 g box is heavy.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 4268 g box is heavy.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 1964 g box is light.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 2028 g box is light.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 2284 g box is light.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 2348 g box is light.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 2540 g box is light.	entailment
+A 3820 g box is heavy. A 2540 g box is light.	A 4076 g box is light.	contradiction
+A 3820 g box is heavy. A 2540 g box is light.	A 4332 g box is light.	contradiction
+A 3820 g box is heavy. A 2540 g box is light.	A 4396 g box is light.	contradiction
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 2108 g bicycle is heavy.	contradiction
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 2652 g bicycle is heavy.	contradiction
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 4080 g bicycle is heavy.	entailment
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 4284 g bicycle is heavy.	entailment
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 4488 g bicycle is heavy.	entailment
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 2176 g bicycle is light.	entailment
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 2244 g bicycle is light.	entailment
+A 4080 g bicycle is heavy. A 2720 g bicycle is light.	A 2380 g bicycle is light.	entailment
+A 230 g oil is heavy. A 150 g oil is light.	A 130 g oil is heavy.	contradiction
+A 230 g oil is heavy. A 150 g oil is light.	A 146 g oil is heavy.	contradiction
+A 230 g oil is heavy. A 150 g oil is light.	A 150 g oil is heavy.	contradiction
+A 230 g oil is heavy. A 150 g oil is light.	A 122 g oil is light.	entailment
+A 230 g oil is heavy. A 150 g oil is light.	A 130 g oil is light.	entailment
+A 230 g oil is heavy. A 150 g oil is light.	A 134 g oil is light.	entailment
+A 230 g oil is heavy. A 150 g oil is light.	A 150 g oil is light.	entailment
+A 230 g oil is heavy. A 150 g oil is light.	A 234 g oil is light.	contradiction
+A 230 g oil is heavy. A 150 g oil is light.	A 238 g oil is light.	contradiction
+A 230 g oil is heavy. A 150 g oil is light.	A 262 g oil is light.	contradiction
+A 1650 g tail is heavy. A 1090 g tail is light.	A 838 g tail is heavy.	contradiction
+A 1650 g tail is heavy. A 1090 g tail is light.	A 1006 g tail is heavy.	contradiction
+A 1650 g tail is heavy. A 1090 g tail is light.	A 1762 g tail is heavy.	entailment
+A 1650 g tail is heavy. A 1090 g tail is light.	A 894 g tail is light.	entailment
+A 1650 g tail is heavy. A 1090 g tail is light.	A 978 g tail is light.	entailment
+A 1650 g tail is heavy. A 1090 g tail is light.	A 1762 g tail is light.	contradiction
+A 1650 g tail is heavy. A 1090 g tail is light.	A 1846 g tail is light.	contradiction
+A 1100 g pack is heavy. A 720 g pack is light.	A 644 g pack is heavy.	contradiction
+A 1100 g pack is heavy. A 720 g pack is light.	A 663 g pack is heavy.	contradiction
+A 1100 g pack is heavy. A 720 g pack is light.	A 1138 g pack is heavy.	entailment
+A 1100 g pack is heavy. A 720 g pack is light.	A 1157 g pack is light.	contradiction
+A 1100 g pack is heavy. A 720 g pack is light.	A 1176 g pack is light.	contradiction
+A 91°C dust is fresh. A 51°C dust is salty.	A 43°C dust is fresh.	neutral
+A 91°C dust is fresh. A 51°C dust is salty.	A 49°C dust is fresh.	neutral
+A 91°C dust is fresh. A 51°C dust is salty.	A 95°C dust is fresh.	neutral
+A 91°C dust is fresh. A 51°C dust is salty.	A 103°C dust is fresh.	neutral
+A 91°C dust is fresh. A 51°C dust is salty.	A 109°C dust is fresh.	neutral
+A 91°C dust is fresh. A 51°C dust is salty.	A 103°C dust is salty.	neutral
+A 116°C sauce is basic. A 76°C sauce is incidental.	A 58°C sauce is basic.	neutral
+A 116°C sauce is basic. A 76°C sauce is incidental.	A 122°C sauce is basic.	neutral
+A 116°C sauce is basic. A 76°C sauce is incidental.	A 130°C sauce is basic.	neutral
+A 116°C sauce is basic. A 76°C sauce is incidental.	A 132°C sauce is incidental.	neutral
+A 80°C mixture is smooth. A 40°C mixture is rough.	A 88°C mixture is smooth.	neutral
+A 80°C mixture is smooth. A 40°C mixture is rough.	A 90°C mixture is smooth.	neutral
+A 80°C mixture is smooth. A 40°C mixture is rough.	A 26°C mixture is rough.	neutral
+A 80°C mixture is smooth. A 40°C mixture is rough.	A 30°C mixture is rough.	neutral
+A 80°C mixture is smooth. A 40°C mixture is rough.	A 36°C mixture is rough.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 76°C oil is still.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 128°C oil is still.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 138°C oil is still.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 68°C oil is moving.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 78°C oil is moving.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 122°C oil is moving.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 134°C oil is moving.	neutral
+A 120°C oil is still. A 80°C oil is moving.	A 136°C oil is moving.	neutral
+A 72°C pizza is good. A 32°C pizza is bad.	A 18°C pizza is good.	neutral
+A 72°C pizza is good. A 32°C pizza is bad.	A 30°C pizza is good.	neutral
+A 72°C pizza is good. A 32°C pizza is bad.	A 24°C pizza is bad.	neutral
+A 72°C pizza is good. A 32°C pizza is bad.	A 72°C pizza is bad.	neutral
+A 72°C pizza is good. A 32°C pizza is bad.	A 80°C pizza is bad.	neutral
+A 72°C pizza is good. A 32°C pizza is bad.	A 84°C pizza is bad.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 52°C pork is tender.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 54°C pork is tender.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 56°C pork is tender.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 110°C pork is tender.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 118°C pork is tender.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 56°C pork is tough.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 60°C pork is tough.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 62°C pork is tough.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 64°C pork is tough.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 120°C pork is tough.	neutral
+A 108°C pork is tender. A 68°C pork is tough.	A 124°C pork is tough.	neutral
+A 107°C cup is full. A 67°C cup is empty.	A 65°C cup is full.	neutral
+A 740 cm fountain is visible. A 480 cm fountain is invisible.	A 441 cm fountain is visible.	neutral
+A 740 cm fountain is visible. A 480 cm fountain is invisible.	A 805 cm fountain is visible.	neutral
+A 740 cm fountain is visible. A 480 cm fountain is invisible.	A 415 cm fountain is invisible.	neutral
+A 740 cm fountain is visible. A 480 cm fountain is invisible.	A 467 cm fountain is invisible.	neutral
+A 740 cm fountain is visible. A 480 cm fountain is invisible.	A 740 cm fountain is invisible.	neutral
+A 1200 m bank is independent. A 800 m bank is dependent.	A 740 m bank is independent.	neutral
+A 1200 m bank is independent. A 800 m bank is dependent.	A 760 m bank is independent.	neutral
+A 1200 m bank is independent. A 800 m bank is dependent.	A 1360 m bank is independent.	neutral
+A 1200 m bank is independent. A 800 m bank is dependent.	A 700 m bank is dependent.	neutral
+A 1200 m bank is independent. A 800 m bank is dependent.	A 740 m bank is dependent.	neutral
+A 1200 m bank is independent. A 800 m bank is dependent.	A 1320 m bank is dependent.	neutral
+A 110 cm coat is white. A 70 cm coat is black.	A 56 cm coat is white.	neutral
+A 110 cm coat is white. A 70 cm coat is black.	A 58 cm coat is white.	neutral
+A 110 cm coat is white. A 70 cm coat is black.	A 64 cm coat is white.	neutral
+A 110 cm coat is white. A 70 cm coat is black.	A 52 cm coat is black.	neutral
+A 110 cm coat is white. A 70 cm coat is black.	A 60 cm coat is black.	neutral
+A 110 cm coat is white. A 70 cm coat is black.	A 124 cm coat is black.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 64 cm beaver is good.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 66 cm beaver is good.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 128 cm beaver is good.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 138 cm beaver is good.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 66 cm beaver is bad.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 70 cm beaver is bad.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 80 cm beaver is bad.	neutral
+A 120 cm beaver is good. A 80 cm beaver is bad.	A 136 cm beaver is bad.	neutral
+A 3380 m mall is busy. A 2240 m mall is idle.	A 3437 m mall is busy.	neutral
+A 3380 m mall is busy. A 2240 m mall is idle.	A 3608 m mall is busy.	neutral
+A 3380 m mall is busy. A 2240 m mall is idle.	A 3893 m mall is busy.	neutral
+A 3380 m mall is busy. A 2240 m mall is idle.	A 1841 m mall is idle.	neutral
+A 3380 m mall is busy. A 2240 m mall is idle.	A 2069 m mall is idle.	neutral
+A 3380 m mall is busy. A 2240 m mall is idle.	A 3779 m mall is idle.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 186 cm sculpture is abstract.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 198 cm sculpture is abstract.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 366 cm sculpture is abstract.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 396 cm sculpture is abstract.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 408 cm sculpture is abstract.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 210 cm sculpture is concrete.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 222 cm sculpture is concrete.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 378 cm sculpture is concrete.	neutral
+A 360 cm sculpture is abstract. A 240 cm sculpture is concrete.	A 414 cm sculpture is concrete.	neutral
+A 4800 m river is still. A 3200 m river is moving.	A 2880 m river is still.	neutral
+A 4800 m river is still. A 3200 m river is moving.	A 3120 m river is still.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 56 kg jaguar is new.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 114 kg jaguar is new.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 116 kg jaguar is new.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 54 kg jaguar is old.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 62 kg jaguar is old.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 112 kg jaguar is old.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 118 kg jaguar is old.	neutral
+A 110 kg jaguar is new. A 70 kg jaguar is old.	A 128 kg jaguar is old.	neutral
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 978 g pizza is good.	neutral
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1846 g pizza is good.	neutral
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1090 g pizza is bad.	neutral
+A 1650 g pizza is good. A 1090 g pizza is bad.	A 1902 g pizza is bad.	neutral
+A 70 kg plant is mature. A 30 kg plant is green.	A 26 kg plant is mature.	neutral
+A 70 kg plant is mature. A 30 kg plant is green.	A 70 kg plant is mature.	neutral
+A 70 kg plant is mature. A 30 kg plant is green.	A 76 kg plant is mature.	neutral
+A 70 kg plant is mature. A 30 kg plant is green.	A 24 kg plant is green.	neutral
+A 70 kg plant is mature. A 30 kg plant is green.	A 86 kg plant is green.	neutral
+A 70 kg plant is mature. A 30 kg plant is green.	A 88 kg plant is green.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 135 kg tiger is young.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 155 kg tiger is young.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 275 kg tiger is young.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 305 kg tiger is young.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 310 kg tiger is young.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 315 kg tiger is young.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 145 kg tiger is old.	neutral
+A 270 kg tiger is young. A 170 kg tiger is old.	A 280 kg tiger is old.	neutral
+A 230 g oil is still. A 150 g oil is moving.	A 118 g oil is still.	neutral
+A 230 g oil is still. A 150 g oil is moving.	A 238 g oil is still.	neutral
+A 230 g oil is still. A 150 g oil is moving.	A 246 g oil is still.	neutral
+A 230 g oil is still. A 150 g oil is moving.	A 250 g oil is still.	neutral
+A 230 g oil is still. A 150 g oil is moving.	A 134 g oil is moving.	neutral
+A 230 g oil is still. A 150 g oil is moving.	A 258 g oil is moving.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 22 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 24 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 30 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 34 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 84 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 92 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 96 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 98 g blackberry is common.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 30 g blackberry is individual.	neutral
+A 80 g blackberry is common. A 40 g blackberry is individual.	A 36 g blackberry is individual.	neutral
+A 7200 g monkey is happy. A 4800 g monkey is unhappy.	A 4560 g monkey is happy.	neutral
+A 200°C gas is hot. A 120°C gas is cold.	A 88°C coal is hot.	neutral
+A 200°C gas is hot. A 120°C gas is cold.	A 232°C coal is hot.	neutral
+A 200°C gas is hot. A 120°C gas is cold.	A 84°C coal is cold.	neutral
+A 200°C gas is hot. A 120°C gas is cold.	A 92°C coal is cold.	neutral
+A 200°C gas is hot. A 120°C gas is cold.	A 100°C coal is cold.	neutral
+A 200°C gas is hot. A 120°C gas is cold.	A 200°C coal is cold.	neutral
+A 200°C gas is hot. A 120°C gas is cold.	A 220°C coal is cold.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 100°C coal is hot.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 104°C coal is hot.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 124°C coal is hot.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 128°C coal is hot.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 224°C coal is hot.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 248°C coal is hot.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 252°C coal is hot.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 112°C coal is cold.	neutral
+A 216°C dish is hot. A 136°C dish is cold.	A 228°C coal is cold.	neutral
+A 91°C meat is hot. A 51°C meat is cold.	A 37°C bacon is hot.	neutral
+A 91°C meat is hot. A 51°C meat is cold.	A 109°C bacon is hot.	neutral
+A 91°C meat is hot. A 51°C meat is cold.	A 33°C bacon is cold.	neutral
+A 91°C meat is hot. A 51°C meat is cold.	A 97°C bacon is cold.	neutral
+A 91°C meat is hot. A 51°C meat is cold.	A 101°C bacon is cold.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 76°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 79°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 85°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 88°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 97°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 160°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 172°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 187°C coal is hot.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 91°C coal is cold.	neutral
+A 160°C pie is hot. A 100°C pie is cold.	A 175°C coal is cold.	neutral
+A 101°C salt is hot. A 61°C salt is cold.	A 117°C smoke is hot.	neutral
+A 101°C salt is hot. A 61°C salt is cold.	A 51°C smoke is cold.	neutral
+A 101°C salt is hot. A 61°C salt is cold.	A 61°C smoke is cold.	neutral
+A 101°C salt is hot. A 61°C salt is cold.	A 103°C smoke is cold.	neutral
+A 101°C salt is hot. A 61°C salt is cold.	A 109°C smoke is cold.	neutral
+A 101°C salt is hot. A 61°C salt is cold.	A 111°C smoke is cold.	neutral
+A 101°C salt is hot. A 61°C salt is cold.	A 115°C smoke is cold.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 89°C oven is hot.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 91°C oven is hot.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 93°C oven is hot.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 21°C oven is cold.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 29°C oven is cold.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 33°C oven is cold.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 81°C oven is cold.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 83°C oven is cold.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 87°C oven is cold.	neutral
+A 77°C mug is hot. A 37°C mug is cold.	A 93°C oven is cold.	neutral
+A 97°C stream is hot. A 57°C stream is cold.	A 55°C smoke is hot.	neutral
+A 1200 m bank is tall. A 800 m bank is short.	A 660 m fort is tall.	neutral
+A 1200 m bank is tall. A 800 m bank is short.	A 720 m fort is tall.	neutral
+A 1200 m bank is tall. A 800 m bank is short.	A 760 m fort is tall.	neutral
+A 1200 m bank is tall. A 800 m bank is short.	A 740 m fort is short.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 62 cm jaguar is long.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 80 cm jaguar is long.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 120 cm jaguar is long.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 122 cm jaguar is long.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 124 cm jaguar is long.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 128 cm jaguar is long.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 134 cm jaguar is long.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 70 cm jaguar is short.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 76 cm jaguar is short.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 78 cm jaguar is short.	neutral
+A 120 cm leg is long. A 80 cm leg is short.	A 126 cm jaguar is short.	neutral
+A 340 m dam is tall. A 220 m dam is short.	A 358 m fort is tall.	neutral
+A 340 m dam is tall. A 220 m dam is short.	A 382 m fort is tall.	neutral
+A 340 m dam is tall. A 220 m dam is short.	A 172 m fort is short.	neutral
+A 340 m dam is tall. A 220 m dam is short.	A 196 m fort is short.	neutral
+A 340 m dam is tall. A 220 m dam is short.	A 220 m fort is short.	neutral
+A 340 m dam is tall. A 220 m dam is short.	A 376 m fort is short.	neutral
+A 340 m dam is tall. A 220 m dam is short.	A 394 m fort is short.	neutral
+A 90 cm plant is tall. A 50 cm plant is short.	A 40 cm lady is tall.	neutral
+A 90 cm plant is tall. A 50 cm plant is short.	A 44 cm lady is tall.	neutral
+A 90 cm plant is tall. A 50 cm plant is short.	A 98 cm lady is tall.	neutral
+A 90 cm plant is tall. A 50 cm plant is short.	A 46 cm lady is short.	neutral
+A 90 cm plant is tall. A 50 cm plant is short.	A 100 cm lady is short.	neutral
+A 120 cm oak is tall. A 80 cm oak is short.	A 66 cm structure is tall.	neutral
+A 120 cm oak is tall. A 80 cm oak is short.	A 138 cm structure is tall.	neutral
+A 120 cm oak is tall. A 80 cm oak is short.	A 66 cm structure is short.	neutral
+A 120 cm oak is tall. A 80 cm oak is short.	A 120 cm structure is short.	neutral
+A 1200 m hill is tall. A 800 m hill is short.	A 1220 m mountain is tall.	neutral
+A 1200 m hill is tall. A 800 m hill is short.	A 720 m mountain is short.	neutral
+A 1200 m hill is tall. A 800 m hill is short.	A 780 m mountain is short.	neutral
+A 1200 m hill is tall. A 800 m hill is short.	A 1200 m mountain is short.	neutral
+A 1200 m hill is tall. A 800 m hill is short.	A 1320 m mountain is short.	neutral
+A 1200 m hill is tall. A 800 m hill is short.	A 1360 m mountain is short.	neutral
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 68 cm creature is tall.	neutral
+A 120 cm beaver is tall. A 80 cm beaver is short.	A 74 cm creature is tall.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 2208 g cat is heavy.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 2760 g cat is heavy.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 4140 g cat is heavy.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 4347 g cat is heavy.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 4692 g cat is heavy.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 2277 g cat is light.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 2553 g cat is light.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 4140 g cat is light.	neutral
+A 4140 g guitar is heavy. A 2760 g guitar is light.	A 4416 g cat is light.	neutral
+A 3820 g cod is heavy. A 2540 g cod is light.	A 1964 g basket is heavy.	neutral
+A 3820 g cod is heavy. A 2540 g cod is light.	A 2156 g basket is heavy.	neutral
+A 3820 g cod is heavy. A 2540 g cod is light.	A 3948 g basket is heavy.	neutral
+A 3820 g cod is heavy. A 2540 g cod is light.	A 4140 g basket is heavy.	neutral
+A 3820 g cod is heavy. A 2540 g cod is light.	A 2412 g basket is light.	neutral
+A 3820 g cod is heavy. A 2540 g cod is light.	A 3820 g basket is light.	neutral
+A 3820 g cod is heavy. A 2540 g cod is light.	A 4396 g basket is light.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 974 g basket is heavy.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 1000 g basket is heavy.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 1624 g basket is heavy.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 1650 g basket is heavy.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 870 g basket is light.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 1546 g basket is light.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 1572 g basket is light.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 1598 g basket is light.	neutral
+A 1520 g mirror is heavy. A 1000 g mirror is light.	A 1754 g basket is light.	neutral
+A 240 g goat is heavy. A 160 g goat is light.	A 152 g walnut is heavy.	neutral
+A 240 g goat is heavy. A 160 g goat is light.	A 264 g walnut is heavy.	neutral
+A 240 g goat is heavy. A 160 g goat is light.	A 268 g walnut is heavy.	neutral
+A 240 g goat is heavy. A 160 g goat is light.	A 132 g walnut is light.	neutral
+A 240 g goat is heavy. A 160 g goat is light.	A 140 g walnut is light.	neutral
+A 240 g goat is heavy. A 160 g goat is light.	A 156 g walnut is light.	neutral
+A 240 g goat is heavy. A 160 g goat is light.	A 160 g walnut is light.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 768 kg sculpture is heavy.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 792 kg sculpture is heavy.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 888 kg sculpture is heavy.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 1512 kg sculpture is heavy.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 1608 kg sculpture is heavy.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 1632 kg sculpture is heavy.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 744 kg sculpture is light.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 960 kg sculpture is light.	neutral
+A 1440 kg elephant is heavy. A 960 kg elephant is light.	A 1536 kg sculpture is light.	neutral
+A 3600 g infant is heavy. A 2400 g infant is light.	A 2040 g bicycle is heavy.	neutral
+A 3600 g infant is heavy. A 2400 g infant is light.	A 3600 g bicycle is heavy.	neutral
+A 3600 g infant is heavy. A 2400 g infant is light.	A 3720 g bicycle is heavy.	neutral
+A 3600 g infant is heavy. A 2400 g infant is light.	A 2100 g bicycle is light.	neutral
+A 3600 g infant is heavy. A 2400 g infant is light.	A 2160 g bicycle is light.	neutral
+A 4910 g fox is heavy. A 3270 g fox is light.	A 2778 g cat is heavy.	neutral
+A 4910 g fox is heavy. A 3270 g fox is light.	A 2942 g cat is heavy.	neutral
