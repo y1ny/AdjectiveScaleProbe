@@ -5,7 +5,7 @@ Directory `data` contains the NLI-style samples used in the paper.
 
 Each sample is formulated as :
 
-premise	hypothesis	label
+`premise	hypothesis	label`
 
 see detailed descriptions in `data/readme.md`
 
