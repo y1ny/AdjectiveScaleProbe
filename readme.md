@@ -13,7 +13,7 @@ see detailed descriptions in data/readme.md
 
 Code for fine-tuning pre-trained models on the MNLI/ASP.
 
-Training codes are forked from: https://github.com/huggingface/transformers/tree/main/examples/pytorch/text-classification
+Training codes are forked from [Transformers](https://github.com/huggingface/transformers/tree/main/examples/pytorch/text-classification)
 
 Run `bash run.sh`  to fine-tuning pre-trained models on the ASP.
 
@@ -31,7 +31,7 @@ Run `python NLI_ASP.py` to test the MNLI models on the ASP.
 
 Run `python zs_ASP.py` to test the zero-shot models on the ASP.
 
-`zs_ASP.py` is forked from https://github.com/bigscience-workshop/t-zero/tree/master/evaluation
+`zs_ASP.py` is forked from [T-zero](https://github.com/bigscience-workshop/t-zero/tree/master/evaluation)
 
 
 
