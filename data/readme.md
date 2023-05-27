@@ -1,7 +1,7 @@
 # Entailment Inference
 Samples of the entailment inference task.
 
-Each test contains **1000** NLI samples.
+Each test contains **1000** NLI samples. All samples are formulated as \<premise    hypothesis   label\>
 
 # Degree Estimation
 Samples of the degree estimation task.
