@@ -1,17 +1,16 @@
-This code for the paper: "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?", presented at AAAI 2023 (oral). See [the paper](https://y1ny.github.io/assets/AAAI2023_ASP_paper.pdf) and [corresponding slides](https://y1ny.github.io/assets/AAAI2023_ASP_slides.pdf).
+This code for the paper: "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?", presented at AAAI 2023 (oral). See [the paper](https://y1ny.github.io/assets/AAAI2023_ASP_paper.pdf) and [corresponding slides](https://y1ny.github.io/assets/AAAI2023_ASP_slides.pdf). The appendix file is coming soon.
 
 # Data
-Directory data contains the NLI-style samples used in the paper.
+Directory `data` contains the NLI-style samples used in the paper.
 
 Each sample is formulated as :
 
 premise	hypothesis	label
 
-see detailed descriptions in data/readme.md
+see detailed descriptions in `data/readme.md`
 
 # Training
-
-Code for fine-tuning pre-trained models on the MNLI/ASP.
+Directory `training` contains the code for fine-tuning pre-trained models on the MNLI or the our **Adjective Scale Probe (ASP)** dataset.
 
 Training codes are forked from [Transformers](https://github.com/huggingface/transformers/tree/main/examples/pytorch/text-classification)
 
@@ -19,11 +18,9 @@ Run `bash run.sh`  to fine-tuning pre-trained models on the ASP.
 
 Change the configuration of `run.sh` to reproduce other fine-tuning procedures.
 
-
-
 # Evaluation
 
-Code for evaluating the models on the ASP.
+Directory `evaluation` contains the code for evaluating the models on the ASP.
 
 Run `bash evaluation.sh` to test the ASP models on the leaveout testing sets.
 
@@ -36,6 +33,7 @@ Run `python zs_ASP.py` to test the zero-shot models on the ASP.
 
 
 # Human
+Directory `human` contains the questions and results for the human experiment.
 
 `cloze_sample.csv`: Cloze-style questions for human annotations. We change the unit to United States customary units, since all annotators are American.
 
@@ -45,8 +43,8 @@ Directory `pkl`: processed human results for most tests of the degree estimation
 
 # Plot
 
-Codes for analysis the performance of models, and visualization.
+Directory `plot` contains the code for analysis the performance of models, and visualization.
 
 Run the code in the `plot` after **evaluation**.
 
-To measure the performance on the degree estimation task, we use the function `compute_metrics`. Apart from accuracy we used in the paper, we also provide multiple metrics, such as mse and pearson correlation. 
+To measure the performance on the degree estimation task, we use the function `compute_metrics`. Apart from accuracy we used in the paper, we also provide multiple metrics, such as `mse` and `pearson correlation`. 
