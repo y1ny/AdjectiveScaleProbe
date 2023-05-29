@@ -31,9 +31,9 @@ Run `python zs_ASP.py` to test the zero-shot models on the ASP.
 # Human
 Directory `human` contains the questions and results for the human experiment.
 
-`cloze_sample.csv`: Cloze-style questions for human annotations. We change the unit to United States customary units, since all annotators are American.
+`cloze.csv`: Cloze-style questions for human annotations. We change the unit to United States customary units, since all annotators are American.
 
-`result.csv`: Annotation results of human.
+`result.csv`: Raw results of human.
 
 Directory `pkl`: processed human results for most tests of the degree estimation task.
 
