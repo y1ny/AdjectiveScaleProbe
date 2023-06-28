@@ -1,4 +1,4 @@
-This code for the paper: "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?", presented at AAAI 2023 (oral). See [the paper](https://y1ny.github.io/assets/AAAI2023_ASP_paper.pdf), [the corresponding slides](https://y1ny.github.io/assets/AAAI2023_ASP_slides.pdf) and the appendix file (coming soon).
+This code for the paper: "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?", presented at AAAI 2023 (oral). See [the paper](https://ojs.aaai.org/index.php/AAAI/article/view/26559/26331), [the corresponding slides](https://y1ny.github.io/assets/AAAI2023_ASP_slides.pdf) and the appendix file (coming soon).
 
 # Data
 Directory `data` contains the NLI-style samples used in the paper.
@@ -44,3 +44,17 @@ Directory `plot` contains the code for analysis the performance of models, and v
 Run the code in the `plot` after **evaluation**.
 
 To measure the performance on the degree estimation task, we use the function `compute_metrics`. Apart from accuracy we used in the paper, we also provide multiple metrics, such as `mse` and `pearson correlation`. 
+
+# How to cite
+If you make use of the code in this repository, please cite the following papers:
+
+```
+@article{Liu_Xiang_Ding_2023,
+  title={Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?},
+  author={Liu, Wei and Xiang, Ming and Ding, Nai},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37}, number={11}, pages={13282-13290},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/26559},
+  month={Jun.}, year={2023}, 
+}
+```
