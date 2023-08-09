@@ -37,14 +37,6 @@ Directory `human` contains the questions and results for the human experiment.
 
 Directory `pkl`: processed human results for most tests of the degree estimation task.
 
-# Plot
-
-Directory `plot` contains the code for analysis the performance of models, and visualization.
-
-Run the code in the `plot` after **evaluation**.
-
-To measure the performance on the degree estimation task, we use the function `compute_metrics`. Apart from accuracy we used in the paper, we also provide multiple metrics, such as `mse` and `pearson correlation`. 
-
 # How to cite
 If you make use of the code in this repository, please cite the following papers:
 
